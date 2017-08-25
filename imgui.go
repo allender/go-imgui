@@ -1826,28 +1826,26 @@ import "unsafe"
 import _ "runtime/cgo"
 import "sync"
 
-
 type _ unsafe.Pointer
-
-
 
 var Swig_escape_always_false bool
 var Swig_escape_val interface{}
 
-
 type _swig_fnptr *byte
 type _swig_memberptr *byte
 
-
 type _ sync.Mutex
 
+type swig_gostring struct {
+	p uintptr
+	n int
+}
 
-type swig_gostring struct { p uintptr; n int }
 func swigCopyString(s string) string {
-  p := *(*swig_gostring)(unsafe.Pointer(&s))
-  r := string((*[0x7fffffff]byte)(unsafe.Pointer(p.p))[:p.n])
-  Swig_free(p.p)
-  return r
+	p := *(*swig_gostring)(unsafe.Pointer(&s))
+	r := string((*[0x7fffffff]byte)(unsafe.Pointer(p.p))[:p.n])
+	Swig_free(p.p)
+	return r
 }
 
 func Swig_free(arg1 uintptr) {
@@ -1863,6 +1861,7 @@ func Swig_malloc(arg1 int) (_swig_ret uintptr) {
 }
 
 const IMGUI_VERSION string = "1.51"
+
 type SwigcptrImVec2 uintptr
 
 func (p SwigcptrImVec2) Swigcptr() uintptr {
@@ -8584,7 +8583,7 @@ func GetStyleColorName(arg1 int) (_swig_ret string) {
 	swig_r_p := C._wrap_GetStyleColorName_imgui_4778b1b319b813b6(C.swig_intgo(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -9070,7 +9069,7 @@ func GetClipboardText() (_swig_ret string) {
 	swig_r_p := C._wrap_GetClipboardText_imgui_4778b1b319b813b6()
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -9087,7 +9086,7 @@ func GetVersion() (_swig_ret string) {
 	swig_r_p := C._wrap_GetVersion_imgui_4778b1b319b813b6()
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -9283,6 +9282,7 @@ func IsRectClipped(arg1 ImVec2) (_swig_ret bool) {
 }
 
 type ImGuiWindowFlags_ int
+
 func _swig_getImGuiWindowFlags_NoTitleBar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoTitleBar_imgui_4778b1b319b813b6())
@@ -9290,6 +9290,7 @@ func _swig_getImGuiWindowFlags_NoTitleBar() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoTitleBar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoTitleBar()
+
 func _swig_getImGuiWindowFlags_NoResize() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoResize_imgui_4778b1b319b813b6())
@@ -9297,6 +9298,7 @@ func _swig_getImGuiWindowFlags_NoResize() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoResize ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoResize()
+
 func _swig_getImGuiWindowFlags_NoMove() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoMove_imgui_4778b1b319b813b6())
@@ -9304,6 +9306,7 @@ func _swig_getImGuiWindowFlags_NoMove() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoMove ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoMove()
+
 func _swig_getImGuiWindowFlags_NoScrollbar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoScrollbar_imgui_4778b1b319b813b6())
@@ -9311,6 +9314,7 @@ func _swig_getImGuiWindowFlags_NoScrollbar() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoScrollbar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoScrollbar()
+
 func _swig_getImGuiWindowFlags_NoScrollWithMouse() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoScrollWithMouse_imgui_4778b1b319b813b6())
@@ -9318,6 +9322,7 @@ func _swig_getImGuiWindowFlags_NoScrollWithMouse() (_swig_ret ImGuiWindowFlags_)
 }
 
 var ImGuiWindowFlags_NoScrollWithMouse ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoScrollWithMouse()
+
 func _swig_getImGuiWindowFlags_NoCollapse() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoCollapse_imgui_4778b1b319b813b6())
@@ -9325,6 +9330,7 @@ func _swig_getImGuiWindowFlags_NoCollapse() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoCollapse ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoCollapse()
+
 func _swig_getImGuiWindowFlags_AlwaysAutoResize() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_AlwaysAutoResize_imgui_4778b1b319b813b6())
@@ -9332,6 +9338,7 @@ func _swig_getImGuiWindowFlags_AlwaysAutoResize() (_swig_ret ImGuiWindowFlags_) 
 }
 
 var ImGuiWindowFlags_AlwaysAutoResize ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_AlwaysAutoResize()
+
 func _swig_getImGuiWindowFlags_ShowBorders() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_ShowBorders_imgui_4778b1b319b813b6())
@@ -9339,6 +9346,7 @@ func _swig_getImGuiWindowFlags_ShowBorders() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_ShowBorders ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_ShowBorders()
+
 func _swig_getImGuiWindowFlags_NoSavedSettings() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoSavedSettings_imgui_4778b1b319b813b6())
@@ -9346,6 +9354,7 @@ func _swig_getImGuiWindowFlags_NoSavedSettings() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoSavedSettings ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoSavedSettings()
+
 func _swig_getImGuiWindowFlags_NoInputs() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoInputs_imgui_4778b1b319b813b6())
@@ -9353,6 +9362,7 @@ func _swig_getImGuiWindowFlags_NoInputs() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_NoInputs ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoInputs()
+
 func _swig_getImGuiWindowFlags_MenuBar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_MenuBar_imgui_4778b1b319b813b6())
@@ -9360,6 +9370,7 @@ func _swig_getImGuiWindowFlags_MenuBar() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_MenuBar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_MenuBar()
+
 func _swig_getImGuiWindowFlags_HorizontalScrollbar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_HorizontalScrollbar_imgui_4778b1b319b813b6())
@@ -9367,6 +9378,7 @@ func _swig_getImGuiWindowFlags_HorizontalScrollbar() (_swig_ret ImGuiWindowFlags
 }
 
 var ImGuiWindowFlags_HorizontalScrollbar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_HorizontalScrollbar()
+
 func _swig_getImGuiWindowFlags_NoFocusOnAppearing() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoFocusOnAppearing_imgui_4778b1b319b813b6())
@@ -9374,6 +9386,7 @@ func _swig_getImGuiWindowFlags_NoFocusOnAppearing() (_swig_ret ImGuiWindowFlags_
 }
 
 var ImGuiWindowFlags_NoFocusOnAppearing ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoFocusOnAppearing()
+
 func _swig_getImGuiWindowFlags_NoBringToFrontOnFocus() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_NoBringToFrontOnFocus_imgui_4778b1b319b813b6())
@@ -9381,6 +9394,7 @@ func _swig_getImGuiWindowFlags_NoBringToFrontOnFocus() (_swig_ret ImGuiWindowFla
 }
 
 var ImGuiWindowFlags_NoBringToFrontOnFocus ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_NoBringToFrontOnFocus()
+
 func _swig_getImGuiWindowFlags_AlwaysVerticalScrollbar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_AlwaysVerticalScrollbar_imgui_4778b1b319b813b6())
@@ -9388,6 +9402,7 @@ func _swig_getImGuiWindowFlags_AlwaysVerticalScrollbar() (_swig_ret ImGuiWindowF
 }
 
 var ImGuiWindowFlags_AlwaysVerticalScrollbar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_AlwaysVerticalScrollbar()
+
 func _swig_getImGuiWindowFlags_AlwaysHorizontalScrollbar() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_AlwaysHorizontalScrollbar_imgui_4778b1b319b813b6())
@@ -9395,6 +9410,7 @@ func _swig_getImGuiWindowFlags_AlwaysHorizontalScrollbar() (_swig_ret ImGuiWindo
 }
 
 var ImGuiWindowFlags_AlwaysHorizontalScrollbar ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_AlwaysHorizontalScrollbar()
+
 func _swig_getImGuiWindowFlags_AlwaysUseWindowPadding() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_AlwaysUseWindowPadding_imgui_4778b1b319b813b6())
@@ -9402,6 +9418,7 @@ func _swig_getImGuiWindowFlags_AlwaysUseWindowPadding() (_swig_ret ImGuiWindowFl
 }
 
 var ImGuiWindowFlags_AlwaysUseWindowPadding ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_AlwaysUseWindowPadding()
+
 func _swig_getImGuiWindowFlags_ChildWindow() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_ChildWindow_imgui_4778b1b319b813b6())
@@ -9409,6 +9426,7 @@ func _swig_getImGuiWindowFlags_ChildWindow() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_ChildWindow ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_ChildWindow()
+
 func _swig_getImGuiWindowFlags_ComboBox() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_ComboBox_imgui_4778b1b319b813b6())
@@ -9416,6 +9434,7 @@ func _swig_getImGuiWindowFlags_ComboBox() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_ComboBox ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_ComboBox()
+
 func _swig_getImGuiWindowFlags_Tooltip() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_Tooltip_imgui_4778b1b319b813b6())
@@ -9423,6 +9442,7 @@ func _swig_getImGuiWindowFlags_Tooltip() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_Tooltip ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_Tooltip()
+
 func _swig_getImGuiWindowFlags_Popup() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_Popup_imgui_4778b1b319b813b6())
@@ -9430,6 +9450,7 @@ func _swig_getImGuiWindowFlags_Popup() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_Popup ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_Popup()
+
 func _swig_getImGuiWindowFlags_Modal() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_Modal_imgui_4778b1b319b813b6())
@@ -9437,6 +9458,7 @@ func _swig_getImGuiWindowFlags_Modal() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_Modal ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_Modal()
+
 func _swig_getImGuiWindowFlags_ChildMenu() (_swig_ret ImGuiWindowFlags_) {
 	var swig_r ImGuiWindowFlags_
 	swig_r = (ImGuiWindowFlags_)(C._wrap_ImGuiWindowFlags_ChildMenu_imgui_4778b1b319b813b6())
@@ -9444,7 +9466,9 @@ func _swig_getImGuiWindowFlags_ChildMenu() (_swig_ret ImGuiWindowFlags_) {
 }
 
 var ImGuiWindowFlags_ChildMenu ImGuiWindowFlags_ = _swig_getImGuiWindowFlags_ChildMenu()
+
 type ImGuiInputTextFlags_ int
+
 func _swig_getImGuiInputTextFlags_CharsDecimal() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CharsDecimal_imgui_4778b1b319b813b6())
@@ -9452,6 +9476,7 @@ func _swig_getImGuiInputTextFlags_CharsDecimal() (_swig_ret ImGuiInputTextFlags_
 }
 
 var ImGuiInputTextFlags_CharsDecimal ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CharsDecimal()
+
 func _swig_getImGuiInputTextFlags_CharsHexadecimal() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CharsHexadecimal_imgui_4778b1b319b813b6())
@@ -9459,6 +9484,7 @@ func _swig_getImGuiInputTextFlags_CharsHexadecimal() (_swig_ret ImGuiInputTextFl
 }
 
 var ImGuiInputTextFlags_CharsHexadecimal ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CharsHexadecimal()
+
 func _swig_getImGuiInputTextFlags_CharsUppercase() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CharsUppercase_imgui_4778b1b319b813b6())
@@ -9466,6 +9492,7 @@ func _swig_getImGuiInputTextFlags_CharsUppercase() (_swig_ret ImGuiInputTextFlag
 }
 
 var ImGuiInputTextFlags_CharsUppercase ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CharsUppercase()
+
 func _swig_getImGuiInputTextFlags_CharsNoBlank() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CharsNoBlank_imgui_4778b1b319b813b6())
@@ -9473,6 +9500,7 @@ func _swig_getImGuiInputTextFlags_CharsNoBlank() (_swig_ret ImGuiInputTextFlags_
 }
 
 var ImGuiInputTextFlags_CharsNoBlank ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CharsNoBlank()
+
 func _swig_getImGuiInputTextFlags_AutoSelectAll() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_AutoSelectAll_imgui_4778b1b319b813b6())
@@ -9480,6 +9508,7 @@ func _swig_getImGuiInputTextFlags_AutoSelectAll() (_swig_ret ImGuiInputTextFlags
 }
 
 var ImGuiInputTextFlags_AutoSelectAll ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_AutoSelectAll()
+
 func _swig_getImGuiInputTextFlags_EnterReturnsTrue() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_EnterReturnsTrue_imgui_4778b1b319b813b6())
@@ -9487,6 +9516,7 @@ func _swig_getImGuiInputTextFlags_EnterReturnsTrue() (_swig_ret ImGuiInputTextFl
 }
 
 var ImGuiInputTextFlags_EnterReturnsTrue ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_EnterReturnsTrue()
+
 func _swig_getImGuiInputTextFlags_CallbackCompletion() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CallbackCompletion_imgui_4778b1b319b813b6())
@@ -9494,6 +9524,7 @@ func _swig_getImGuiInputTextFlags_CallbackCompletion() (_swig_ret ImGuiInputText
 }
 
 var ImGuiInputTextFlags_CallbackCompletion ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CallbackCompletion()
+
 func _swig_getImGuiInputTextFlags_CallbackHistory() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CallbackHistory_imgui_4778b1b319b813b6())
@@ -9501,6 +9532,7 @@ func _swig_getImGuiInputTextFlags_CallbackHistory() (_swig_ret ImGuiInputTextFla
 }
 
 var ImGuiInputTextFlags_CallbackHistory ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CallbackHistory()
+
 func _swig_getImGuiInputTextFlags_CallbackAlways() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CallbackAlways_imgui_4778b1b319b813b6())
@@ -9508,6 +9540,7 @@ func _swig_getImGuiInputTextFlags_CallbackAlways() (_swig_ret ImGuiInputTextFlag
 }
 
 var ImGuiInputTextFlags_CallbackAlways ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CallbackAlways()
+
 func _swig_getImGuiInputTextFlags_CallbackCharFilter() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CallbackCharFilter_imgui_4778b1b319b813b6())
@@ -9515,6 +9548,7 @@ func _swig_getImGuiInputTextFlags_CallbackCharFilter() (_swig_ret ImGuiInputText
 }
 
 var ImGuiInputTextFlags_CallbackCharFilter ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CallbackCharFilter()
+
 func _swig_getImGuiInputTextFlags_AllowTabInput() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_AllowTabInput_imgui_4778b1b319b813b6())
@@ -9522,6 +9556,7 @@ func _swig_getImGuiInputTextFlags_AllowTabInput() (_swig_ret ImGuiInputTextFlags
 }
 
 var ImGuiInputTextFlags_AllowTabInput ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_AllowTabInput()
+
 func _swig_getImGuiInputTextFlags_CtrlEnterForNewLine() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_CtrlEnterForNewLine_imgui_4778b1b319b813b6())
@@ -9529,6 +9564,7 @@ func _swig_getImGuiInputTextFlags_CtrlEnterForNewLine() (_swig_ret ImGuiInputTex
 }
 
 var ImGuiInputTextFlags_CtrlEnterForNewLine ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_CtrlEnterForNewLine()
+
 func _swig_getImGuiInputTextFlags_NoHorizontalScroll() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_NoHorizontalScroll_imgui_4778b1b319b813b6())
@@ -9536,6 +9572,7 @@ func _swig_getImGuiInputTextFlags_NoHorizontalScroll() (_swig_ret ImGuiInputText
 }
 
 var ImGuiInputTextFlags_NoHorizontalScroll ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_NoHorizontalScroll()
+
 func _swig_getImGuiInputTextFlags_AlwaysInsertMode() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_AlwaysInsertMode_imgui_4778b1b319b813b6())
@@ -9543,6 +9580,7 @@ func _swig_getImGuiInputTextFlags_AlwaysInsertMode() (_swig_ret ImGuiInputTextFl
 }
 
 var ImGuiInputTextFlags_AlwaysInsertMode ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_AlwaysInsertMode()
+
 func _swig_getImGuiInputTextFlags_ReadOnly() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_ReadOnly_imgui_4778b1b319b813b6())
@@ -9550,6 +9588,7 @@ func _swig_getImGuiInputTextFlags_ReadOnly() (_swig_ret ImGuiInputTextFlags_) {
 }
 
 var ImGuiInputTextFlags_ReadOnly ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_ReadOnly()
+
 func _swig_getImGuiInputTextFlags_Password() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_Password_imgui_4778b1b319b813b6())
@@ -9557,6 +9596,7 @@ func _swig_getImGuiInputTextFlags_Password() (_swig_ret ImGuiInputTextFlags_) {
 }
 
 var ImGuiInputTextFlags_Password ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_Password()
+
 func _swig_getImGuiInputTextFlags_Multiline() (_swig_ret ImGuiInputTextFlags_) {
 	var swig_r ImGuiInputTextFlags_
 	swig_r = (ImGuiInputTextFlags_)(C._wrap_ImGuiInputTextFlags_Multiline_imgui_4778b1b319b813b6())
@@ -9564,7 +9604,9 @@ func _swig_getImGuiInputTextFlags_Multiline() (_swig_ret ImGuiInputTextFlags_) {
 }
 
 var ImGuiInputTextFlags_Multiline ImGuiInputTextFlags_ = _swig_getImGuiInputTextFlags_Multiline()
+
 type ImGuiTreeNodeFlags_ int
+
 func _swig_getImGuiTreeNodeFlags_Selected() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_Selected_imgui_4778b1b319b813b6())
@@ -9572,6 +9614,7 @@ func _swig_getImGuiTreeNodeFlags_Selected() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_Selected ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_Selected()
+
 func _swig_getImGuiTreeNodeFlags_Framed() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_Framed_imgui_4778b1b319b813b6())
@@ -9579,6 +9622,7 @@ func _swig_getImGuiTreeNodeFlags_Framed() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_Framed ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_Framed()
+
 func _swig_getImGuiTreeNodeFlags_AllowOverlapMode() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_AllowOverlapMode_imgui_4778b1b319b813b6())
@@ -9586,6 +9630,7 @@ func _swig_getImGuiTreeNodeFlags_AllowOverlapMode() (_swig_ret ImGuiTreeNodeFlag
 }
 
 var ImGuiTreeNodeFlags_AllowOverlapMode ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_AllowOverlapMode()
+
 func _swig_getImGuiTreeNodeFlags_NoTreePushOnOpen() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_NoTreePushOnOpen_imgui_4778b1b319b813b6())
@@ -9593,6 +9638,7 @@ func _swig_getImGuiTreeNodeFlags_NoTreePushOnOpen() (_swig_ret ImGuiTreeNodeFlag
 }
 
 var ImGuiTreeNodeFlags_NoTreePushOnOpen ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_NoTreePushOnOpen()
+
 func _swig_getImGuiTreeNodeFlags_NoAutoOpenOnLog() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_NoAutoOpenOnLog_imgui_4778b1b319b813b6())
@@ -9600,6 +9646,7 @@ func _swig_getImGuiTreeNodeFlags_NoAutoOpenOnLog() (_swig_ret ImGuiTreeNodeFlags
 }
 
 var ImGuiTreeNodeFlags_NoAutoOpenOnLog ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_NoAutoOpenOnLog()
+
 func _swig_getImGuiTreeNodeFlags_DefaultOpen() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_DefaultOpen_imgui_4778b1b319b813b6())
@@ -9607,6 +9654,7 @@ func _swig_getImGuiTreeNodeFlags_DefaultOpen() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_DefaultOpen ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_DefaultOpen()
+
 func _swig_getImGuiTreeNodeFlags_OpenOnDoubleClick() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_OpenOnDoubleClick_imgui_4778b1b319b813b6())
@@ -9614,6 +9662,7 @@ func _swig_getImGuiTreeNodeFlags_OpenOnDoubleClick() (_swig_ret ImGuiTreeNodeFla
 }
 
 var ImGuiTreeNodeFlags_OpenOnDoubleClick ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_OpenOnDoubleClick()
+
 func _swig_getImGuiTreeNodeFlags_OpenOnArrow() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_OpenOnArrow_imgui_4778b1b319b813b6())
@@ -9621,6 +9670,7 @@ func _swig_getImGuiTreeNodeFlags_OpenOnArrow() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_OpenOnArrow ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_OpenOnArrow()
+
 func _swig_getImGuiTreeNodeFlags_Leaf() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_Leaf_imgui_4778b1b319b813b6())
@@ -9628,6 +9678,7 @@ func _swig_getImGuiTreeNodeFlags_Leaf() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_Leaf ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_Leaf()
+
 func _swig_getImGuiTreeNodeFlags_Bullet() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_Bullet_imgui_4778b1b319b813b6())
@@ -9635,6 +9686,7 @@ func _swig_getImGuiTreeNodeFlags_Bullet() (_swig_ret ImGuiTreeNodeFlags_) {
 }
 
 var ImGuiTreeNodeFlags_Bullet ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_Bullet()
+
 func _swig_getImGuiTreeNodeFlags_CollapsingHeader() (_swig_ret ImGuiTreeNodeFlags_) {
 	var swig_r ImGuiTreeNodeFlags_
 	swig_r = (ImGuiTreeNodeFlags_)(C._wrap_ImGuiTreeNodeFlags_CollapsingHeader_imgui_4778b1b319b813b6())
@@ -9642,7 +9694,9 @@ func _swig_getImGuiTreeNodeFlags_CollapsingHeader() (_swig_ret ImGuiTreeNodeFlag
 }
 
 var ImGuiTreeNodeFlags_CollapsingHeader ImGuiTreeNodeFlags_ = _swig_getImGuiTreeNodeFlags_CollapsingHeader()
+
 type ImGuiSelectableFlags_ int
+
 func _swig_getImGuiSelectableFlags_DontClosePopups() (_swig_ret ImGuiSelectableFlags_) {
 	var swig_r ImGuiSelectableFlags_
 	swig_r = (ImGuiSelectableFlags_)(C._wrap_ImGuiSelectableFlags_DontClosePopups_imgui_4778b1b319b813b6())
@@ -9650,6 +9704,7 @@ func _swig_getImGuiSelectableFlags_DontClosePopups() (_swig_ret ImGuiSelectableF
 }
 
 var ImGuiSelectableFlags_DontClosePopups ImGuiSelectableFlags_ = _swig_getImGuiSelectableFlags_DontClosePopups()
+
 func _swig_getImGuiSelectableFlags_SpanAllColumns() (_swig_ret ImGuiSelectableFlags_) {
 	var swig_r ImGuiSelectableFlags_
 	swig_r = (ImGuiSelectableFlags_)(C._wrap_ImGuiSelectableFlags_SpanAllColumns_imgui_4778b1b319b813b6())
@@ -9657,6 +9712,7 @@ func _swig_getImGuiSelectableFlags_SpanAllColumns() (_swig_ret ImGuiSelectableFl
 }
 
 var ImGuiSelectableFlags_SpanAllColumns ImGuiSelectableFlags_ = _swig_getImGuiSelectableFlags_SpanAllColumns()
+
 func _swig_getImGuiSelectableFlags_AllowDoubleClick() (_swig_ret ImGuiSelectableFlags_) {
 	var swig_r ImGuiSelectableFlags_
 	swig_r = (ImGuiSelectableFlags_)(C._wrap_ImGuiSelectableFlags_AllowDoubleClick_imgui_4778b1b319b813b6())
@@ -9664,7 +9720,9 @@ func _swig_getImGuiSelectableFlags_AllowDoubleClick() (_swig_ret ImGuiSelectable
 }
 
 var ImGuiSelectableFlags_AllowDoubleClick ImGuiSelectableFlags_ = _swig_getImGuiSelectableFlags_AllowDoubleClick()
+
 type ImGuiKey_ int
+
 func _swig_getImGuiKey_Tab() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Tab_imgui_4778b1b319b813b6())
@@ -9672,6 +9730,7 @@ func _swig_getImGuiKey_Tab() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Tab ImGuiKey_ = _swig_getImGuiKey_Tab()
+
 func _swig_getImGuiKey_LeftArrow() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_LeftArrow_imgui_4778b1b319b813b6())
@@ -9679,6 +9738,7 @@ func _swig_getImGuiKey_LeftArrow() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_LeftArrow ImGuiKey_ = _swig_getImGuiKey_LeftArrow()
+
 func _swig_getImGuiKey_RightArrow() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_RightArrow_imgui_4778b1b319b813b6())
@@ -9686,6 +9746,7 @@ func _swig_getImGuiKey_RightArrow() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_RightArrow ImGuiKey_ = _swig_getImGuiKey_RightArrow()
+
 func _swig_getImGuiKey_UpArrow() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_UpArrow_imgui_4778b1b319b813b6())
@@ -9693,6 +9754,7 @@ func _swig_getImGuiKey_UpArrow() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_UpArrow ImGuiKey_ = _swig_getImGuiKey_UpArrow()
+
 func _swig_getImGuiKey_DownArrow() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_DownArrow_imgui_4778b1b319b813b6())
@@ -9700,6 +9762,7 @@ func _swig_getImGuiKey_DownArrow() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_DownArrow ImGuiKey_ = _swig_getImGuiKey_DownArrow()
+
 func _swig_getImGuiKey_PageUp() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_PageUp_imgui_4778b1b319b813b6())
@@ -9707,6 +9770,7 @@ func _swig_getImGuiKey_PageUp() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_PageUp ImGuiKey_ = _swig_getImGuiKey_PageUp()
+
 func _swig_getImGuiKey_PageDown() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_PageDown_imgui_4778b1b319b813b6())
@@ -9714,6 +9778,7 @@ func _swig_getImGuiKey_PageDown() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_PageDown ImGuiKey_ = _swig_getImGuiKey_PageDown()
+
 func _swig_getImGuiKey_Home() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Home_imgui_4778b1b319b813b6())
@@ -9721,6 +9786,7 @@ func _swig_getImGuiKey_Home() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Home ImGuiKey_ = _swig_getImGuiKey_Home()
+
 func _swig_getImGuiKey_End() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_End_imgui_4778b1b319b813b6())
@@ -9728,6 +9794,7 @@ func _swig_getImGuiKey_End() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_End ImGuiKey_ = _swig_getImGuiKey_End()
+
 func _swig_getImGuiKey_Delete() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Delete_imgui_4778b1b319b813b6())
@@ -9735,6 +9802,7 @@ func _swig_getImGuiKey_Delete() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Delete ImGuiKey_ = _swig_getImGuiKey_Delete()
+
 func _swig_getImGuiKey_Backspace() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Backspace_imgui_4778b1b319b813b6())
@@ -9742,6 +9810,7 @@ func _swig_getImGuiKey_Backspace() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Backspace ImGuiKey_ = _swig_getImGuiKey_Backspace()
+
 func _swig_getImGuiKey_Enter() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Enter_imgui_4778b1b319b813b6())
@@ -9749,6 +9818,7 @@ func _swig_getImGuiKey_Enter() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Enter ImGuiKey_ = _swig_getImGuiKey_Enter()
+
 func _swig_getImGuiKey_Escape() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Escape_imgui_4778b1b319b813b6())
@@ -9756,6 +9826,7 @@ func _swig_getImGuiKey_Escape() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Escape ImGuiKey_ = _swig_getImGuiKey_Escape()
+
 func _swig_getImGuiKey_A() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_A_imgui_4778b1b319b813b6())
@@ -9763,6 +9834,7 @@ func _swig_getImGuiKey_A() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_A ImGuiKey_ = _swig_getImGuiKey_A()
+
 func _swig_getImGuiKey_C() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_C_imgui_4778b1b319b813b6())
@@ -9770,6 +9842,7 @@ func _swig_getImGuiKey_C() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_C ImGuiKey_ = _swig_getImGuiKey_C()
+
 func _swig_getImGuiKey_V() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_V_imgui_4778b1b319b813b6())
@@ -9777,6 +9850,7 @@ func _swig_getImGuiKey_V() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_V ImGuiKey_ = _swig_getImGuiKey_V()
+
 func _swig_getImGuiKey_X() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_X_imgui_4778b1b319b813b6())
@@ -9784,6 +9858,7 @@ func _swig_getImGuiKey_X() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_X ImGuiKey_ = _swig_getImGuiKey_X()
+
 func _swig_getImGuiKey_Y() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Y_imgui_4778b1b319b813b6())
@@ -9791,6 +9866,7 @@ func _swig_getImGuiKey_Y() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Y ImGuiKey_ = _swig_getImGuiKey_Y()
+
 func _swig_getImGuiKey_Z() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_Z_imgui_4778b1b319b813b6())
@@ -9798,6 +9874,7 @@ func _swig_getImGuiKey_Z() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_Z ImGuiKey_ = _swig_getImGuiKey_Z()
+
 func _swig_getImGuiKey_COUNT() (_swig_ret ImGuiKey_) {
 	var swig_r ImGuiKey_
 	swig_r = (ImGuiKey_)(C._wrap_ImGuiKey_COUNT_imgui_4778b1b319b813b6())
@@ -9805,7 +9882,9 @@ func _swig_getImGuiKey_COUNT() (_swig_ret ImGuiKey_) {
 }
 
 var ImGuiKey_COUNT ImGuiKey_ = _swig_getImGuiKey_COUNT()
+
 type ImGuiCol_ int
+
 func _swig_getImGuiCol_Text() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Text_imgui_4778b1b319b813b6())
@@ -9813,6 +9892,7 @@ func _swig_getImGuiCol_Text() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Text ImGuiCol_ = _swig_getImGuiCol_Text()
+
 func _swig_getImGuiCol_TextDisabled() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_TextDisabled_imgui_4778b1b319b813b6())
@@ -9820,6 +9900,7 @@ func _swig_getImGuiCol_TextDisabled() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_TextDisabled ImGuiCol_ = _swig_getImGuiCol_TextDisabled()
+
 func _swig_getImGuiCol_WindowBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_WindowBg_imgui_4778b1b319b813b6())
@@ -9827,6 +9908,7 @@ func _swig_getImGuiCol_WindowBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_WindowBg ImGuiCol_ = _swig_getImGuiCol_WindowBg()
+
 func _swig_getImGuiCol_ChildWindowBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ChildWindowBg_imgui_4778b1b319b813b6())
@@ -9834,6 +9916,7 @@ func _swig_getImGuiCol_ChildWindowBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ChildWindowBg ImGuiCol_ = _swig_getImGuiCol_ChildWindowBg()
+
 func _swig_getImGuiCol_PopupBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_PopupBg_imgui_4778b1b319b813b6())
@@ -9841,6 +9924,7 @@ func _swig_getImGuiCol_PopupBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_PopupBg ImGuiCol_ = _swig_getImGuiCol_PopupBg()
+
 func _swig_getImGuiCol_Border() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Border_imgui_4778b1b319b813b6())
@@ -9848,6 +9932,7 @@ func _swig_getImGuiCol_Border() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Border ImGuiCol_ = _swig_getImGuiCol_Border()
+
 func _swig_getImGuiCol_BorderShadow() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_BorderShadow_imgui_4778b1b319b813b6())
@@ -9855,6 +9940,7 @@ func _swig_getImGuiCol_BorderShadow() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_BorderShadow ImGuiCol_ = _swig_getImGuiCol_BorderShadow()
+
 func _swig_getImGuiCol_FrameBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_FrameBg_imgui_4778b1b319b813b6())
@@ -9862,6 +9948,7 @@ func _swig_getImGuiCol_FrameBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_FrameBg ImGuiCol_ = _swig_getImGuiCol_FrameBg()
+
 func _swig_getImGuiCol_FrameBgHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_FrameBgHovered_imgui_4778b1b319b813b6())
@@ -9869,6 +9956,7 @@ func _swig_getImGuiCol_FrameBgHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_FrameBgHovered ImGuiCol_ = _swig_getImGuiCol_FrameBgHovered()
+
 func _swig_getImGuiCol_FrameBgActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_FrameBgActive_imgui_4778b1b319b813b6())
@@ -9876,6 +9964,7 @@ func _swig_getImGuiCol_FrameBgActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_FrameBgActive ImGuiCol_ = _swig_getImGuiCol_FrameBgActive()
+
 func _swig_getImGuiCol_TitleBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_TitleBg_imgui_4778b1b319b813b6())
@@ -9883,6 +9972,7 @@ func _swig_getImGuiCol_TitleBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_TitleBg ImGuiCol_ = _swig_getImGuiCol_TitleBg()
+
 func _swig_getImGuiCol_TitleBgCollapsed() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_TitleBgCollapsed_imgui_4778b1b319b813b6())
@@ -9890,6 +9980,7 @@ func _swig_getImGuiCol_TitleBgCollapsed() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_TitleBgCollapsed ImGuiCol_ = _swig_getImGuiCol_TitleBgCollapsed()
+
 func _swig_getImGuiCol_TitleBgActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_TitleBgActive_imgui_4778b1b319b813b6())
@@ -9897,6 +9988,7 @@ func _swig_getImGuiCol_TitleBgActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_TitleBgActive ImGuiCol_ = _swig_getImGuiCol_TitleBgActive()
+
 func _swig_getImGuiCol_MenuBarBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_MenuBarBg_imgui_4778b1b319b813b6())
@@ -9904,6 +9996,7 @@ func _swig_getImGuiCol_MenuBarBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_MenuBarBg ImGuiCol_ = _swig_getImGuiCol_MenuBarBg()
+
 func _swig_getImGuiCol_ScrollbarBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ScrollbarBg_imgui_4778b1b319b813b6())
@@ -9911,6 +10004,7 @@ func _swig_getImGuiCol_ScrollbarBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ScrollbarBg ImGuiCol_ = _swig_getImGuiCol_ScrollbarBg()
+
 func _swig_getImGuiCol_ScrollbarGrab() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ScrollbarGrab_imgui_4778b1b319b813b6())
@@ -9918,6 +10012,7 @@ func _swig_getImGuiCol_ScrollbarGrab() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ScrollbarGrab ImGuiCol_ = _swig_getImGuiCol_ScrollbarGrab()
+
 func _swig_getImGuiCol_ScrollbarGrabHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ScrollbarGrabHovered_imgui_4778b1b319b813b6())
@@ -9925,6 +10020,7 @@ func _swig_getImGuiCol_ScrollbarGrabHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ScrollbarGrabHovered ImGuiCol_ = _swig_getImGuiCol_ScrollbarGrabHovered()
+
 func _swig_getImGuiCol_ScrollbarGrabActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ScrollbarGrabActive_imgui_4778b1b319b813b6())
@@ -9932,6 +10028,7 @@ func _swig_getImGuiCol_ScrollbarGrabActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ScrollbarGrabActive ImGuiCol_ = _swig_getImGuiCol_ScrollbarGrabActive()
+
 func _swig_getImGuiCol_ComboBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ComboBg_imgui_4778b1b319b813b6())
@@ -9939,6 +10036,7 @@ func _swig_getImGuiCol_ComboBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ComboBg ImGuiCol_ = _swig_getImGuiCol_ComboBg()
+
 func _swig_getImGuiCol_CheckMark() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_CheckMark_imgui_4778b1b319b813b6())
@@ -9946,6 +10044,7 @@ func _swig_getImGuiCol_CheckMark() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_CheckMark ImGuiCol_ = _swig_getImGuiCol_CheckMark()
+
 func _swig_getImGuiCol_SliderGrab() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_SliderGrab_imgui_4778b1b319b813b6())
@@ -9953,6 +10052,7 @@ func _swig_getImGuiCol_SliderGrab() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_SliderGrab ImGuiCol_ = _swig_getImGuiCol_SliderGrab()
+
 func _swig_getImGuiCol_SliderGrabActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_SliderGrabActive_imgui_4778b1b319b813b6())
@@ -9960,6 +10060,7 @@ func _swig_getImGuiCol_SliderGrabActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_SliderGrabActive ImGuiCol_ = _swig_getImGuiCol_SliderGrabActive()
+
 func _swig_getImGuiCol_Button() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Button_imgui_4778b1b319b813b6())
@@ -9967,6 +10068,7 @@ func _swig_getImGuiCol_Button() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Button ImGuiCol_ = _swig_getImGuiCol_Button()
+
 func _swig_getImGuiCol_ButtonHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ButtonHovered_imgui_4778b1b319b813b6())
@@ -9974,6 +10076,7 @@ func _swig_getImGuiCol_ButtonHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ButtonHovered ImGuiCol_ = _swig_getImGuiCol_ButtonHovered()
+
 func _swig_getImGuiCol_ButtonActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ButtonActive_imgui_4778b1b319b813b6())
@@ -9981,6 +10084,7 @@ func _swig_getImGuiCol_ButtonActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ButtonActive ImGuiCol_ = _swig_getImGuiCol_ButtonActive()
+
 func _swig_getImGuiCol_Header() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Header_imgui_4778b1b319b813b6())
@@ -9988,6 +10092,7 @@ func _swig_getImGuiCol_Header() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Header ImGuiCol_ = _swig_getImGuiCol_Header()
+
 func _swig_getImGuiCol_HeaderHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_HeaderHovered_imgui_4778b1b319b813b6())
@@ -9995,6 +10100,7 @@ func _swig_getImGuiCol_HeaderHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_HeaderHovered ImGuiCol_ = _swig_getImGuiCol_HeaderHovered()
+
 func _swig_getImGuiCol_HeaderActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_HeaderActive_imgui_4778b1b319b813b6())
@@ -10002,6 +10108,7 @@ func _swig_getImGuiCol_HeaderActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_HeaderActive ImGuiCol_ = _swig_getImGuiCol_HeaderActive()
+
 func _swig_getImGuiCol_Separator() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Separator_imgui_4778b1b319b813b6())
@@ -10009,6 +10116,7 @@ func _swig_getImGuiCol_Separator() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Separator ImGuiCol_ = _swig_getImGuiCol_Separator()
+
 func _swig_getImGuiCol_SeparatorHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_SeparatorHovered_imgui_4778b1b319b813b6())
@@ -10016,6 +10124,7 @@ func _swig_getImGuiCol_SeparatorHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_SeparatorHovered ImGuiCol_ = _swig_getImGuiCol_SeparatorHovered()
+
 func _swig_getImGuiCol_SeparatorActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_SeparatorActive_imgui_4778b1b319b813b6())
@@ -10023,6 +10132,7 @@ func _swig_getImGuiCol_SeparatorActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_SeparatorActive ImGuiCol_ = _swig_getImGuiCol_SeparatorActive()
+
 func _swig_getImGuiCol_ResizeGrip() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ResizeGrip_imgui_4778b1b319b813b6())
@@ -10030,6 +10140,7 @@ func _swig_getImGuiCol_ResizeGrip() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ResizeGrip ImGuiCol_ = _swig_getImGuiCol_ResizeGrip()
+
 func _swig_getImGuiCol_ResizeGripHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ResizeGripHovered_imgui_4778b1b319b813b6())
@@ -10037,6 +10148,7 @@ func _swig_getImGuiCol_ResizeGripHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ResizeGripHovered ImGuiCol_ = _swig_getImGuiCol_ResizeGripHovered()
+
 func _swig_getImGuiCol_ResizeGripActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ResizeGripActive_imgui_4778b1b319b813b6())
@@ -10044,6 +10156,7 @@ func _swig_getImGuiCol_ResizeGripActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ResizeGripActive ImGuiCol_ = _swig_getImGuiCol_ResizeGripActive()
+
 func _swig_getImGuiCol_CloseButton() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_CloseButton_imgui_4778b1b319b813b6())
@@ -10051,6 +10164,7 @@ func _swig_getImGuiCol_CloseButton() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_CloseButton ImGuiCol_ = _swig_getImGuiCol_CloseButton()
+
 func _swig_getImGuiCol_CloseButtonHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_CloseButtonHovered_imgui_4778b1b319b813b6())
@@ -10058,6 +10172,7 @@ func _swig_getImGuiCol_CloseButtonHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_CloseButtonHovered ImGuiCol_ = _swig_getImGuiCol_CloseButtonHovered()
+
 func _swig_getImGuiCol_CloseButtonActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_CloseButtonActive_imgui_4778b1b319b813b6())
@@ -10065,6 +10180,7 @@ func _swig_getImGuiCol_CloseButtonActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_CloseButtonActive ImGuiCol_ = _swig_getImGuiCol_CloseButtonActive()
+
 func _swig_getImGuiCol_PlotLines() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_PlotLines_imgui_4778b1b319b813b6())
@@ -10072,6 +10188,7 @@ func _swig_getImGuiCol_PlotLines() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_PlotLines ImGuiCol_ = _swig_getImGuiCol_PlotLines()
+
 func _swig_getImGuiCol_PlotLinesHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_PlotLinesHovered_imgui_4778b1b319b813b6())
@@ -10079,6 +10196,7 @@ func _swig_getImGuiCol_PlotLinesHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_PlotLinesHovered ImGuiCol_ = _swig_getImGuiCol_PlotLinesHovered()
+
 func _swig_getImGuiCol_PlotHistogram() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_PlotHistogram_imgui_4778b1b319b813b6())
@@ -10086,6 +10204,7 @@ func _swig_getImGuiCol_PlotHistogram() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_PlotHistogram ImGuiCol_ = _swig_getImGuiCol_PlotHistogram()
+
 func _swig_getImGuiCol_PlotHistogramHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_PlotHistogramHovered_imgui_4778b1b319b813b6())
@@ -10093,6 +10212,7 @@ func _swig_getImGuiCol_PlotHistogramHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_PlotHistogramHovered ImGuiCol_ = _swig_getImGuiCol_PlotHistogramHovered()
+
 func _swig_getImGuiCol_TextSelectedBg() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_TextSelectedBg_imgui_4778b1b319b813b6())
@@ -10100,6 +10220,7 @@ func _swig_getImGuiCol_TextSelectedBg() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_TextSelectedBg ImGuiCol_ = _swig_getImGuiCol_TextSelectedBg()
+
 func _swig_getImGuiCol_ModalWindowDarkening() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ModalWindowDarkening_imgui_4778b1b319b813b6())
@@ -10107,6 +10228,7 @@ func _swig_getImGuiCol_ModalWindowDarkening() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ModalWindowDarkening ImGuiCol_ = _swig_getImGuiCol_ModalWindowDarkening()
+
 func _swig_getImGuiCol_COUNT() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_COUNT_imgui_4778b1b319b813b6())
@@ -10114,6 +10236,7 @@ func _swig_getImGuiCol_COUNT() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_COUNT ImGuiCol_ = _swig_getImGuiCol_COUNT()
+
 func _swig_getImGuiCol_Column() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_Column_imgui_4778b1b319b813b6())
@@ -10121,6 +10244,7 @@ func _swig_getImGuiCol_Column() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_Column ImGuiCol_ = _swig_getImGuiCol_Column()
+
 func _swig_getImGuiCol_ColumnHovered() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ColumnHovered_imgui_4778b1b319b813b6())
@@ -10128,6 +10252,7 @@ func _swig_getImGuiCol_ColumnHovered() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ColumnHovered ImGuiCol_ = _swig_getImGuiCol_ColumnHovered()
+
 func _swig_getImGuiCol_ColumnActive() (_swig_ret ImGuiCol_) {
 	var swig_r ImGuiCol_
 	swig_r = (ImGuiCol_)(C._wrap_ImGuiCol_ColumnActive_imgui_4778b1b319b813b6())
@@ -10135,7 +10260,9 @@ func _swig_getImGuiCol_ColumnActive() (_swig_ret ImGuiCol_) {
 }
 
 var ImGuiCol_ColumnActive ImGuiCol_ = _swig_getImGuiCol_ColumnActive()
+
 type ImGuiStyleVar_ int
+
 func _swig_getImGuiStyleVar_Alpha() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_Alpha_imgui_4778b1b319b813b6())
@@ -10143,6 +10270,7 @@ func _swig_getImGuiStyleVar_Alpha() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_Alpha ImGuiStyleVar_ = _swig_getImGuiStyleVar_Alpha()
+
 func _swig_getImGuiStyleVar_WindowPadding() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_WindowPadding_imgui_4778b1b319b813b6())
@@ -10150,6 +10278,7 @@ func _swig_getImGuiStyleVar_WindowPadding() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_WindowPadding ImGuiStyleVar_ = _swig_getImGuiStyleVar_WindowPadding()
+
 func _swig_getImGuiStyleVar_WindowRounding() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_WindowRounding_imgui_4778b1b319b813b6())
@@ -10157,6 +10286,7 @@ func _swig_getImGuiStyleVar_WindowRounding() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_WindowRounding ImGuiStyleVar_ = _swig_getImGuiStyleVar_WindowRounding()
+
 func _swig_getImGuiStyleVar_WindowMinSize() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_WindowMinSize_imgui_4778b1b319b813b6())
@@ -10164,6 +10294,7 @@ func _swig_getImGuiStyleVar_WindowMinSize() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_WindowMinSize ImGuiStyleVar_ = _swig_getImGuiStyleVar_WindowMinSize()
+
 func _swig_getImGuiStyleVar_ChildWindowRounding() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_ChildWindowRounding_imgui_4778b1b319b813b6())
@@ -10171,6 +10302,7 @@ func _swig_getImGuiStyleVar_ChildWindowRounding() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_ChildWindowRounding ImGuiStyleVar_ = _swig_getImGuiStyleVar_ChildWindowRounding()
+
 func _swig_getImGuiStyleVar_FramePadding() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_FramePadding_imgui_4778b1b319b813b6())
@@ -10178,6 +10310,7 @@ func _swig_getImGuiStyleVar_FramePadding() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_FramePadding ImGuiStyleVar_ = _swig_getImGuiStyleVar_FramePadding()
+
 func _swig_getImGuiStyleVar_FrameRounding() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_FrameRounding_imgui_4778b1b319b813b6())
@@ -10185,6 +10318,7 @@ func _swig_getImGuiStyleVar_FrameRounding() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_FrameRounding ImGuiStyleVar_ = _swig_getImGuiStyleVar_FrameRounding()
+
 func _swig_getImGuiStyleVar_ItemSpacing() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_ItemSpacing_imgui_4778b1b319b813b6())
@@ -10192,6 +10326,7 @@ func _swig_getImGuiStyleVar_ItemSpacing() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_ItemSpacing ImGuiStyleVar_ = _swig_getImGuiStyleVar_ItemSpacing()
+
 func _swig_getImGuiStyleVar_ItemInnerSpacing() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_ItemInnerSpacing_imgui_4778b1b319b813b6())
@@ -10199,6 +10334,7 @@ func _swig_getImGuiStyleVar_ItemInnerSpacing() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_ItemInnerSpacing ImGuiStyleVar_ = _swig_getImGuiStyleVar_ItemInnerSpacing()
+
 func _swig_getImGuiStyleVar_IndentSpacing() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_IndentSpacing_imgui_4778b1b319b813b6())
@@ -10206,6 +10342,7 @@ func _swig_getImGuiStyleVar_IndentSpacing() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_IndentSpacing ImGuiStyleVar_ = _swig_getImGuiStyleVar_IndentSpacing()
+
 func _swig_getImGuiStyleVar_GrabMinSize() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_GrabMinSize_imgui_4778b1b319b813b6())
@@ -10213,6 +10350,7 @@ func _swig_getImGuiStyleVar_GrabMinSize() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_GrabMinSize ImGuiStyleVar_ = _swig_getImGuiStyleVar_GrabMinSize()
+
 func _swig_getImGuiStyleVar_ButtonTextAlign() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_ButtonTextAlign_imgui_4778b1b319b813b6())
@@ -10220,6 +10358,7 @@ func _swig_getImGuiStyleVar_ButtonTextAlign() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_ButtonTextAlign ImGuiStyleVar_ = _swig_getImGuiStyleVar_ButtonTextAlign()
+
 func _swig_getImGuiStyleVar_Count_() (_swig_ret ImGuiStyleVar_) {
 	var swig_r ImGuiStyleVar_
 	swig_r = (ImGuiStyleVar_)(C._wrap_ImGuiStyleVar_Count__imgui_4778b1b319b813b6())
@@ -10227,7 +10366,9 @@ func _swig_getImGuiStyleVar_Count_() (_swig_ret ImGuiStyleVar_) {
 }
 
 var ImGuiStyleVar_Count_ ImGuiStyleVar_ = _swig_getImGuiStyleVar_Count_()
+
 type ImGuiColorEditFlags_ int
+
 func _swig_getImGuiColorEditFlags_NoAlpha() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoAlpha_imgui_4778b1b319b813b6())
@@ -10235,6 +10376,7 @@ func _swig_getImGuiColorEditFlags_NoAlpha() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoAlpha ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoAlpha()
+
 func _swig_getImGuiColorEditFlags_NoPicker() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoPicker_imgui_4778b1b319b813b6())
@@ -10242,6 +10384,7 @@ func _swig_getImGuiColorEditFlags_NoPicker() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoPicker ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoPicker()
+
 func _swig_getImGuiColorEditFlags_NoOptions() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoOptions_imgui_4778b1b319b813b6())
@@ -10249,6 +10392,7 @@ func _swig_getImGuiColorEditFlags_NoOptions() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoOptions ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoOptions()
+
 func _swig_getImGuiColorEditFlags_NoSmallPreview() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoSmallPreview_imgui_4778b1b319b813b6())
@@ -10256,6 +10400,7 @@ func _swig_getImGuiColorEditFlags_NoSmallPreview() (_swig_ret ImGuiColorEditFlag
 }
 
 var ImGuiColorEditFlags_NoSmallPreview ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoSmallPreview()
+
 func _swig_getImGuiColorEditFlags_NoInputs() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoInputs_imgui_4778b1b319b813b6())
@@ -10263,6 +10408,7 @@ func _swig_getImGuiColorEditFlags_NoInputs() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoInputs ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoInputs()
+
 func _swig_getImGuiColorEditFlags_NoTooltip() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoTooltip_imgui_4778b1b319b813b6())
@@ -10270,6 +10416,7 @@ func _swig_getImGuiColorEditFlags_NoTooltip() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoTooltip ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoTooltip()
+
 func _swig_getImGuiColorEditFlags_NoLabel() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoLabel_imgui_4778b1b319b813b6())
@@ -10277,6 +10424,7 @@ func _swig_getImGuiColorEditFlags_NoLabel() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_NoLabel ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoLabel()
+
 func _swig_getImGuiColorEditFlags_NoSidePreview() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_NoSidePreview_imgui_4778b1b319b813b6())
@@ -10284,6 +10432,7 @@ func _swig_getImGuiColorEditFlags_NoSidePreview() (_swig_ret ImGuiColorEditFlags
 }
 
 var ImGuiColorEditFlags_NoSidePreview ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_NoSidePreview()
+
 func _swig_getImGuiColorEditFlags_AlphaBar() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_AlphaBar_imgui_4778b1b319b813b6())
@@ -10291,6 +10440,7 @@ func _swig_getImGuiColorEditFlags_AlphaBar() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_AlphaBar ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_AlphaBar()
+
 func _swig_getImGuiColorEditFlags_AlphaPreview() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_AlphaPreview_imgui_4778b1b319b813b6())
@@ -10298,6 +10448,7 @@ func _swig_getImGuiColorEditFlags_AlphaPreview() (_swig_ret ImGuiColorEditFlags_
 }
 
 var ImGuiColorEditFlags_AlphaPreview ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_AlphaPreview()
+
 func _swig_getImGuiColorEditFlags_AlphaPreviewHalf() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_AlphaPreviewHalf_imgui_4778b1b319b813b6())
@@ -10305,6 +10456,7 @@ func _swig_getImGuiColorEditFlags_AlphaPreviewHalf() (_swig_ret ImGuiColorEditFl
 }
 
 var ImGuiColorEditFlags_AlphaPreviewHalf ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_AlphaPreviewHalf()
+
 func _swig_getImGuiColorEditFlags_HDR() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_HDR_imgui_4778b1b319b813b6())
@@ -10312,6 +10464,7 @@ func _swig_getImGuiColorEditFlags_HDR() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_HDR ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_HDR()
+
 func _swig_getImGuiColorEditFlags_RGB() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_RGB_imgui_4778b1b319b813b6())
@@ -10319,6 +10472,7 @@ func _swig_getImGuiColorEditFlags_RGB() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_RGB ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_RGB()
+
 func _swig_getImGuiColorEditFlags_HSV() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_HSV_imgui_4778b1b319b813b6())
@@ -10326,6 +10480,7 @@ func _swig_getImGuiColorEditFlags_HSV() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_HSV ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_HSV()
+
 func _swig_getImGuiColorEditFlags_HEX() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_HEX_imgui_4778b1b319b813b6())
@@ -10333,6 +10488,7 @@ func _swig_getImGuiColorEditFlags_HEX() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_HEX ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_HEX()
+
 func _swig_getImGuiColorEditFlags_Uint8() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_Uint8_imgui_4778b1b319b813b6())
@@ -10340,6 +10496,7 @@ func _swig_getImGuiColorEditFlags_Uint8() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_Uint8 ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_Uint8()
+
 func _swig_getImGuiColorEditFlags_Float() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_Float_imgui_4778b1b319b813b6())
@@ -10347,6 +10504,7 @@ func _swig_getImGuiColorEditFlags_Float() (_swig_ret ImGuiColorEditFlags_) {
 }
 
 var ImGuiColorEditFlags_Float ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_Float()
+
 func _swig_getImGuiColorEditFlags_PickerHueBar() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_PickerHueBar_imgui_4778b1b319b813b6())
@@ -10354,6 +10512,7 @@ func _swig_getImGuiColorEditFlags_PickerHueBar() (_swig_ret ImGuiColorEditFlags_
 }
 
 var ImGuiColorEditFlags_PickerHueBar ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_PickerHueBar()
+
 func _swig_getImGuiColorEditFlags_PickerHueWheel() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags_PickerHueWheel_imgui_4778b1b319b813b6())
@@ -10361,6 +10520,7 @@ func _swig_getImGuiColorEditFlags_PickerHueWheel() (_swig_ret ImGuiColorEditFlag
 }
 
 var ImGuiColorEditFlags_PickerHueWheel ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags_PickerHueWheel()
+
 func _swig_getImGuiColorEditFlags__InputsMask() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags__InputsMask_imgui_4778b1b319b813b6())
@@ -10368,6 +10528,7 @@ func _swig_getImGuiColorEditFlags__InputsMask() (_swig_ret ImGuiColorEditFlags_)
 }
 
 var ImGuiColorEditFlags__InputsMask ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags__InputsMask()
+
 func _swig_getImGuiColorEditFlags__DataTypeMask() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags__DataTypeMask_imgui_4778b1b319b813b6())
@@ -10375,6 +10536,7 @@ func _swig_getImGuiColorEditFlags__DataTypeMask() (_swig_ret ImGuiColorEditFlags
 }
 
 var ImGuiColorEditFlags__DataTypeMask ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags__DataTypeMask()
+
 func _swig_getImGuiColorEditFlags__PickerMask() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags__PickerMask_imgui_4778b1b319b813b6())
@@ -10382,6 +10544,7 @@ func _swig_getImGuiColorEditFlags__PickerMask() (_swig_ret ImGuiColorEditFlags_)
 }
 
 var ImGuiColorEditFlags__PickerMask ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags__PickerMask()
+
 func _swig_getImGuiColorEditFlags__OptionsDefault() (_swig_ret ImGuiColorEditFlags_) {
 	var swig_r ImGuiColorEditFlags_
 	swig_r = (ImGuiColorEditFlags_)(C._wrap_ImGuiColorEditFlags__OptionsDefault_imgui_4778b1b319b813b6())
@@ -10389,7 +10552,9 @@ func _swig_getImGuiColorEditFlags__OptionsDefault() (_swig_ret ImGuiColorEditFla
 }
 
 var ImGuiColorEditFlags__OptionsDefault ImGuiColorEditFlags_ = _swig_getImGuiColorEditFlags__OptionsDefault()
+
 type ImGuiMouseCursor_ int
+
 func _swig_getImGuiMouseCursor_None() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_None_imgui_4778b1b319b813b6())
@@ -10397,6 +10562,7 @@ func _swig_getImGuiMouseCursor_None() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_None ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_None()
+
 func _swig_getImGuiMouseCursor_Arrow() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_Arrow_imgui_4778b1b319b813b6())
@@ -10404,6 +10570,7 @@ func _swig_getImGuiMouseCursor_Arrow() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_Arrow ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_Arrow()
+
 func _swig_getImGuiMouseCursor_TextInput() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_TextInput_imgui_4778b1b319b813b6())
@@ -10411,6 +10578,7 @@ func _swig_getImGuiMouseCursor_TextInput() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_TextInput ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_TextInput()
+
 func _swig_getImGuiMouseCursor_Move() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_Move_imgui_4778b1b319b813b6())
@@ -10418,6 +10586,7 @@ func _swig_getImGuiMouseCursor_Move() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_Move ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_Move()
+
 func _swig_getImGuiMouseCursor_ResizeNS() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_ResizeNS_imgui_4778b1b319b813b6())
@@ -10425,6 +10594,7 @@ func _swig_getImGuiMouseCursor_ResizeNS() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_ResizeNS ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_ResizeNS()
+
 func _swig_getImGuiMouseCursor_ResizeEW() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_ResizeEW_imgui_4778b1b319b813b6())
@@ -10432,6 +10602,7 @@ func _swig_getImGuiMouseCursor_ResizeEW() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_ResizeEW ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_ResizeEW()
+
 func _swig_getImGuiMouseCursor_ResizeNESW() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_ResizeNESW_imgui_4778b1b319b813b6())
@@ -10439,6 +10610,7 @@ func _swig_getImGuiMouseCursor_ResizeNESW() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_ResizeNESW ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_ResizeNESW()
+
 func _swig_getImGuiMouseCursor_ResizeNWSE() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_ResizeNWSE_imgui_4778b1b319b813b6())
@@ -10446,6 +10618,7 @@ func _swig_getImGuiMouseCursor_ResizeNWSE() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_ResizeNWSE ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_ResizeNWSE()
+
 func _swig_getImGuiMouseCursor_Count_() (_swig_ret ImGuiMouseCursor_) {
 	var swig_r ImGuiMouseCursor_
 	swig_r = (ImGuiMouseCursor_)(C._wrap_ImGuiMouseCursor_Count__imgui_4778b1b319b813b6())
@@ -10453,7 +10626,9 @@ func _swig_getImGuiMouseCursor_Count_() (_swig_ret ImGuiMouseCursor_) {
 }
 
 var ImGuiMouseCursor_Count_ ImGuiMouseCursor_ = _swig_getImGuiMouseCursor_Count_()
+
 type ImGuiCond_ int
+
 func _swig_getImGuiCond_Always() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiCond_Always_imgui_4778b1b319b813b6())
@@ -10461,6 +10636,7 @@ func _swig_getImGuiCond_Always() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiCond_Always ImGuiCond_ = _swig_getImGuiCond_Always()
+
 func _swig_getImGuiCond_Once() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiCond_Once_imgui_4778b1b319b813b6())
@@ -10468,6 +10644,7 @@ func _swig_getImGuiCond_Once() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiCond_Once ImGuiCond_ = _swig_getImGuiCond_Once()
+
 func _swig_getImGuiCond_FirstUseEver() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiCond_FirstUseEver_imgui_4778b1b319b813b6())
@@ -10475,6 +10652,7 @@ func _swig_getImGuiCond_FirstUseEver() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiCond_FirstUseEver ImGuiCond_ = _swig_getImGuiCond_FirstUseEver()
+
 func _swig_getImGuiCond_Appearing() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiCond_Appearing_imgui_4778b1b319b813b6())
@@ -10482,6 +10660,7 @@ func _swig_getImGuiCond_Appearing() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiCond_Appearing ImGuiCond_ = _swig_getImGuiCond_Appearing()
+
 func _swig_getImGuiSetCond_Always() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiSetCond_Always_imgui_4778b1b319b813b6())
@@ -10489,6 +10668,7 @@ func _swig_getImGuiSetCond_Always() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiSetCond_Always ImGuiCond_ = _swig_getImGuiSetCond_Always()
+
 func _swig_getImGuiSetCond_Once() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiSetCond_Once_imgui_4778b1b319b813b6())
@@ -10496,6 +10676,7 @@ func _swig_getImGuiSetCond_Once() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiSetCond_Once ImGuiCond_ = _swig_getImGuiSetCond_Once()
+
 func _swig_getImGuiSetCond_FirstUseEver() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiSetCond_FirstUseEver_imgui_4778b1b319b813b6())
@@ -10503,6 +10684,7 @@ func _swig_getImGuiSetCond_FirstUseEver() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiSetCond_FirstUseEver ImGuiCond_ = _swig_getImGuiSetCond_FirstUseEver()
+
 func _swig_getImGuiSetCond_Appearing() (_swig_ret ImGuiCond_) {
 	var swig_r ImGuiCond_
 	swig_r = (ImGuiCond_)(C._wrap_ImGuiSetCond_Appearing_imgui_4778b1b319b813b6())
@@ -10510,6 +10692,7 @@ func _swig_getImGuiSetCond_Appearing() (_swig_ret ImGuiCond_) {
 }
 
 var ImGuiSetCond_Appearing ImGuiCond_ = _swig_getImGuiSetCond_Appearing()
+
 type SwigcptrImGuiStyle uintptr
 
 func (p SwigcptrImGuiStyle) Swigcptr() uintptr {
@@ -10958,7 +11141,7 @@ func (arg1 SwigcptrImGuiIO) GetIniFilename() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiIO_IniFilename_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -10977,7 +11160,7 @@ func (arg1 SwigcptrImGuiIO) GetLogFilename() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiIO_LogFilename_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -11912,7 +12095,7 @@ func (arg1 SwigcptrImGuiTextFilter) GetInputBuf() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiTextFilter_InputBuf_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -12130,7 +12313,7 @@ func (arg1 SwigcptrImGuiTextBuffer) Begin() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiTextBuffer_begin_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -12140,7 +12323,7 @@ func (arg1 SwigcptrImGuiTextBuffer) End() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiTextBuffer_end_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -12169,7 +12352,7 @@ func (arg1 SwigcptrImGuiTextBuffer) C_str() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiTextBuffer_c_str_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -12612,7 +12795,7 @@ func (arg1 SwigcptrImGuiTextEditCallbackData) GetBuf() (_swig_ret string) {
 	swig_r_p := C._wrap_ImGuiTextEditCallbackData_Buf_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -12880,6 +13063,7 @@ const IM_COL32_G_SHIFT int = 8
 const IM_COL32_B_SHIFT int = 16
 const IM_COL32_A_SHIFT int = 24
 const IM_COL32_A_MASK int = 0xFF000000
+
 type SwigcptrImColor uintptr
 
 func (p SwigcptrImColor) Swigcptr() uintptr {
@@ -13575,7 +13759,7 @@ func (arg1 SwigcptrImDrawList) GetX_OwnerName() (_swig_ret string) {
 	swig_r_p := C._wrap_ImDrawList__OwnerName_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -15059,7 +15243,7 @@ func (arg1 SwigcptrImFontConfig) GetName() (_swig_ret string) {
 	swig_r_p := C._wrap_ImFontConfig_Name_get_imgui_4778b1b319b813b6(C.uintptr_t(_swig_i_0))
 	swig_r = *(*string)(unsafe.Pointer(&swig_r_p))
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -16054,7 +16238,7 @@ func (arg1 SwigcptrImFont) CalcWordWrapPositionA(arg2 float32, arg3 string, arg4
 		Swig_escape_val = arg4
 	}
 	var swig_r_1 string
- swig_r_1 = swigCopyString(swig_r) 
+	swig_r_1 = swigCopyString(swig_r)
 	return swig_r_1
 }
 
@@ -16223,156 +16407,173 @@ type ImFont interface {
 	AddRemapChar(a ...interface{})
 }
 
-
 type SwigcptrImVector_Sl_ImVec4_Sg_ uintptr
 type ImVector_Sl_ImVec4_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImVec4_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_char_Sg_ uintptr
 type ImVector_Sl_char_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_char_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_void_Sm__Sg_ uintptr
 type ImVector_Sl_void_Sm__Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_void_Sm__Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImFontAtlas_CustomRect_Sg_ uintptr
 type ImVector_Sl_ImFontAtlas_CustomRect_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImFontAtlas_CustomRect_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrVa_list uintptr
 type Va_list interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrVa_list) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImFont_Glyph uintptr
 type ImFont_Glyph interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImFont_Glyph) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImGuiTextFilter_TextRange_Sg_ uintptr
 type ImVector_Sl_ImGuiTextFilter_TextRange_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImGuiTextFilter_TextRange_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImFont_Sm__Sg_ uintptr
 type ImVector_Sl_ImFont_Sm__Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImFont_Sm__Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImFont_Glyph_Sg_ uintptr
 type ImVector_Sl_ImFont_Glyph_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImFont_Glyph_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImGuiContext uintptr
 type ImGuiContext interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImGuiContext) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImFontConfig_Sg_ uintptr
 type ImVector_Sl_ImFontConfig_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImFontConfig_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImDrawChannel_Sg_ uintptr
 type ImVector_Sl_ImDrawChannel_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImDrawChannel_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImGuiStorage_Pair_Sg_ uintptr
 type ImVector_Sl_ImGuiStorage_Pair_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImGuiStorage_Pair_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImFontAtlas_CustomRect uintptr
 type ImFontAtlas_CustomRect interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImFontAtlas_CustomRect) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_float_Sg_ uintptr
 type ImVector_Sl_float_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_float_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImDrawVert_Sg_ uintptr
 type ImVector_Sl_ImDrawVert_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImDrawVert_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImDrawCmd_Sg_ uintptr
 type ImVector_Sl_ImDrawCmd_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImDrawCmd_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_unsigned_SS_short_Sg_ uintptr
 type ImVector_Sl_unsigned_SS_short_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_unsigned_SS_short_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
 
 type SwigcptrImVector_Sl_ImVec2_Sg_ uintptr
 type ImVector_Sl_ImVec2_Sg_ interface {
-	Swigcptr() uintptr;
+	Swigcptr() uintptr
 }
+
 func (p SwigcptrImVector_Sl_ImVec2_Sg_) Swigcptr() uintptr {
 	return uintptr(p)
 }
-

@@ -1,6 +1,6 @@
 %module imgui
 %{
-#include "imgui/imgui.h"
+#include "imgui.h"
 %}
 
 %rename(GetColorU32FromU32) GetColorU32(ImU32);
@@ -17,4 +17,4 @@
 %rename(ImFontAtlas_CustomRect) ImFontAtlas::CustomRect;
 %rename(ImFont_Glyph) ImFont::Glyph;
 
-%include "imgui/imgui.h"
+%include "imgui.h"
