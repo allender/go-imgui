@@ -15,4 +15,6 @@
 %rename(SetTexID_) ImFontAtlas::SetTexID(ImTextureID);
 %rename(SetFallbackChar_) ImFont::SetFallbackChar(ImWchar);
 
+%typemap(gotype) (ImDrawList** CmdLists) %{[]DrawList%}
+
 %include "imgui.h"

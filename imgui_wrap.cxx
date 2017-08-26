@@ -255,7 +255,7 @@ static void* Swig_malloc(int c) {
 extern "C" {
 #endif
 
-void _wrap_Swig_free_imgui_792f906bddfc881e(void *_swig_go_0) {
+void _wrap_Swig_free_imgui_09d88551d48dba44(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -265,7 +265,7 @@ void _wrap_Swig_free_imgui_792f906bddfc881e(void *_swig_go_0) {
 }
 
 
-void *_wrap_Swig_malloc_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void *_wrap_Swig_malloc_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -278,7 +278,7 @@ void *_wrap_Swig_malloc_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_Vec2_x_set_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec2_x_set_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, float _swig_go_1) {
   ImVec2 *arg1 = (ImVec2 *) 0 ;
   float arg2 ;
   
@@ -290,7 +290,7 @@ void _wrap_Vec2_x_set_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec2_x_get_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+float _wrap_Vec2_x_get_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = (ImVec2 *) 0 ;
   float result;
   float _swig_go_result;
@@ -303,7 +303,7 @@ float _wrap_Vec2_x_get_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_Vec2_y_set_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec2_y_set_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, float _swig_go_1) {
   ImVec2 *arg1 = (ImVec2 *) 0 ;
   float arg2 ;
   
@@ -315,7 +315,7 @@ void _wrap_Vec2_y_set_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec2_y_get_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+float _wrap_Vec2_y_get_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = (ImVec2 *) 0 ;
   float result;
   float _swig_go_result;
@@ -328,7 +328,7 @@ float _wrap_Vec2_y_get_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-ImVec2 *_wrap_new_Vec2__SWIG_0_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_new_Vec2__SWIG_0_imgui_09d88551d48dba44() {
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
   
@@ -339,7 +339,7 @@ ImVec2 *_wrap_new_Vec2__SWIG_0_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_new_Vec2__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1) {
+ImVec2 *_wrap_new_Vec2__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   ImVec2 *result = 0 ;
@@ -354,7 +354,7 @@ ImVec2 *_wrap_new_Vec2__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float _s
 }
 
 
-void _wrap_delete_Vec2_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_delete_Vec2_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = (ImVec2 *) 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -364,7 +364,7 @@ void _wrap_delete_Vec2_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_Vec4_x_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec4_x_set_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, float _swig_go_1) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float arg2 ;
   
@@ -376,7 +376,7 @@ void _wrap_Vec4_x_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec4_x_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+float _wrap_Vec4_x_get_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float result;
   float _swig_go_result;
@@ -389,7 +389,7 @@ float _wrap_Vec4_x_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-void _wrap_Vec4_y_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec4_y_set_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, float _swig_go_1) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float arg2 ;
   
@@ -401,7 +401,7 @@ void _wrap_Vec4_y_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec4_y_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+float _wrap_Vec4_y_get_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float result;
   float _swig_go_result;
@@ -414,7 +414,7 @@ float _wrap_Vec4_y_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-void _wrap_Vec4_z_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec4_z_set_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, float _swig_go_1) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float arg2 ;
   
@@ -426,7 +426,7 @@ void _wrap_Vec4_z_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec4_z_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+float _wrap_Vec4_z_get_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float result;
   float _swig_go_result;
@@ -439,7 +439,7 @@ float _wrap_Vec4_z_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-void _wrap_Vec4_w_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_1) {
+void _wrap_Vec4_w_set_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, float _swig_go_1) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float arg2 ;
   
@@ -451,7 +451,7 @@ void _wrap_Vec4_w_set_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, float _swig_go_
 }
 
 
-float _wrap_Vec4_w_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+float _wrap_Vec4_w_get_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   float result;
   float _swig_go_result;
@@ -464,7 +464,7 @@ float _wrap_Vec4_w_get_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-ImVec4 *_wrap_new_Vec4__SWIG_0_imgui_792f906bddfc881e() {
+ImVec4 *_wrap_new_Vec4__SWIG_0_imgui_09d88551d48dba44() {
   ImVec4 *result = 0 ;
   ImVec4 *_swig_go_result;
   
@@ -475,7 +475,7 @@ ImVec4 *_wrap_new_Vec4__SWIG_0_imgui_792f906bddfc881e() {
 }
 
 
-ImVec4 *_wrap_new_Vec4__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+ImVec4 *_wrap_new_Vec4__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -494,7 +494,7 @@ ImVec4 *_wrap_new_Vec4__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float _s
 }
 
 
-void _wrap_delete_Vec4_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+void _wrap_delete_Vec4_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = (ImVec4 *) 0 ;
   
   arg1 = *(ImVec4 **)&_swig_go_0; 
@@ -504,7 +504,7 @@ void _wrap_delete_Vec4_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-ImGuiIO *_wrap_GetIO_imgui_792f906bddfc881e() {
+ImGuiIO *_wrap_GetIO_imgui_09d88551d48dba44() {
   ImGuiIO *result = 0 ;
   ImGuiIO *_swig_go_result;
   
@@ -515,7 +515,7 @@ ImGuiIO *_wrap_GetIO_imgui_792f906bddfc881e() {
 }
 
 
-ImGuiStyle *_wrap_GetStyle_imgui_792f906bddfc881e() {
+ImGuiStyle *_wrap_GetStyle_imgui_09d88551d48dba44() {
   ImGuiStyle *result = 0 ;
   ImGuiStyle *_swig_go_result;
   
@@ -526,7 +526,7 @@ ImGuiStyle *_wrap_GetStyle_imgui_792f906bddfc881e() {
 }
 
 
-ImDrawData *_wrap_GetDrawData_imgui_792f906bddfc881e() {
+ImDrawData *_wrap_GetDrawData_imgui_09d88551d48dba44() {
   ImDrawData *result = 0 ;
   ImDrawData *_swig_go_result;
   
@@ -537,25 +537,25 @@ ImDrawData *_wrap_GetDrawData_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_NewFrame_imgui_792f906bddfc881e() {
+void _wrap_NewFrame_imgui_09d88551d48dba44() {
   ImGui::NewFrame();
   
 }
 
 
-void _wrap_Render_imgui_792f906bddfc881e() {
+void _wrap_Render_imgui_09d88551d48dba44() {
   ImGui::Render();
   
 }
 
 
-void _wrap_Shutdown_imgui_792f906bddfc881e() {
+void _wrap_Shutdown_imgui_09d88551d48dba44() {
   ImGui::Shutdown();
   
 }
 
 
-void _wrap_ShowTestWindow__SWIG_0_imgui_792f906bddfc881e(bool *_swig_go_0) {
+void _wrap_ShowTestWindow__SWIG_0_imgui_09d88551d48dba44(bool *_swig_go_0) {
   bool *arg1 = (bool *) 0 ;
   
   arg1 = *(bool **)&_swig_go_0; 
@@ -565,13 +565,13 @@ void _wrap_ShowTestWindow__SWIG_0_imgui_792f906bddfc881e(bool *_swig_go_0) {
 }
 
 
-void _wrap_ShowTestWindow__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_ShowTestWindow__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::ShowTestWindow();
   
 }
 
 
-void _wrap_ShowMetricsWindow__SWIG_0_imgui_792f906bddfc881e(bool *_swig_go_0) {
+void _wrap_ShowMetricsWindow__SWIG_0_imgui_09d88551d48dba44(bool *_swig_go_0) {
   bool *arg1 = (bool *) 0 ;
   
   arg1 = *(bool **)&_swig_go_0; 
@@ -581,13 +581,13 @@ void _wrap_ShowMetricsWindow__SWIG_0_imgui_792f906bddfc881e(bool *_swig_go_0) {
 }
 
 
-void _wrap_ShowMetricsWindow__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_ShowMetricsWindow__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::ShowMetricsWindow();
   
 }
 
 
-void _wrap_ShowStyleEditor__SWIG_0_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+void _wrap_ShowStyleEditor__SWIG_0_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   
   arg1 = *(ImGuiStyle **)&_swig_go_0; 
@@ -597,19 +597,19 @@ void _wrap_ShowStyleEditor__SWIG_0_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0
 }
 
 
-void _wrap_ShowStyleEditor__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_ShowStyleEditor__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::ShowStyleEditor();
   
 }
 
 
-void _wrap_ShowUserGuide_imgui_792f906bddfc881e() {
+void _wrap_ShowUserGuide_imgui_09d88551d48dba44() {
   ImGui::ShowUserGuide();
   
 }
 
 
-bool _wrap_Begin__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_Begin__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImGuiWindowFlags arg3 ;
@@ -631,7 +631,7 @@ bool _wrap_Begin__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_sw
 }
 
 
-bool _wrap_Begin__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1) {
+bool _wrap_Begin__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   bool result;
@@ -651,7 +651,7 @@ bool _wrap_Begin__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_sw
 }
 
 
-bool _wrap_Begin__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_Begin__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -669,7 +669,7 @@ bool _wrap_Begin__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_Begin__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+bool _wrap_Begin__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -695,7 +695,7 @@ bool _wrap_Begin__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_sw
 }
 
 
-bool _wrap_Begin__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3) {
+bool _wrap_Begin__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -719,7 +719,7 @@ bool _wrap_Begin__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_sw
 }
 
 
-bool _wrap_Begin__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2) {
+bool _wrap_Begin__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, ImVec2 *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -741,13 +741,13 @@ bool _wrap_Begin__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_sw
 }
 
 
-void _wrap_End_imgui_792f906bddfc881e() {
+void _wrap_End_imgui_09d88551d48dba44() {
   ImGui::End();
   
 }
 
 
-bool _wrap_BeginChild__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2, intgo _swig_go_3) {
+bool _wrap_BeginChild__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -771,7 +771,7 @@ bool _wrap_BeginChild__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVe
 }
 
 
-bool _wrap_BeginChild__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
+bool _wrap_BeginChild__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -793,7 +793,7 @@ bool _wrap_BeginChild__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVe
 }
 
 
-bool _wrap_BeginChild__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_BeginChild__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -813,7 +813,7 @@ bool _wrap_BeginChild__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVe
 }
 
 
-bool _wrap_BeginChild__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginChild__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -831,7 +831,7 @@ bool _wrap_BeginChild__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_BeginChild__SWIG_4_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2, intgo _swig_go_3) {
+bool _wrap_BeginChild__SWIG_4_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2, intgo _swig_go_3) {
   ImGuiID arg1 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -850,7 +850,7 @@ bool _wrap_BeginChild__SWIG_4_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_
 }
 
 
-bool _wrap_BeginChild__SWIG_5_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
+bool _wrap_BeginChild__SWIG_5_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
   ImGuiID arg1 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -867,7 +867,7 @@ bool _wrap_BeginChild__SWIG_5_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_
 }
 
 
-bool _wrap_BeginChild__SWIG_6_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_BeginChild__SWIG_6_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiID arg1 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -882,7 +882,7 @@ bool _wrap_BeginChild__SWIG_6_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_
 }
 
 
-bool _wrap_BeginChild__SWIG_7_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_BeginChild__SWIG_7_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiID arg1 ;
   bool result;
   bool _swig_go_result;
@@ -895,13 +895,13 @@ bool _wrap_BeginChild__SWIG_7_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_EndChild_imgui_792f906bddfc881e() {
+void _wrap_EndChild_imgui_09d88551d48dba44() {
   ImGui::EndChild();
   
 }
 
 
-ImVec2 *_wrap_GetContentRegionMax_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetContentRegionMax_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -912,7 +912,7 @@ ImVec2 *_wrap_GetContentRegionMax_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetContentRegionAvail_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetContentRegionAvail_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -923,7 +923,7 @@ ImVec2 *_wrap_GetContentRegionAvail_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetContentRegionAvailWidth_imgui_792f906bddfc881e() {
+float _wrap_GetContentRegionAvailWidth_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -934,7 +934,7 @@ float _wrap_GetContentRegionAvailWidth_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetWindowContentRegionMin_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetWindowContentRegionMin_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -945,7 +945,7 @@ ImVec2 *_wrap_GetWindowContentRegionMin_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetWindowContentRegionMax_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetWindowContentRegionMax_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -956,7 +956,7 @@ ImVec2 *_wrap_GetWindowContentRegionMax_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetWindowContentRegionWidth_imgui_792f906bddfc881e() {
+float _wrap_GetWindowContentRegionWidth_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -967,7 +967,7 @@ float _wrap_GetWindowContentRegionWidth_imgui_792f906bddfc881e() {
 }
 
 
-ImDrawList *_wrap_GetWindowDrawList_imgui_792f906bddfc881e() {
+ImDrawList *_wrap_GetWindowDrawList_imgui_09d88551d48dba44() {
   ImDrawList *result = 0 ;
   ImDrawList *_swig_go_result;
   
@@ -978,7 +978,7 @@ ImDrawList *_wrap_GetWindowDrawList_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetWindowPos_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetWindowPos_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -989,7 +989,7 @@ ImVec2 *_wrap_GetWindowPos_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetWindowSize_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetWindowSize_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -1000,7 +1000,7 @@ ImVec2 *_wrap_GetWindowSize_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetWindowWidth_imgui_792f906bddfc881e() {
+float _wrap_GetWindowWidth_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1011,7 +1011,7 @@ float _wrap_GetWindowWidth_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetWindowHeight_imgui_792f906bddfc881e() {
+float _wrap_GetWindowHeight_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1022,7 +1022,7 @@ float _wrap_GetWindowHeight_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsWindowCollapsed_imgui_792f906bddfc881e() {
+bool _wrap_IsWindowCollapsed_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -1033,7 +1033,7 @@ bool _wrap_IsWindowCollapsed_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetWindowFontScale_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetWindowFontScale_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1043,7 +1043,7 @@ void _wrap_SetWindowFontScale_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetNextWindowPos__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SetNextWindowPos__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, intgo _swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImGuiCond arg2 ;
   
@@ -1055,7 +1055,7 @@ void _wrap_SetNextWindowPos__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, i
 }
 
 
-void _wrap_SetNextWindowPos__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetNextWindowPos__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1065,7 +1065,7 @@ void _wrap_SetNextWindowPos__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_SetNextWindowPosCenter__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_SetNextWindowPosCenter__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiCond arg1 ;
   
   arg1 = (ImGuiCond)_swig_go_0; 
@@ -1075,13 +1075,13 @@ void _wrap_SetNextWindowPosCenter__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_
 }
 
 
-void _wrap_SetNextWindowPosCenter__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_SetNextWindowPosCenter__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::SetNextWindowPosCenter();
   
 }
 
 
-void _wrap_SetNextWindowSize__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SetNextWindowSize__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, intgo _swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImGuiCond arg2 ;
   
@@ -1093,7 +1093,7 @@ void _wrap_SetNextWindowSize__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, 
 }
 
 
-void _wrap_SetNextWindowSize__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetNextWindowSize__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1103,7 +1103,7 @@ void _wrap_SetNextWindowSize__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) 
 }
 
 
-void _wrap_SetNextWindowSizeConstraints__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, void** _swig_go_2, void *_swig_go_3) {
+void _wrap_SetNextWindowSizeConstraints__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, void** _swig_go_2, void *_swig_go_3) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   ImGuiSizeConstraintCallback arg3 = (ImGuiSizeConstraintCallback) 0 ;
@@ -1119,7 +1119,7 @@ void _wrap_SetNextWindowSizeConstraints__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_
 }
 
 
-void _wrap_SetNextWindowSizeConstraints__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, void** _swig_go_2) {
+void _wrap_SetNextWindowSizeConstraints__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, void** _swig_go_2) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   ImGuiSizeConstraintCallback arg3 = (ImGuiSizeConstraintCallback) 0 ;
@@ -1133,7 +1133,7 @@ void _wrap_SetNextWindowSizeConstraints__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_
 }
 
 
-void _wrap_SetNextWindowSizeConstraints__SWIG_2_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_SetNextWindowSizeConstraints__SWIG_2_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -1145,7 +1145,7 @@ void _wrap_SetNextWindowSizeConstraints__SWIG_2_imgui_792f906bddfc881e(ImVec2 *_
 }
 
 
-void _wrap_SetNextWindowContentSize_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetNextWindowContentSize_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1155,7 +1155,7 @@ void _wrap_SetNextWindowContentSize_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_SetNextWindowContentWidth_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetNextWindowContentWidth_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1165,7 +1165,7 @@ void _wrap_SetNextWindowContentWidth_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetNextWindowCollapsed__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0, intgo _swig_go_1) {
+void _wrap_SetNextWindowCollapsed__SWIG_0_imgui_09d88551d48dba44(bool _swig_go_0, intgo _swig_go_1) {
   bool arg1 ;
   ImGuiCond arg2 ;
   
@@ -1177,7 +1177,7 @@ void _wrap_SetNextWindowCollapsed__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0
 }
 
 
-void _wrap_SetNextWindowCollapsed__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_SetNextWindowCollapsed__SWIG_1_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -1187,13 +1187,13 @@ void _wrap_SetNextWindowCollapsed__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0
 }
 
 
-void _wrap_SetNextWindowFocus_imgui_792f906bddfc881e() {
+void _wrap_SetNextWindowFocus_imgui_09d88551d48dba44() {
   ImGui::SetNextWindowFocus();
   
 }
 
 
-void _wrap_SetWindowPos__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SetWindowPos__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, intgo _swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImGuiCond arg2 ;
   
@@ -1205,7 +1205,7 @@ void _wrap_SetWindowPos__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intgo
 }
 
 
-void _wrap_SetWindowPos__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetWindowPos__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1215,7 +1215,7 @@ void _wrap_SetWindowPos__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_SetWindowSize__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intgo _swig_go_1) {
+void _wrap_SetWindowSize__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, intgo _swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImGuiCond arg2 ;
   
@@ -1227,7 +1227,7 @@ void _wrap_SetWindowSize__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, intg
 }
 
 
-void _wrap_SetWindowSize__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetWindowSize__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1237,7 +1237,7 @@ void _wrap_SetWindowSize__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_SetWindowCollapsed__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0, intgo _swig_go_1) {
+void _wrap_SetWindowCollapsed__SWIG_0_imgui_09d88551d48dba44(bool _swig_go_0, intgo _swig_go_1) {
   bool arg1 ;
   ImGuiCond arg2 ;
   
@@ -1249,7 +1249,7 @@ void _wrap_SetWindowCollapsed__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0, in
 }
 
 
-void _wrap_SetWindowCollapsed__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_SetWindowCollapsed__SWIG_1_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -1259,13 +1259,13 @@ void _wrap_SetWindowCollapsed__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0) {
 }
 
 
-void _wrap_SetWindowFocus__SWIG_0_imgui_792f906bddfc881e() {
+void _wrap_SetWindowFocus__SWIG_0_imgui_09d88551d48dba44() {
   ImGui::SetWindowFocus();
   
 }
 
 
-void _wrap_SetWindowPos__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SetWindowPos__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImGuiCond arg3 ;
@@ -1284,7 +1284,7 @@ void _wrap_SetWindowPos__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, Im
 }
 
 
-void _wrap_SetWindowPos__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_SetWindowPos__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -1301,7 +1301,7 @@ void _wrap_SetWindowPos__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, Im
 }
 
 
-void _wrap_SetWindowSize__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
+void _wrap_SetWindowSize__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImGuiCond arg3 ;
@@ -1320,7 +1320,7 @@ void _wrap_SetWindowSize__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, I
 }
 
 
-void _wrap_SetWindowSize__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_SetWindowSize__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -1337,7 +1337,7 @@ void _wrap_SetWindowSize__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, I
 }
 
 
-void _wrap_SetWindowCollapsed__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2) {
+void _wrap_SetWindowCollapsed__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   ImGuiCond arg3 ;
@@ -1356,7 +1356,7 @@ void _wrap_SetWindowCollapsed__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-void _wrap_SetWindowCollapsed__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1) {
+void _wrap_SetWindowCollapsed__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   
@@ -1373,7 +1373,7 @@ void _wrap_SetWindowCollapsed__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-void _wrap_SetWindowFocus__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_SetWindowFocus__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -1388,7 +1388,7 @@ void _wrap_SetWindowFocus__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) 
 }
 
 
-float _wrap_GetScrollX_imgui_792f906bddfc881e() {
+float _wrap_GetScrollX_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1399,7 +1399,7 @@ float _wrap_GetScrollX_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetScrollY_imgui_792f906bddfc881e() {
+float _wrap_GetScrollY_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1410,7 +1410,7 @@ float _wrap_GetScrollY_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetScrollMaxX_imgui_792f906bddfc881e() {
+float _wrap_GetScrollMaxX_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1421,7 +1421,7 @@ float _wrap_GetScrollMaxX_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetScrollMaxY_imgui_792f906bddfc881e() {
+float _wrap_GetScrollMaxY_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1432,7 +1432,7 @@ float _wrap_GetScrollMaxY_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetScrollX_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetScrollX_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1442,7 +1442,7 @@ void _wrap_SetScrollX_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetScrollY_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetScrollY_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1452,7 +1452,7 @@ void _wrap_SetScrollY_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetScrollHere__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetScrollHere__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1462,13 +1462,13 @@ void _wrap_SetScrollHere__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetScrollHere__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_SetScrollHere__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::SetScrollHere();
   
 }
 
 
-void _wrap_SetScrollFromPosY__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1) {
+void _wrap_SetScrollFromPosY__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   
@@ -1480,7 +1480,7 @@ void _wrap_SetScrollFromPosY__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, fl
 }
 
 
-void _wrap_SetScrollFromPosY__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetScrollFromPosY__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1490,7 +1490,7 @@ void _wrap_SetScrollFromPosY__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetKeyboardFocusHere__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_SetKeyboardFocusHere__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -1500,13 +1500,13 @@ void _wrap_SetKeyboardFocusHere__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0)
 }
 
 
-void _wrap_SetKeyboardFocusHere__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_SetKeyboardFocusHere__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::SetKeyboardFocusHere();
   
 }
 
 
-void _wrap_SetStateStorage_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
+void _wrap_SetStateStorage_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   
   arg1 = *(ImGuiStorage **)&_swig_go_0; 
@@ -1516,7 +1516,7 @@ void _wrap_SetStateStorage_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
 }
 
 
-ImGuiStorage *_wrap_GetStateStorage_imgui_792f906bddfc881e() {
+ImGuiStorage *_wrap_GetStateStorage_imgui_09d88551d48dba44() {
   ImGuiStorage *result = 0 ;
   ImGuiStorage *_swig_go_result;
   
@@ -1527,7 +1527,7 @@ ImGuiStorage *_wrap_GetStateStorage_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_PushFont_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+void _wrap_PushFont_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   
   arg1 = *(ImFont **)&_swig_go_0; 
@@ -1537,13 +1537,13 @@ void _wrap_PushFont_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_PopFont_imgui_792f906bddfc881e() {
+void _wrap_PopFont_imgui_09d88551d48dba44() {
   ImGui::PopFont();
   
 }
 
 
-void _wrap_PushStyleColor__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, intgo _swig_go_1) {
+void _wrap_PushStyleColor__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, intgo _swig_go_1) {
   ImGuiCol arg1 ;
   ImU32 arg2 ;
   
@@ -1555,7 +1555,7 @@ void _wrap_PushStyleColor__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, intgo
 }
 
 
-void _wrap_PushStyleColor__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec4 *_swig_go_1) {
+void _wrap_PushStyleColor__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec4 *_swig_go_1) {
   ImGuiCol arg1 ;
   ImVec4 *arg2 = 0 ;
   
@@ -1567,7 +1567,7 @@ void _wrap_PushStyleColor__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec
 }
 
 
-void _wrap_PopStyleColor__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_PopStyleColor__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -1577,13 +1577,13 @@ void _wrap_PopStyleColor__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_PopStyleColor__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_PopStyleColor__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::PopStyleColor();
   
 }
 
 
-void _wrap_PushStyleVar__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+void _wrap_PushStyleVar__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   ImGuiStyleVar arg1 ;
   float arg2 ;
   
@@ -1595,7 +1595,7 @@ void _wrap_PushStyleVar__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _
 }
 
 
-void _wrap_PushStyleVar__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_PushStyleVar__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyleVar arg1 ;
   ImVec2 *arg2 = 0 ;
   
@@ -1607,7 +1607,7 @@ void _wrap_PushStyleVar__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 
 }
 
 
-void _wrap_PopStyleVar__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_PopStyleVar__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -1617,13 +1617,13 @@ void _wrap_PopStyleVar__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_PopStyleVar__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_PopStyleVar__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::PopStyleVar();
   
 }
 
 
-ImVec4 *_wrap_GetStyleColorVec4_imgui_792f906bddfc881e(intgo _swig_go_0) {
+ImVec4 *_wrap_GetStyleColorVec4_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiCol arg1 ;
   ImVec4 *result = 0 ;
   ImVec4 *_swig_go_result;
@@ -1636,7 +1636,7 @@ ImVec4 *_wrap_GetStyleColorVec4_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-ImFont *_wrap_GetFont_imgui_792f906bddfc881e() {
+ImFont *_wrap_GetFont_imgui_09d88551d48dba44() {
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
   
@@ -1647,7 +1647,7 @@ ImFont *_wrap_GetFont_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetFontSize_imgui_792f906bddfc881e() {
+float _wrap_GetFontSize_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1658,7 +1658,7 @@ float _wrap_GetFontSize_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetFontTexUvWhitePixel_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetFontTexUvWhitePixel_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -1669,7 +1669,7 @@ ImVec2 *_wrap_GetFontTexUvWhitePixel_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GetColorU32__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+intgo _wrap_GetColorU32__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   ImGuiCol arg1 ;
   float arg2 ;
   ImU32 result;
@@ -1684,7 +1684,7 @@ intgo _wrap_GetColorU32__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _
 }
 
 
-intgo _wrap_GetColorU32__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+intgo _wrap_GetColorU32__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiCol arg1 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -1697,7 +1697,7 @@ intgo _wrap_GetColorU32__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_GetColorU32__SWIG_2_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+intgo _wrap_GetColorU32__SWIG_2_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = 0 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -1710,7 +1710,7 @@ intgo _wrap_GetColorU32__SWIG_2_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-intgo _wrap_GetColorU32FromU32_imgui_792f906bddfc881e(intgo _swig_go_0) {
+intgo _wrap_GetColorU32FromU32_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImU32 arg1 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -1723,7 +1723,7 @@ intgo _wrap_GetColorU32FromU32_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_PushItemWidth_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_PushItemWidth_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1733,13 +1733,13 @@ void _wrap_PushItemWidth_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_PopItemWidth_imgui_792f906bddfc881e() {
+void _wrap_PopItemWidth_imgui_09d88551d48dba44() {
   ImGui::PopItemWidth();
   
 }
 
 
-float _wrap_CalcItemWidth_imgui_792f906bddfc881e() {
+float _wrap_CalcItemWidth_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1750,7 +1750,7 @@ float _wrap_CalcItemWidth_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_PushTextWrapPos__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_PushTextWrapPos__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1760,19 +1760,19 @@ void _wrap_PushTextWrapPos__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_PushTextWrapPos__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_PushTextWrapPos__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::PushTextWrapPos();
   
 }
 
 
-void _wrap_PopTextWrapPos_imgui_792f906bddfc881e() {
+void _wrap_PopTextWrapPos_imgui_09d88551d48dba44() {
   ImGui::PopTextWrapPos();
   
 }
 
 
-void _wrap_PushAllowKeyboardFocus_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_PushAllowKeyboardFocus_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -1782,13 +1782,13 @@ void _wrap_PushAllowKeyboardFocus_imgui_792f906bddfc881e(bool _swig_go_0) {
 }
 
 
-void _wrap_PopAllowKeyboardFocus_imgui_792f906bddfc881e() {
+void _wrap_PopAllowKeyboardFocus_imgui_09d88551d48dba44() {
   ImGui::PopAllowKeyboardFocus();
   
 }
 
 
-void _wrap_PushButtonRepeat_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_PushButtonRepeat_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -1798,19 +1798,19 @@ void _wrap_PushButtonRepeat_imgui_792f906bddfc881e(bool _swig_go_0) {
 }
 
 
-void _wrap_PopButtonRepeat_imgui_792f906bddfc881e() {
+void _wrap_PopButtonRepeat_imgui_09d88551d48dba44() {
   ImGui::PopButtonRepeat();
   
 }
 
 
-void _wrap_Separator_imgui_792f906bddfc881e() {
+void _wrap_Separator_imgui_09d88551d48dba44() {
   ImGui::Separator();
   
 }
 
 
-void _wrap_SameLine__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1) {
+void _wrap_SameLine__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1) {
   float arg1 ;
   float arg2 ;
   
@@ -1822,7 +1822,7 @@ void _wrap_SameLine__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, float _swig
 }
 
 
-void _wrap_SameLine__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SameLine__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1832,25 +1832,25 @@ void _wrap_SameLine__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SameLine__SWIG_2_imgui_792f906bddfc881e() {
+void _wrap_SameLine__SWIG_2_imgui_09d88551d48dba44() {
   ImGui::SameLine();
   
 }
 
 
-void _wrap_NewLine_imgui_792f906bddfc881e() {
+void _wrap_NewLine_imgui_09d88551d48dba44() {
   ImGui::NewLine();
   
 }
 
 
-void _wrap_Spacing_imgui_792f906bddfc881e() {
+void _wrap_Spacing_imgui_09d88551d48dba44() {
   ImGui::Spacing();
   
 }
 
 
-void _wrap_Dummy_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_Dummy_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1860,7 +1860,7 @@ void _wrap_Dummy_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_Indent__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_Indent__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1870,13 +1870,13 @@ void _wrap_Indent__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_Indent__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_Indent__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::Indent();
   
 }
 
 
-void _wrap_Unindent__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_Unindent__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1886,25 +1886,25 @@ void _wrap_Unindent__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_Unindent__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_Unindent__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::Unindent();
   
 }
 
 
-void _wrap_BeginGroup_imgui_792f906bddfc881e() {
+void _wrap_BeginGroup_imgui_09d88551d48dba44() {
   ImGui::BeginGroup();
   
 }
 
 
-void _wrap_EndGroup_imgui_792f906bddfc881e() {
+void _wrap_EndGroup_imgui_09d88551d48dba44() {
   ImGui::EndGroup();
   
 }
 
 
-ImVec2 *_wrap_GetCursorPos_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetCursorPos_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -1915,7 +1915,7 @@ ImVec2 *_wrap_GetCursorPos_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetCursorPosX_imgui_792f906bddfc881e() {
+float _wrap_GetCursorPosX_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1926,7 +1926,7 @@ float _wrap_GetCursorPosX_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetCursorPosY_imgui_792f906bddfc881e() {
+float _wrap_GetCursorPosY_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -1937,7 +1937,7 @@ float _wrap_GetCursorPosY_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetCursorPos_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetCursorPos_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1947,7 +1947,7 @@ void _wrap_SetCursorPos_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_SetCursorPosX_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetCursorPosX_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1957,7 +1957,7 @@ void _wrap_SetCursorPosX_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-void _wrap_SetCursorPosY_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_SetCursorPosY_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -1967,7 +1967,7 @@ void _wrap_SetCursorPosY_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-ImVec2 *_wrap_GetCursorStartPos_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetCursorStartPos_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -1978,7 +1978,7 @@ ImVec2 *_wrap_GetCursorStartPos_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetCursorScreenPos_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetCursorScreenPos_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -1989,7 +1989,7 @@ ImVec2 *_wrap_GetCursorScreenPos_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetCursorScreenPos_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+void _wrap_SetCursorScreenPos_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   
   arg1 = *(ImVec2 **)&_swig_go_0; 
@@ -1999,13 +1999,13 @@ void _wrap_SetCursorScreenPos_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-void _wrap_AlignFirstTextHeightToWidgets_imgui_792f906bddfc881e() {
+void _wrap_AlignFirstTextHeightToWidgets_imgui_09d88551d48dba44() {
   ImGui::AlignFirstTextHeightToWidgets();
   
 }
 
 
-float _wrap_GetTextLineHeight_imgui_792f906bddfc881e() {
+float _wrap_GetTextLineHeight_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -2016,7 +2016,7 @@ float _wrap_GetTextLineHeight_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetTextLineHeightWithSpacing_imgui_792f906bddfc881e() {
+float _wrap_GetTextLineHeightWithSpacing_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -2027,7 +2027,7 @@ float _wrap_GetTextLineHeightWithSpacing_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetItemsLineHeightWithSpacing_imgui_792f906bddfc881e() {
+float _wrap_GetItemsLineHeightWithSpacing_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -2038,7 +2038,7 @@ float _wrap_GetItemsLineHeightWithSpacing_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_Columns__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
+void _wrap_Columns__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
   int arg1 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -2057,7 +2057,7 @@ void _wrap_Columns__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_ _
 }
 
 
-void _wrap_Columns__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_Columns__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0, _gostring_ _swig_go_1) {
   int arg1 ;
   char *arg2 = (char *) 0 ;
   
@@ -2074,7 +2074,7 @@ void _wrap_Columns__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_ _
 }
 
 
-void _wrap_Columns__SWIG_2_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_Columns__SWIG_2_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -2084,19 +2084,19 @@ void _wrap_Columns__SWIG_2_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_Columns__SWIG_3_imgui_792f906bddfc881e() {
+void _wrap_Columns__SWIG_3_imgui_09d88551d48dba44() {
   ImGui::Columns();
   
 }
 
 
-void _wrap_NextColumn_imgui_792f906bddfc881e() {
+void _wrap_NextColumn_imgui_09d88551d48dba44() {
   ImGui::NextColumn();
   
 }
 
 
-intgo _wrap_GetColumnIndex_imgui_792f906bddfc881e() {
+intgo _wrap_GetColumnIndex_imgui_09d88551d48dba44() {
   int result;
   intgo _swig_go_result;
   
@@ -2107,7 +2107,7 @@ intgo _wrap_GetColumnIndex_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetColumnWidth__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+float _wrap_GetColumnWidth__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   float result;
   float _swig_go_result;
@@ -2120,7 +2120,7 @@ float _wrap_GetColumnWidth__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-float _wrap_GetColumnWidth__SWIG_1_imgui_792f906bddfc881e() {
+float _wrap_GetColumnWidth__SWIG_1_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -2131,7 +2131,7 @@ float _wrap_GetColumnWidth__SWIG_1_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetColumnWidth_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+void _wrap_SetColumnWidth_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   int arg1 ;
   float arg2 ;
   
@@ -2143,7 +2143,7 @@ void _wrap_SetColumnWidth_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_g
 }
 
 
-float _wrap_GetColumnOffset__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+float _wrap_GetColumnOffset__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   float result;
   float _swig_go_result;
@@ -2156,7 +2156,7 @@ float _wrap_GetColumnOffset__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-float _wrap_GetColumnOffset__SWIG_1_imgui_792f906bddfc881e() {
+float _wrap_GetColumnOffset__SWIG_1_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -2167,7 +2167,7 @@ float _wrap_GetColumnOffset__SWIG_1_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetColumnOffset_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+void _wrap_SetColumnOffset_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   int arg1 ;
   float arg2 ;
   
@@ -2179,7 +2179,7 @@ void _wrap_SetColumnOffset_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_
 }
 
 
-intgo _wrap_GetColumnsCount_imgui_792f906bddfc881e() {
+intgo _wrap_GetColumnsCount_imgui_09d88551d48dba44() {
   int result;
   intgo _swig_go_result;
   
@@ -2190,7 +2190,7 @@ intgo _wrap_GetColumnsCount_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_PushID__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_PushID__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -2205,7 +2205,7 @@ void _wrap_PushID__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_PushID__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_PushID__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -2227,7 +2227,7 @@ void _wrap_PushID__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostrin
 }
 
 
-void _wrap_PushID__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
+void _wrap_PushID__SWIG_2_imgui_09d88551d48dba44(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -2237,7 +2237,7 @@ void _wrap_PushID__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
 }
 
 
-void _wrap_PushID__SWIG_3_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_PushID__SWIG_3_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -2247,13 +2247,13 @@ void _wrap_PushID__SWIG_3_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_PopID_imgui_792f906bddfc881e() {
+void _wrap_PopID_imgui_09d88551d48dba44() {
   ImGui::PopID();
   
 }
 
 
-intgo _wrap_GetID__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+intgo _wrap_GetID__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   ImGuiID result;
   intgo _swig_go_result;
@@ -2271,7 +2271,7 @@ intgo _wrap_GetID__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-intgo _wrap_GetID__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+intgo _wrap_GetID__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   ImGuiID result;
@@ -2296,7 +2296,7 @@ intgo _wrap_GetID__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostrin
 }
 
 
-intgo _wrap_GetID__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
+intgo _wrap_GetID__SWIG_2_imgui_09d88551d48dba44(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   ImGuiID result;
   intgo _swig_go_result;
@@ -2309,7 +2309,7 @@ intgo _wrap_GetID__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
 }
 
 
-void _wrap_Text_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_Text_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -2325,7 +2325,7 @@ void _wrap_Text_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_TextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go_1) {
+void _wrap_TextV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, va_list *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   va_list arg2 ;
   va_list *argp2 ;
@@ -2349,7 +2349,7 @@ void _wrap_TextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go
 }
 
 
-void _wrap_TextColored_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_TextColored_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, _gostring_ _swig_go_1) {
   ImVec4 *arg1 = 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -2367,7 +2367,7 @@ void _wrap_TextColored_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, _gostring_ _sw
 }
 
 
-void _wrap_TextColoredV_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+void _wrap_TextColoredV_imgui_09d88551d48dba44(ImVec4 *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   ImVec4 *arg1 = 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -2393,7 +2393,7 @@ void _wrap_TextColoredV_imgui_792f906bddfc881e(ImVec4 *_swig_go_0, _gostring_ _s
 }
 
 
-void _wrap_TextDisabled_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_TextDisabled_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -2409,7 +2409,7 @@ void _wrap_TextDisabled_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_TextDisabledV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go_1) {
+void _wrap_TextDisabledV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, va_list *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   va_list arg2 ;
   va_list *argp2 ;
@@ -2433,7 +2433,7 @@ void _wrap_TextDisabledV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *
 }
 
 
-void _wrap_TextWrapped_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_TextWrapped_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -2449,7 +2449,7 @@ void _wrap_TextWrapped_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_TextWrappedV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go_1) {
+void _wrap_TextWrappedV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, va_list *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   va_list arg2 ;
   va_list *argp2 ;
@@ -2473,7 +2473,7 @@ void _wrap_TextWrappedV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_
 }
 
 
-void _wrap_TextUnformatted__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_TextUnformatted__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -2495,7 +2495,7 @@ void _wrap_TextUnformatted__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-void _wrap_TextUnformatted__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_TextUnformatted__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -2510,7 +2510,7 @@ void _wrap_TextUnformatted__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0)
 }
 
 
-void _wrap_LabelText_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_LabelText_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -2533,7 +2533,7 @@ void _wrap_LabelText_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _s
 }
 
 
-void _wrap_LabelTextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+void _wrap_LabelTextV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -2564,13 +2564,13 @@ void _wrap_LabelTextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _
 }
 
 
-void _wrap_Bullet_imgui_792f906bddfc881e() {
+void _wrap_Bullet_imgui_09d88551d48dba44() {
   ImGui::Bullet();
   
 }
 
 
-void _wrap_BulletText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_BulletText_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -2586,7 +2586,7 @@ void _wrap_BulletText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_BulletTextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go_1) {
+void _wrap_BulletTextV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, va_list *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   va_list arg2 ;
   va_list *argp2 ;
@@ -2610,7 +2610,7 @@ void _wrap_BulletTextV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_s
 }
 
 
-bool _wrap_Button__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_Button__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -2630,7 +2630,7 @@ bool _wrap_Button__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *
 }
 
 
-bool _wrap_Button__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_Button__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2648,7 +2648,7 @@ bool _wrap_Button__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_SmallButton_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_SmallButton_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -2666,7 +2666,7 @@ bool _wrap_SmallButton_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_InvisibleButton_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_InvisibleButton_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -2686,7 +2686,7 @@ bool _wrap_InvisibleButton_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 
 }
 
 
-void _wrap_age__SWIG_0_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec4 *_swig_go_4, ImVec4 *_swig_go_5) {
+void _wrap_age__SWIG_0_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec4 *_swig_go_4, ImVec4 *_swig_go_5) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2706,7 +2706,7 @@ void _wrap_age__SWIG_0_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_s
 }
 
 
-void _wrap_age__SWIG_1_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec4 *_swig_go_4) {
+void _wrap_age__SWIG_1_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec4 *_swig_go_4) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2724,7 +2724,7 @@ void _wrap_age__SWIG_1_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_s
 }
 
 
-void _wrap_age__SWIG_2_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
+void _wrap_age__SWIG_2_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2740,7 +2740,7 @@ void _wrap_age__SWIG_2_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_s
 }
 
 
-void _wrap_age__SWIG_3_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
+void _wrap_age__SWIG_3_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2754,7 +2754,7 @@ void _wrap_age__SWIG_3_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_s
 }
 
 
-void _wrap_age__SWIG_4_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_age__SWIG_4_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -2766,7 +2766,7 @@ void _wrap_age__SWIG_4_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_s
 }
 
 
-bool _wrap_ageButton__SWIG_0_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, ImVec4 *_swig_go_6) {
+bool _wrap_ageButton__SWIG_0_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, ImVec4 *_swig_go_6) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2791,7 +2791,7 @@ bool _wrap_ageButton__SWIG_0_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_ageButton__SWIG_1_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5) {
+bool _wrap_ageButton__SWIG_1_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2814,7 +2814,7 @@ bool _wrap_ageButton__SWIG_1_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_ageButton__SWIG_2_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
+bool _wrap_ageButton__SWIG_2_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2835,7 +2835,7 @@ bool _wrap_ageButton__SWIG_2_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_ageButton__SWIG_3_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
+bool _wrap_ageButton__SWIG_3_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2854,7 +2854,7 @@ bool _wrap_ageButton__SWIG_3_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_ageButton__SWIG_4_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
+bool _wrap_ageButton__SWIG_4_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -2871,7 +2871,7 @@ bool _wrap_ageButton__SWIG_4_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_ageButton__SWIG_5_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_ageButton__SWIG_5_imgui_09d88551d48dba44(ImTextureID _swig_go_0, ImVec2 *_swig_go_1) {
   ImTextureID arg1 = (ImTextureID) 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -2886,7 +2886,7 @@ bool _wrap_ageButton__SWIG_5_imgui_792f906bddfc881e(ImTextureID _swig_go_0, ImVe
 }
 
 
-bool _wrap_Checkbox_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1) {
+bool _wrap_Checkbox_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   bool result;
@@ -2906,7 +2906,7 @@ bool _wrap_Checkbox_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go
 }
 
 
-bool _wrap_CheckboxFlags_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_CheckboxFlags_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   unsigned int arg3 ;
@@ -2928,7 +2928,7 @@ bool _wrap_CheckboxFlags_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_RadioButton__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1) {
+bool _wrap_RadioButton__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   bool result;
@@ -2948,7 +2948,7 @@ bool _wrap_RadioButton__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, boo
 }
 
 
-bool _wrap_RadioButton__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_RadioButton__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -2970,7 +2970,7 @@ bool _wrap_RadioButton__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, int
 }
 
 
-bool _wrap_Combo__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_Combo__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char **arg3 = (char **) 0 ;
@@ -2996,7 +2996,7 @@ bool _wrap_Combo__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_Combo__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3) {
+bool _wrap_Combo__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char **arg3 = (char **) 0 ;
@@ -3020,7 +3020,7 @@ bool _wrap_Combo__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_Combo__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
+bool _wrap_Combo__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_ _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -3049,7 +3049,7 @@ bool _wrap_Combo__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_Combo__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_ _swig_go_2) {
+bool _wrap_Combo__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_ _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -3076,7 +3076,7 @@ bool _wrap_Combo__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_Combo__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+bool _wrap_Combo__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool (*arg3)(void *,int,char const **) = (bool (*)(void *,int,char const **)) 0 ;
@@ -3104,7 +3104,7 @@ bool _wrap_Combo__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-bool _wrap_Combo__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4) {
+bool _wrap_Combo__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool (*arg3)(void *,int,char const **) = (bool (*)(void *,int,char const **)) 0 ;
@@ -3130,7 +3130,7 @@ bool _wrap_Combo__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_s
 }
 
 
-void _wrap_PlotLines__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7, intgo _swig_go_8) {
+void _wrap_PlotLines__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7, intgo _swig_go_8) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3173,7 +3173,7 @@ void _wrap_PlotLines__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7) {
+void _wrap_PlotLines__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3214,7 +3214,7 @@ void _wrap_PlotLines__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6) {
+void _wrap_PlotLines__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3246,7 +3246,7 @@ void _wrap_PlotLines__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+void _wrap_PlotLines__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3276,7 +3276,7 @@ void _wrap_PlotLines__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+void _wrap_PlotLines__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3304,7 +3304,7 @@ void _wrap_PlotLines__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+void _wrap_PlotLines__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3325,7 +3325,7 @@ void _wrap_PlotLines__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_PlotLines__SWIG_6_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3344,7 +3344,7 @@ void _wrap_PlotLines__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-void _wrap_PlotLines__SWIG_7_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7, ImVec2 *_swig_go_8) {
+void _wrap_PlotLines__SWIG_7_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7, ImVec2 *_swig_go_8) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3387,7 +3387,7 @@ void _wrap_PlotLines__SWIG_7_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void*
 }
 
 
-void _wrap_PlotLines__SWIG_8_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7) {
+void _wrap_PlotLines__SWIG_8_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3421,7 +3421,7 @@ void _wrap_PlotLines__SWIG_8_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void*
 }
 
 
-void _wrap_PlotLines__SWIG_9_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+void _wrap_PlotLines__SWIG_9_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3453,7 +3453,7 @@ void _wrap_PlotLines__SWIG_9_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void*
 }
 
 
-void _wrap_PlotLines__SWIG_10_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+void _wrap_PlotLines__SWIG_10_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3483,7 +3483,7 @@ void _wrap_PlotLines__SWIG_10_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void
 }
 
 
-void _wrap_PlotLines__SWIG_11_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_PlotLines__SWIG_11_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3506,7 +3506,7 @@ void _wrap_PlotLines__SWIG_11_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void
 }
 
 
-void _wrap_PlotLines__SWIG_12_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3) {
+void _wrap_PlotLines__SWIG_12_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3527,7 +3527,7 @@ void _wrap_PlotLines__SWIG_12_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void
 }
 
 
-void _wrap_PlotHistogram__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7, intgo _swig_go_8) {
+void _wrap_PlotHistogram__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7, intgo _swig_go_8) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3570,7 +3570,7 @@ void _wrap_PlotHistogram__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7) {
+void _wrap_PlotHistogram__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6, ImVec2 *_swig_go_7) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3611,7 +3611,7 @@ void _wrap_PlotHistogram__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6) {
+void _wrap_PlotHistogram__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3643,7 +3643,7 @@ void _wrap_PlotHistogram__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+void _wrap_PlotHistogram__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3673,7 +3673,7 @@ void _wrap_PlotHistogram__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+void _wrap_PlotHistogram__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3701,7 +3701,7 @@ void _wrap_PlotHistogram__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+void _wrap_PlotHistogram__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3722,7 +3722,7 @@ void _wrap_PlotHistogram__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+void _wrap_PlotHistogram__SWIG_6_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   int arg3 ;
@@ -3741,7 +3741,7 @@ void _wrap_PlotHistogram__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, f
 }
 
 
-void _wrap_PlotHistogram__SWIG_7_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7, ImVec2 *_swig_go_8) {
+void _wrap_PlotHistogram__SWIG_7_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7, ImVec2 *_swig_go_8) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3784,7 +3784,7 @@ void _wrap_PlotHistogram__SWIG_7_imgui_792f906bddfc881e(_gostring_ _swig_go_0, v
 }
 
 
-void _wrap_PlotHistogram__SWIG_8_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7) {
+void _wrap_PlotHistogram__SWIG_8_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6, float _swig_go_7) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3818,7 +3818,7 @@ void _wrap_PlotHistogram__SWIG_8_imgui_792f906bddfc881e(_gostring_ _swig_go_0, v
 }
 
 
-void _wrap_PlotHistogram__SWIG_9_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+void _wrap_PlotHistogram__SWIG_9_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3850,7 +3850,7 @@ void _wrap_PlotHistogram__SWIG_9_imgui_792f906bddfc881e(_gostring_ _swig_go_0, v
 }
 
 
-void _wrap_PlotHistogram__SWIG_10_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+void _wrap_PlotHistogram__SWIG_10_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3880,7 +3880,7 @@ void _wrap_PlotHistogram__SWIG_10_imgui_792f906bddfc881e(_gostring_ _swig_go_0, 
 }
 
 
-void _wrap_PlotHistogram__SWIG_11_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_PlotHistogram__SWIG_11_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3903,7 +3903,7 @@ void _wrap_PlotHistogram__SWIG_11_imgui_792f906bddfc881e(_gostring_ _swig_go_0, 
 }
 
 
-void _wrap_PlotHistogram__SWIG_12_imgui_792f906bddfc881e(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3) {
+void _wrap_PlotHistogram__SWIG_12_imgui_09d88551d48dba44(_gostring_ _swig_go_0, void* _swig_go_1, void *_swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float (*arg2)(void *,int) = (float (*)(void *,int)) 0 ;
   void *arg3 = (void *) 0 ;
@@ -3924,7 +3924,7 @@ void _wrap_PlotHistogram__SWIG_12_imgui_792f906bddfc881e(_gostring_ _swig_go_0, 
 }
 
 
-void _wrap_ProgressBar__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, ImVec2 *_swig_go_1, _gostring_ _swig_go_2) {
+void _wrap_ProgressBar__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0, ImVec2 *_swig_go_1, _gostring_ _swig_go_2) {
   float arg1 ;
   ImVec2 *arg2 = 0 ;
   char *arg3 = (char *) 0 ;
@@ -3943,7 +3943,7 @@ void _wrap_ProgressBar__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, ImVec2 *
 }
 
 
-void _wrap_ProgressBar__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_ProgressBar__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0, ImVec2 *_swig_go_1) {
   float arg1 ;
   ImVec2 *arg2 = 0 ;
   
@@ -3955,7 +3955,7 @@ void _wrap_ProgressBar__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, ImVec2 *
 }
 
 
-void _wrap_ProgressBar__SWIG_2_imgui_792f906bddfc881e(float _swig_go_0) {
+void _wrap_ProgressBar__SWIG_2_imgui_09d88551d48dba44(float _swig_go_0) {
   float arg1 ;
   
   arg1 = (float)_swig_go_0; 
@@ -3965,7 +3965,7 @@ void _wrap_ProgressBar__SWIG_2_imgui_792f906bddfc881e(float _swig_go_0) {
 }
 
 
-bool _wrap_DragFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+bool _wrap_DragFloat__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -4000,7 +4000,7 @@ bool _wrap_DragFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragFloat__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -4033,7 +4033,7 @@ bool _wrap_DragFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_DragFloat__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -4059,7 +4059,7 @@ bool _wrap_DragFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_DragFloat__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -4083,7 +4083,7 @@ bool _wrap_DragFloat__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragFloat__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -4105,7 +4105,7 @@ bool _wrap_DragFloat__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_DragFloat__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   bool result;
@@ -4125,7 +4125,7 @@ bool _wrap_DragFloat__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float
 }
 
 
-bool _wrap_DragFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+bool _wrap_DragFloat2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4160,7 +4160,7 @@ bool _wrap_DragFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragFloat2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4193,7 +4193,7 @@ bool _wrap_DragFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_DragFloat2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4219,7 +4219,7 @@ bool _wrap_DragFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_DragFloat2__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4243,7 +4243,7 @@ bool _wrap_DragFloat2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragFloat2__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4265,7 +4265,7 @@ bool _wrap_DragFloat2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_DragFloat2__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -4285,7 +4285,7 @@ bool _wrap_DragFloat2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+bool _wrap_DragFloat3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4320,7 +4320,7 @@ bool _wrap_DragFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragFloat3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4353,7 +4353,7 @@ bool _wrap_DragFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_DragFloat3__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4379,7 +4379,7 @@ bool _wrap_DragFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_DragFloat3__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4403,7 +4403,7 @@ bool _wrap_DragFloat3__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragFloat3__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4425,7 +4425,7 @@ bool _wrap_DragFloat3__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat3__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_DragFloat3__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -4445,7 +4445,7 @@ bool _wrap_DragFloat3__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+bool _wrap_DragFloat4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4480,7 +4480,7 @@ bool _wrap_DragFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragFloat4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4513,7 +4513,7 @@ bool _wrap_DragFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_DragFloat4__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4539,7 +4539,7 @@ bool _wrap_DragFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_DragFloat4__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4563,7 +4563,7 @@ bool _wrap_DragFloat4__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragFloat4__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -4585,7 +4585,7 @@ bool _wrap_DragFloat4__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloat4__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_DragFloat4__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -4605,7 +4605,7 @@ bool _wrap_DragFloat4__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8) {
+bool _wrap_DragFloatRange2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4649,7 +4649,7 @@ bool _wrap_DragFloatRange2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
+bool _wrap_DragFloatRange2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4691,7 +4691,7 @@ bool _wrap_DragFloatRange2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6) {
+bool _wrap_DragFloatRange2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5, _gostring_ _swig_go_6) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4726,7 +4726,7 @@ bool _wrap_DragFloatRange2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5) {
+bool _wrap_DragFloatRange2__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4754,7 +4754,7 @@ bool _wrap_DragFloatRange2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_DragFloatRange2__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4780,7 +4780,7 @@ bool _wrap_DragFloatRange2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3) {
+bool _wrap_DragFloatRange2__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4804,7 +4804,7 @@ bool _wrap_DragFloatRange2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragFloatRange2__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2) {
+bool _wrap_DragFloatRange2__SWIG_6_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float *arg3 = (float *) 0 ;
@@ -4826,7 +4826,7 @@ bool _wrap_DragFloatRange2__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_DragInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragInt__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   float arg3 ;
@@ -4859,7 +4859,7 @@ bool _wrap_DragInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_DragInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_DragInt__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   float arg3 ;
@@ -4885,7 +4885,7 @@ bool _wrap_DragInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_DragInt__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+bool _wrap_DragInt__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   float arg3 ;
@@ -4909,7 +4909,7 @@ bool _wrap_DragInt__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_DragInt__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragInt__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   float arg3 ;
@@ -4931,7 +4931,7 @@ bool _wrap_DragInt__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_DragInt__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_DragInt__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool result;
@@ -4951,7 +4951,7 @@ bool _wrap_DragInt__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_DragInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragInt2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -4984,7 +4984,7 @@ bool _wrap_DragInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_DragInt2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5010,7 +5010,7 @@ bool _wrap_DragInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+bool _wrap_DragInt2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5034,7 +5034,7 @@ bool _wrap_DragInt2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragInt2__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5056,7 +5056,7 @@ bool _wrap_DragInt2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_DragInt2__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -5076,7 +5076,7 @@ bool _wrap_DragInt2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragInt3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5109,7 +5109,7 @@ bool _wrap_DragInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_DragInt3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5135,7 +5135,7 @@ bool _wrap_DragInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+bool _wrap_DragInt3__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5159,7 +5159,7 @@ bool _wrap_DragInt3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt3__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragInt3__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5181,7 +5181,7 @@ bool _wrap_DragInt3__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt3__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_DragInt3__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -5201,7 +5201,7 @@ bool _wrap_DragInt3__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_DragInt4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5234,7 +5234,7 @@ bool _wrap_DragInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_DragInt4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5260,7 +5260,7 @@ bool _wrap_DragInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+bool _wrap_DragInt4__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5284,7 +5284,7 @@ bool _wrap_DragInt4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt4__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
+bool _wrap_DragInt4__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   float arg3 ;
@@ -5306,7 +5306,7 @@ bool _wrap_DragInt4__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragInt4__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_DragInt4__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -5326,7 +5326,7 @@ bool _wrap_DragInt4__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_DragIntRange2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
+bool _wrap_DragIntRange2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5368,7 +5368,7 @@ bool _wrap_DragIntRange2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_DragIntRange2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6) {
+bool _wrap_DragIntRange2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, _gostring_ _swig_go_6) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5403,7 +5403,7 @@ bool _wrap_DragIntRange2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_DragIntRange2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+bool _wrap_DragIntRange2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5431,7 +5431,7 @@ bool _wrap_DragIntRange2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_DragIntRange2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+bool _wrap_DragIntRange2__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5457,7 +5457,7 @@ bool _wrap_DragIntRange2__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_DragIntRange2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3) {
+bool _wrap_DragIntRange2__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5481,7 +5481,7 @@ bool _wrap_DragIntRange2__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_DragIntRange2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
+bool _wrap_DragIntRange2__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int *arg3 = (int *) 0 ;
@@ -5503,7 +5503,7 @@ bool _wrap_DragIntRange2__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_InputText__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3, void** _swig_go_4, void *_swig_go_5) {
+bool _wrap_InputText__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3, void** _swig_go_4, void *_swig_go_5) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5536,7 +5536,7 @@ bool _wrap_InputText__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gost
 }
 
 
-bool _wrap_InputText__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3, void** _swig_go_4) {
+bool _wrap_InputText__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3, void** _swig_go_4) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5567,7 +5567,7 @@ bool _wrap_InputText__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gost
 }
 
 
-bool _wrap_InputText__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3) {
+bool _wrap_InputText__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5596,7 +5596,7 @@ bool _wrap_InputText__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gost
 }
 
 
-bool _wrap_InputText__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2) {
+bool _wrap_InputText__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5623,7 +5623,7 @@ bool _wrap_InputText__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gost
 }
 
 
-bool _wrap_InputTextMultiline__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, void** _swig_go_5, void *_swig_go_6) {
+bool _wrap_InputTextMultiline__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, void** _swig_go_5, void *_swig_go_6) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5658,7 +5658,7 @@ bool _wrap_InputTextMultiline__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-bool _wrap_InputTextMultiline__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, void** _swig_go_5) {
+bool _wrap_InputTextMultiline__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, void** _swig_go_5) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5691,7 +5691,7 @@ bool _wrap_InputTextMultiline__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-bool _wrap_InputTextMultiline__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
+bool _wrap_InputTextMultiline__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5722,7 +5722,7 @@ bool _wrap_InputTextMultiline__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-bool _wrap_InputTextMultiline__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3) {
+bool _wrap_InputTextMultiline__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2, ImVec2 *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5751,7 +5751,7 @@ bool _wrap_InputTextMultiline__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-bool _wrap_InputTextMultiline__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2) {
+bool _wrap_InputTextMultiline__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, long long _swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   size_t arg3 ;
@@ -5778,7 +5778,7 @@ bool _wrap_InputTextMultiline__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go
 }
 
 
-bool _wrap_InputFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+bool _wrap_InputFloat__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -5806,7 +5806,7 @@ bool _wrap_InputFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_InputFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+bool _wrap_InputFloat__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -5832,7 +5832,7 @@ bool _wrap_InputFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_InputFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_InputFloat__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -5856,7 +5856,7 @@ bool _wrap_InputFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_InputFloat__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_InputFloat__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -5878,7 +5878,7 @@ bool _wrap_InputFloat__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_InputFloat__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_InputFloat__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   bool result;
@@ -5898,7 +5898,7 @@ bool _wrap_InputFloat__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_InputFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_InputFloat2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -5922,7 +5922,7 @@ bool _wrap_InputFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputFloat2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -5944,7 +5944,7 @@ bool _wrap_InputFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_InputFloat2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -5964,7 +5964,7 @@ bool _wrap_InputFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_InputFloat3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -5988,7 +5988,7 @@ bool _wrap_InputFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputFloat3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -6010,7 +6010,7 @@ bool _wrap_InputFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_InputFloat3__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -6030,7 +6030,7 @@ bool _wrap_InputFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_InputFloat4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -6054,7 +6054,7 @@ bool _wrap_InputFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputFloat4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   int arg3 ;
@@ -6076,7 +6076,7 @@ bool _wrap_InputFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_InputFloat4__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -6096,7 +6096,7 @@ bool _wrap_InputFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_InputInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_InputInt__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -6122,7 +6122,7 @@ bool _wrap_InputInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_InputInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_InputInt__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -6146,7 +6146,7 @@ bool _wrap_InputInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_InputInt__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputInt__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -6168,7 +6168,7 @@ bool _wrap_InputInt__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_InputInt__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_InputInt__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool result;
@@ -6188,7 +6188,7 @@ bool _wrap_InputInt__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo 
 }
 
 
-bool _wrap_InputInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputInt2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   ImGuiInputTextFlags arg3 ;
@@ -6210,7 +6210,7 @@ bool _wrap_InputInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_InputInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_InputInt2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -6230,7 +6230,7 @@ bool _wrap_InputInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_InputInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputInt3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   ImGuiInputTextFlags arg3 ;
@@ -6252,7 +6252,7 @@ bool _wrap_InputInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_InputInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_InputInt3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -6272,7 +6272,7 @@ bool _wrap_InputInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_InputInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_InputInt4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   ImGuiInputTextFlags arg3 ;
@@ -6294,7 +6294,7 @@ bool _wrap_InputInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_InputInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1) {
+bool _wrap_InputInt4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   bool result;
@@ -6314,7 +6314,7 @@ bool _wrap_InputInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_SliderFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+bool _wrap_SliderFloat__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -6347,7 +6347,7 @@ bool _wrap_SliderFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderFloat__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -6378,7 +6378,7 @@ bool _wrap_SliderFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_SliderFloat__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -6402,7 +6402,7 @@ bool _wrap_SliderFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+bool _wrap_SliderFloat2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6435,7 +6435,7 @@ bool _wrap_SliderFloat2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderFloat2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6466,7 +6466,7 @@ bool _wrap_SliderFloat2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_SliderFloat2__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6490,7 +6490,7 @@ bool _wrap_SliderFloat2__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+bool _wrap_SliderFloat3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6523,7 +6523,7 @@ bool _wrap_SliderFloat3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderFloat3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6554,7 +6554,7 @@ bool _wrap_SliderFloat3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_SliderFloat3__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6578,7 +6578,7 @@ bool _wrap_SliderFloat3__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
+bool _wrap_SliderFloat4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, float _swig_go_5) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6611,7 +6611,7 @@ bool _wrap_SliderFloat4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderFloat4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6642,7 +6642,7 @@ bool _wrap_SliderFloat4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_SliderFloat4__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   float arg3 ;
@@ -6666,7 +6666,7 @@ bool _wrap_SliderFloat4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_SliderAngle__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
+bool _wrap_SliderAngle__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -6690,7 +6690,7 @@ bool _wrap_SliderAngle__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderAngle__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
+bool _wrap_SliderAngle__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, float _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   float arg3 ;
@@ -6712,7 +6712,7 @@ bool _wrap_SliderAngle__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderAngle__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_SliderAngle__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 = (float *) 0 ;
   bool result;
@@ -6732,7 +6732,7 @@ bool _wrap_SliderAngle__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, flo
 }
 
 
-bool _wrap_SliderInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderInt__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -6763,7 +6763,7 @@ bool _wrap_SliderInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_SliderInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_SliderInt__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   int arg3 ;
@@ -6787,7 +6787,7 @@ bool _wrap_SliderInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo
 }
 
 
-bool _wrap_SliderInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderInt2__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6818,7 +6818,7 @@ bool _wrap_SliderInt2__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_SliderInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_SliderInt2__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6842,7 +6842,7 @@ bool _wrap_SliderInt2__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_SliderInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderInt3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6873,7 +6873,7 @@ bool _wrap_SliderInt3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_SliderInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_SliderInt3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6897,7 +6897,7 @@ bool _wrap_SliderInt3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_SliderInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
+bool _wrap_SliderInt4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, _gostring_ _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6928,7 +6928,7 @@ bool _wrap_SliderInt4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_SliderInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+bool _wrap_SliderInt4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 ;
   int arg3 ;
@@ -6952,7 +6952,7 @@ bool _wrap_SliderInt4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_VSliderFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
+bool _wrap_VSliderFloat__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5, float _swig_go_6) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   float *arg3 = (float *) 0 ;
@@ -6987,7 +6987,7 @@ bool _wrap_VSliderFloat__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, Im
 }
 
 
-bool _wrap_VSliderFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_VSliderFloat__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   float *arg3 = (float *) 0 ;
@@ -7020,7 +7020,7 @@ bool _wrap_VSliderFloat__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, Im
 }
 
 
-bool _wrap_VSliderFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4) {
+bool _wrap_VSliderFloat__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, float *_swig_go_2, float _swig_go_3, float _swig_go_4) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   float *arg3 = (float *) 0 ;
@@ -7046,7 +7046,7 @@ bool _wrap_VSliderFloat__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, Im
 }
 
 
-bool _wrap_VSliderInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+bool _wrap_VSliderInt__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   int *arg3 = (int *) 0 ;
@@ -7079,7 +7079,7 @@ bool _wrap_VSliderInt__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVe
 }
 
 
-bool _wrap_VSliderInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_VSliderInt__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1, intgo *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   int *arg3 = (int *) 0 ;
@@ -7105,7 +7105,7 @@ bool _wrap_VSliderInt__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVe
 }
 
 
-bool _wrap_ColorEdit3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_ColorEdit3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   ImGuiColorEditFlags arg3 ;
@@ -7127,7 +7127,7 @@ bool _wrap_ColorEdit3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_ColorEdit3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_ColorEdit3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -7147,7 +7147,7 @@ bool _wrap_ColorEdit3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_ColorEdit4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_ColorEdit4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   ImGuiColorEditFlags arg3 ;
@@ -7169,7 +7169,7 @@ bool _wrap_ColorEdit4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_ColorEdit4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_ColorEdit4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -7189,7 +7189,7 @@ bool _wrap_ColorEdit4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, floa
 }
 
 
-bool _wrap_ColorPicker3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_ColorPicker3__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   ImGuiColorEditFlags arg3 ;
@@ -7211,7 +7211,7 @@ bool _wrap_ColorPicker3__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_ColorPicker3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_ColorPicker3__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -7231,7 +7231,7 @@ bool _wrap_ColorPicker3__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_ColorPicker4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
+bool _wrap_ColorPicker4__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2, float *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   ImGuiColorEditFlags arg3 ;
@@ -7255,7 +7255,7 @@ bool _wrap_ColorPicker4__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_ColorPicker4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_ColorPicker4__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   ImGuiColorEditFlags arg3 ;
@@ -7277,7 +7277,7 @@ bool _wrap_ColorPicker4__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_ColorPicker4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float *_swig_go_1) {
+bool _wrap_ColorPicker4__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   float *arg2 ;
   bool result;
@@ -7297,7 +7297,7 @@ bool _wrap_ColorPicker4__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, fl
 }
 
 
-bool _wrap_ColorButton__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec4 *_swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
+bool _wrap_ColorButton__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec4 *_swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   ImVec4 *arg2 = 0 ;
   ImGuiColorEditFlags arg3 ;
@@ -7328,7 +7328,7 @@ bool _wrap_ColorButton__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImV
 }
 
 
-bool _wrap_ColorButton__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec4 *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_ColorButton__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec4 *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   ImVec4 *arg2 = 0 ;
   ImGuiColorEditFlags arg3 ;
@@ -7350,7 +7350,7 @@ bool _wrap_ColorButton__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImV
 }
 
 
-bool _wrap_ColorButton__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec4 *_swig_go_1) {
+bool _wrap_ColorButton__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec4 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec4 *arg2 = 0 ;
   bool result;
@@ -7370,7 +7370,7 @@ bool _wrap_ColorButton__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImV
 }
 
 
-void _wrap_SetColorEditOptions_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_SetColorEditOptions_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiColorEditFlags arg1 ;
   
   arg1 = (ImGuiColorEditFlags)_swig_go_0; 
@@ -7380,7 +7380,7 @@ void _wrap_SetColorEditOptions_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_TreeNode__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_TreeNode__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -7398,7 +7398,7 @@ bool _wrap_TreeNode__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_TreeNode__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_TreeNode__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -7424,7 +7424,7 @@ bool _wrap_TreeNode__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-bool _wrap_TreeNode__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_TreeNode__SWIG_2_imgui_09d88551d48dba44(void *_swig_go_0, _gostring_ _swig_go_1) {
   void *arg1 = (void *) 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -7445,7 +7445,7 @@ bool _wrap_TreeNode__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0, _gostring_ 
 }
 
 
-bool _wrap_TreeNodeV__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+bool _wrap_TreeNodeV__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -7479,7 +7479,7 @@ bool _wrap_TreeNodeV__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gost
 }
 
 
-bool _wrap_TreeNodeV__SWIG_1_imgui_792f906bddfc881e(void *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+bool _wrap_TreeNodeV__SWIG_1_imgui_09d88551d48dba44(void *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   void *arg1 = (void *) 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -7508,7 +7508,7 @@ bool _wrap_TreeNodeV__SWIG_1_imgui_792f906bddfc881e(void *_swig_go_0, _gostring_
 }
 
 
-bool _wrap_TreeNodeEx__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_TreeNodeEx__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   bool result;
@@ -7528,7 +7528,7 @@ bool _wrap_TreeNodeEx__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_TreeNodeEx__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_TreeNodeEx__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -7546,7 +7546,7 @@ bool _wrap_TreeNodeEx__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_TreeNodeEx__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
+bool _wrap_TreeNodeEx__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
   char *arg1 = (char *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   char *arg3 = (char *) 0 ;
@@ -7574,7 +7574,7 @@ bool _wrap_TreeNodeEx__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intg
 }
 
 
-bool _wrap_TreeNodeEx__SWIG_3_imgui_792f906bddfc881e(void *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
+bool _wrap_TreeNodeEx__SWIG_3_imgui_09d88551d48dba44(void *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
   void *arg1 = (void *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   char *arg3 = (char *) 0 ;
@@ -7597,7 +7597,7 @@ bool _wrap_TreeNodeEx__SWIG_3_imgui_792f906bddfc881e(void *_swig_go_0, intgo _sw
 }
 
 
-bool _wrap_TreeNodeExV__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, va_list *_swig_go_3) {
+bool _wrap_TreeNodeExV__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, va_list *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   char *arg3 = (char *) 0 ;
@@ -7633,7 +7633,7 @@ bool _wrap_TreeNodeExV__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, int
 }
 
 
-bool _wrap_TreeNodeExV__SWIG_1_imgui_792f906bddfc881e(void *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, va_list *_swig_go_3) {
+bool _wrap_TreeNodeExV__SWIG_1_imgui_09d88551d48dba44(void *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, va_list *_swig_go_3) {
   void *arg1 = (void *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   char *arg3 = (char *) 0 ;
@@ -7664,7 +7664,7 @@ bool _wrap_TreeNodeExV__SWIG_1_imgui_792f906bddfc881e(void *_swig_go_0, intgo _s
 }
 
 
-void _wrap_TreePush__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_TreePush__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -7679,13 +7679,13 @@ void _wrap_TreePush__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_TreePush__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_TreePush__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::TreePush((char *)0);
   
 }
 
 
-void _wrap_TreePush__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
+void _wrap_TreePush__SWIG_2_imgui_09d88551d48dba44(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -7695,19 +7695,19 @@ void _wrap_TreePush__SWIG_2_imgui_792f906bddfc881e(void *_swig_go_0) {
 }
 
 
-void _wrap_TreePop_imgui_792f906bddfc881e() {
+void _wrap_TreePop_imgui_09d88551d48dba44() {
   ImGui::TreePop();
   
 }
 
 
-void _wrap_TreeAdvanceToLabelPos_imgui_792f906bddfc881e() {
+void _wrap_TreeAdvanceToLabelPos_imgui_09d88551d48dba44() {
   ImGui::TreeAdvanceToLabelPos();
   
 }
 
 
-float _wrap_GetTreeNodeToLabelSpacing_imgui_792f906bddfc881e() {
+float _wrap_GetTreeNodeToLabelSpacing_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -7718,7 +7718,7 @@ float _wrap_GetTreeNodeToLabelSpacing_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetNextTreeNodeOpen__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0, intgo _swig_go_1) {
+void _wrap_SetNextTreeNodeOpen__SWIG_0_imgui_09d88551d48dba44(bool _swig_go_0, intgo _swig_go_1) {
   bool arg1 ;
   ImGuiCond arg2 ;
   
@@ -7730,7 +7730,7 @@ void _wrap_SetNextTreeNodeOpen__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0, i
 }
 
 
-void _wrap_SetNextTreeNodeOpen__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_SetNextTreeNodeOpen__SWIG_1_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -7740,7 +7740,7 @@ void _wrap_SetNextTreeNodeOpen__SWIG_1_imgui_792f906bddfc881e(bool _swig_go_0) {
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_CollapsingHeader__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImGuiTreeNodeFlags arg2 ;
   bool result;
@@ -7760,7 +7760,7 @@ bool _wrap_CollapsingHeader__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_CollapsingHeader__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -7778,7 +7778,7 @@ bool _wrap_CollapsingHeader__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_CollapsingHeader__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImGuiTreeNodeFlags arg3 ;
@@ -7800,7 +7800,7 @@ bool _wrap_CollapsingHeader__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1) {
+bool _wrap_CollapsingHeader__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   bool result;
@@ -7820,7 +7820,7 @@ bool _wrap_CollapsingHeader__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_Selectable__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
+bool _wrap_Selectable__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   ImGuiSelectableFlags arg3 ;
@@ -7844,7 +7844,7 @@ bool _wrap_Selectable__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_Selectable__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2) {
+bool _wrap_Selectable__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   ImGuiSelectableFlags arg3 ;
@@ -7866,7 +7866,7 @@ bool _wrap_Selectable__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_Selectable__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1) {
+bool _wrap_Selectable__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   bool result;
@@ -7886,7 +7886,7 @@ bool _wrap_Selectable__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_Selectable__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_Selectable__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -7904,7 +7904,7 @@ bool _wrap_Selectable__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_Selectable__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
+bool _wrap_Selectable__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2, ImVec2 *_swig_go_3) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImGuiSelectableFlags arg3 ;
@@ -7928,7 +7928,7 @@ bool _wrap_Selectable__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_Selectable__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_Selectable__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImGuiSelectableFlags arg3 ;
@@ -7950,7 +7950,7 @@ bool _wrap_Selectable__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_Selectable__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1) {
+bool _wrap_Selectable__SWIG_6_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   bool result;
@@ -7970,7 +7970,7 @@ bool _wrap_Selectable__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool
 }
 
 
-bool _wrap_ListBox__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+bool _wrap_ListBox__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char **arg3 = (char **) 0 ;
@@ -7996,7 +7996,7 @@ bool _wrap_ListBox__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_ListBox__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3) {
+bool _wrap_ListBox__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, _gostring_* _swig_go_2, intgo _swig_go_3) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   char **arg3 = (char **) 0 ;
@@ -8020,7 +8020,7 @@ bool _wrap_ListBox__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_ListBox__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
+bool _wrap_ListBox__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4, intgo _swig_go_5) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool (*arg3)(void *,int,char const **) = (bool (*)(void *,int,char const **)) 0 ;
@@ -8048,7 +8048,7 @@ bool _wrap_ListBox__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_ListBox__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4) {
+bool _wrap_ListBox__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo *_swig_go_1, void* _swig_go_2, void *_swig_go_3, intgo _swig_go_4) {
   char *arg1 = (char *) 0 ;
   int *arg2 = (int *) 0 ;
   bool (*arg3)(void *,int,char const **) = (bool (*)(void *,int,char const **)) 0 ;
@@ -8074,7 +8074,7 @@ bool _wrap_ListBox__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo *
 }
 
 
-bool _wrap_ListBoxHeader__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_ListBoxHeader__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, ImVec2 *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -8094,7 +8094,7 @@ bool _wrap_ListBoxHeader__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, I
 }
 
 
-bool _wrap_ListBoxHeader__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_ListBoxHeader__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8112,7 +8112,7 @@ bool _wrap_ListBoxHeader__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_ListBoxHeader__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+bool _wrap_ListBoxHeader__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   int arg3 ;
@@ -8134,7 +8134,7 @@ bool _wrap_ListBoxHeader__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-bool _wrap_ListBoxHeader__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_ListBoxHeader__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   bool result;
@@ -8154,13 +8154,13 @@ bool _wrap_ListBoxHeader__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, i
 }
 
 
-void _wrap_ListBoxFooter_imgui_792f906bddfc881e() {
+void _wrap_ListBoxFooter_imgui_09d88551d48dba44() {
   ImGui::ListBoxFooter();
   
 }
 
 
-void _wrap_Value__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1) {
+void _wrap_Value__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   
@@ -8177,7 +8177,7 @@ void _wrap_Value__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swi
 }
 
 
-void _wrap_Value__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+void _wrap_Value__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   
@@ -8194,7 +8194,7 @@ void _wrap_Value__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _sw
 }
 
 
-void _wrap_ValueUnsigned_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+void _wrap_ValueUnsigned_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   unsigned int arg2 ;
   
@@ -8211,7 +8211,7 @@ void _wrap_ValueUnsigned_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _sw
 }
 
 
-void _wrap_Value__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float _swig_go_1, _gostring_ _swig_go_2) {
+void _wrap_Value__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float _swig_go_1, _gostring_ _swig_go_2) {
   char *arg1 = (char *) 0 ;
   float arg2 ;
   char *arg3 = (char *) 0 ;
@@ -8235,7 +8235,7 @@ void _wrap_Value__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float _sw
 }
 
 
-void _wrap_Value__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float _swig_go_1) {
+void _wrap_Value__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0, float _swig_go_1) {
   char *arg1 = (char *) 0 ;
   float arg2 ;
   
@@ -8252,7 +8252,7 @@ void _wrap_Value__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0, float _sw
 }
 
 
-void _wrap_SetTooltip_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_SetTooltip_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -8268,7 +8268,7 @@ void _wrap_SetTooltip_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_SetTooltipV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_swig_go_1) {
+void _wrap_SetTooltipV_imgui_09d88551d48dba44(_gostring_ _swig_go_0, va_list *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   va_list arg2 ;
   va_list *argp2 ;
@@ -8292,19 +8292,19 @@ void _wrap_SetTooltipV_imgui_792f906bddfc881e(_gostring_ _swig_go_0, va_list *_s
 }
 
 
-void _wrap_BeginTooltip_imgui_792f906bddfc881e() {
+void _wrap_BeginTooltip_imgui_09d88551d48dba44() {
   ImGui::BeginTooltip();
   
 }
 
 
-void _wrap_EndTooltip_imgui_792f906bddfc881e() {
+void _wrap_EndTooltip_imgui_09d88551d48dba44() {
   ImGui::EndTooltip();
   
 }
 
 
-bool _wrap_BeginMainMenuBar_imgui_792f906bddfc881e() {
+bool _wrap_BeginMainMenuBar_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8315,13 +8315,13 @@ bool _wrap_BeginMainMenuBar_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_EndMainMenuBar_imgui_792f906bddfc881e() {
+void _wrap_EndMainMenuBar_imgui_09d88551d48dba44() {
   ImGui::EndMainMenuBar();
   
 }
 
 
-bool _wrap_BeginMenuBar_imgui_792f906bddfc881e() {
+bool _wrap_BeginMenuBar_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8332,13 +8332,13 @@ bool _wrap_BeginMenuBar_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_EndMenuBar_imgui_792f906bddfc881e() {
+void _wrap_EndMenuBar_imgui_09d88551d48dba44() {
   ImGui::EndMenuBar();
   
 }
 
 
-bool _wrap_BeginMenu__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool _swig_go_1) {
+bool _wrap_BeginMenu__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool _swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool arg2 ;
   bool result;
@@ -8358,7 +8358,7 @@ bool _wrap_BeginMenu__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool 
 }
 
 
-bool _wrap_BeginMenu__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginMenu__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8376,13 +8376,13 @@ bool _wrap_BeginMenu__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_EndMenu_imgui_792f906bddfc881e() {
+void _wrap_EndMenu_imgui_09d88551d48dba44() {
   ImGui::EndMenu();
   
 }
 
 
-bool _wrap_MenuItem__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, bool _swig_go_3) {
+bool _wrap_MenuItem__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, bool _swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -8411,7 +8411,7 @@ bool _wrap_MenuItem__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-bool _wrap_MenuItem__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
+bool _wrap_MenuItem__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -8438,7 +8438,7 @@ bool _wrap_MenuItem__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-bool _wrap_MenuItem__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_MenuItem__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool result;
@@ -8463,7 +8463,7 @@ bool _wrap_MenuItem__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-bool _wrap_MenuItem__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_MenuItem__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8481,7 +8481,7 @@ bool _wrap_MenuItem__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_MenuItem__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool *_swig_go_2, bool _swig_go_3) {
+bool _wrap_MenuItem__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool *_swig_go_2, bool _swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool *arg3 = (bool *) 0 ;
@@ -8510,7 +8510,7 @@ bool _wrap_MenuItem__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-bool _wrap_MenuItem__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool *_swig_go_2) {
+bool _wrap_MenuItem__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool *_swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool *arg3 = (bool *) 0 ;
@@ -8537,7 +8537,7 @@ bool _wrap_MenuItem__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostr
 }
 
 
-void _wrap_OpenPopup_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_OpenPopup_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -8552,7 +8552,7 @@ void _wrap_OpenPopup_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_BeginPopup_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginPopup_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8570,7 +8570,7 @@ bool _wrap_BeginPopup_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-bool _wrap_BeginPopupModal__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_BeginPopupModal__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1, intgo _swig_go_2) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   ImGuiWindowFlags arg3 ;
@@ -8592,7 +8592,7 @@ bool _wrap_BeginPopupModal__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_BeginPopupModal__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, bool *_swig_go_1) {
+bool _wrap_BeginPopupModal__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, bool *_swig_go_1) {
   char *arg1 = (char *) 0 ;
   bool *arg2 = (bool *) 0 ;
   bool result;
@@ -8612,7 +8612,7 @@ bool _wrap_BeginPopupModal__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-bool _wrap_BeginPopupModal__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginPopupModal__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8630,7 +8630,7 @@ bool _wrap_BeginPopupModal__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0)
 }
 
 
-bool _wrap_BeginPopupContextItem__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_BeginPopupContextItem__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   bool result;
@@ -8650,7 +8650,7 @@ bool _wrap_BeginPopupContextItem__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig
 }
 
 
-bool _wrap_BeginPopupContextItem__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginPopupContextItem__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8668,7 +8668,7 @@ bool _wrap_BeginPopupContextItem__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig
 }
 
 
-bool _wrap_BeginPopupContextWindow__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
+bool _wrap_BeginPopupContextWindow__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   bool arg3 ;
@@ -8690,7 +8690,7 @@ bool _wrap_BeginPopupContextWindow__SWIG_0_imgui_792f906bddfc881e(_gostring_ _sw
 }
 
 
-bool _wrap_BeginPopupContextWindow__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_BeginPopupContextWindow__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   bool result;
@@ -8710,7 +8710,7 @@ bool _wrap_BeginPopupContextWindow__SWIG_1_imgui_792f906bddfc881e(_gostring_ _sw
 }
 
 
-bool _wrap_BeginPopupContextWindow__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginPopupContextWindow__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8728,7 +8728,7 @@ bool _wrap_BeginPopupContextWindow__SWIG_2_imgui_792f906bddfc881e(_gostring_ _sw
 }
 
 
-bool _wrap_BeginPopupContextWindow__SWIG_3_imgui_792f906bddfc881e() {
+bool _wrap_BeginPopupContextWindow__SWIG_3_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8739,7 +8739,7 @@ bool _wrap_BeginPopupContextWindow__SWIG_3_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_BeginPopupContextVoid__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, intgo _swig_go_1) {
+bool _wrap_BeginPopupContextVoid__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, intgo _swig_go_1) {
   char *arg1 = (char *) 0 ;
   int arg2 ;
   bool result;
@@ -8759,7 +8759,7 @@ bool _wrap_BeginPopupContextVoid__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig
 }
 
 
-bool _wrap_BeginPopupContextVoid__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_BeginPopupContextVoid__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8777,7 +8777,7 @@ bool _wrap_BeginPopupContextVoid__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig
 }
 
 
-bool _wrap_BeginPopupContextVoid__SWIG_2_imgui_792f906bddfc881e() {
+bool _wrap_BeginPopupContextVoid__SWIG_2_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8788,13 +8788,13 @@ bool _wrap_BeginPopupContextVoid__SWIG_2_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_EndPopup_imgui_792f906bddfc881e() {
+void _wrap_EndPopup_imgui_09d88551d48dba44() {
   ImGui::EndPopup();
   
 }
 
 
-bool _wrap_IsPopupOpen_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+bool _wrap_IsPopupOpen_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -8812,13 +8812,13 @@ bool _wrap_IsPopupOpen_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_CloseCurrentPopup_imgui_792f906bddfc881e() {
+void _wrap_CloseCurrentPopup_imgui_09d88551d48dba44() {
   ImGui::CloseCurrentPopup();
   
 }
 
 
-void _wrap_LogToTTY__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_LogToTTY__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -8828,13 +8828,13 @@ void _wrap_LogToTTY__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_LogToTTY__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_LogToTTY__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::LogToTTY();
   
 }
 
 
-void _wrap_LogToFile__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_LogToFile__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, _gostring_ _swig_go_1) {
   int arg1 ;
   char *arg2 = (char *) 0 ;
   
@@ -8851,7 +8851,7 @@ void _wrap_LogToFile__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, _gostring_
 }
 
 
-void _wrap_LogToFile__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_LogToFile__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -8861,13 +8861,13 @@ void _wrap_LogToFile__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_LogToFile__SWIG_2_imgui_792f906bddfc881e() {
+void _wrap_LogToFile__SWIG_2_imgui_09d88551d48dba44() {
   ImGui::LogToFile();
   
 }
 
 
-void _wrap_LogToClipboard__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_LogToClipboard__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -8877,25 +8877,25 @@ void _wrap_LogToClipboard__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_LogToClipboard__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_LogToClipboard__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::LogToClipboard();
   
 }
 
 
-void _wrap_LogFinish_imgui_792f906bddfc881e() {
+void _wrap_LogFinish_imgui_09d88551d48dba44() {
   ImGui::LogFinish();
   
 }
 
 
-void _wrap_LogButtons_imgui_792f906bddfc881e() {
+void _wrap_LogButtons_imgui_09d88551d48dba44() {
   ImGui::LogButtons();
   
 }
 
 
-void _wrap_LogText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_LogText_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   void *arg2 = 0 ;
   
@@ -8911,7 +8911,7 @@ void _wrap_LogText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-void _wrap_PushClipRect_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
+void _wrap_PushClipRect_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -8925,13 +8925,13 @@ void _wrap_PushClipRect_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig
 }
 
 
-void _wrap_PopClipRect_imgui_792f906bddfc881e() {
+void _wrap_PopClipRect_imgui_09d88551d48dba44() {
   ImGui::PopClipRect();
   
 }
 
 
-bool _wrap_IsItemHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsItemHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8942,7 +8942,7 @@ bool _wrap_IsItemHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsItemRectHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsItemRectHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8953,7 +8953,7 @@ bool _wrap_IsItemRectHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsItemActive_imgui_792f906bddfc881e() {
+bool _wrap_IsItemActive_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8964,7 +8964,7 @@ bool _wrap_IsItemActive_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsItemClicked__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsItemClicked__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -8977,7 +8977,7 @@ bool _wrap_IsItemClicked__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsItemClicked__SWIG_1_imgui_792f906bddfc881e() {
+bool _wrap_IsItemClicked__SWIG_1_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8988,7 +8988,7 @@ bool _wrap_IsItemClicked__SWIG_1_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsItemVisible_imgui_792f906bddfc881e() {
+bool _wrap_IsItemVisible_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -8999,7 +8999,7 @@ bool _wrap_IsItemVisible_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsAnyItemHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsAnyItemHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9010,7 +9010,7 @@ bool _wrap_IsAnyItemHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsAnyItemActive_imgui_792f906bddfc881e() {
+bool _wrap_IsAnyItemActive_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9021,7 +9021,7 @@ bool _wrap_IsAnyItemActive_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetItemRectMin_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetItemRectMin_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9032,7 +9032,7 @@ ImVec2 *_wrap_GetItemRectMin_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetItemRectMax_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetItemRectMax_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9043,7 +9043,7 @@ ImVec2 *_wrap_GetItemRectMax_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetItemRectSize_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetItemRectSize_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9054,13 +9054,13 @@ ImVec2 *_wrap_GetItemRectSize_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetItemAllowOverlap_imgui_792f906bddfc881e() {
+void _wrap_SetItemAllowOverlap_imgui_09d88551d48dba44() {
   ImGui::SetItemAllowOverlap();
   
 }
 
 
-bool _wrap_IsWindowFocused_imgui_792f906bddfc881e() {
+bool _wrap_IsWindowFocused_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9071,7 +9071,7 @@ bool _wrap_IsWindowFocused_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsWindowHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsWindowHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9082,7 +9082,7 @@ bool _wrap_IsWindowHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsWindowRectHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsWindowRectHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9093,7 +9093,7 @@ bool _wrap_IsWindowRectHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsRootWindowFocused_imgui_792f906bddfc881e() {
+bool _wrap_IsRootWindowFocused_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9104,7 +9104,7 @@ bool _wrap_IsRootWindowFocused_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsRootWindowOrAnyChildFocused_imgui_792f906bddfc881e() {
+bool _wrap_IsRootWindowOrAnyChildFocused_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9115,7 +9115,7 @@ bool _wrap_IsRootWindowOrAnyChildFocused_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsRootWindowOrAnyChildHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsRootWindowOrAnyChildHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9126,7 +9126,7 @@ bool _wrap_IsRootWindowOrAnyChildHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsAnyWindowHovered_imgui_792f906bddfc881e() {
+bool _wrap_IsAnyWindowHovered_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9137,7 +9137,7 @@ bool _wrap_IsAnyWindowHovered_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsRectVisible__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+bool _wrap_IsRectVisible__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   bool result;
   bool _swig_go_result;
@@ -9150,7 +9150,7 @@ bool _wrap_IsRectVisible__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-bool _wrap_IsRectVisible__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_IsRectVisible__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -9165,7 +9165,7 @@ bool _wrap_IsRectVisible__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVe
 }
 
 
-float _wrap_GetTime_imgui_792f906bddfc881e() {
+float _wrap_GetTime_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -9176,7 +9176,7 @@ float _wrap_GetTime_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GetFrameCount_imgui_792f906bddfc881e() {
+intgo _wrap_GetFrameCount_imgui_09d88551d48dba44() {
   int result;
   intgo _swig_go_result;
   
@@ -9187,7 +9187,7 @@ intgo _wrap_GetFrameCount_imgui_792f906bddfc881e() {
 }
 
 
-_gostring_ _wrap_GetStyleColorName_imgui_792f906bddfc881e(intgo _swig_go_0) {
+_gostring_ _wrap_GetStyleColorName_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiCol arg1 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -9200,7 +9200,7 @@ _gostring_ _wrap_GetStyleColorName_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, bool _swig_go_1, float _swig_go_2) {
+ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, bool _swig_go_1, float _swig_go_2) {
   ImVec2 *arg1 = 0 ;
   bool arg2 ;
   float arg3 ;
@@ -9217,7 +9217,7 @@ ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_s
 }
 
 
-ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, bool _swig_go_1) {
+ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, bool _swig_go_1) {
   ImVec2 *arg1 = 0 ;
   bool arg2 ;
   ImVec2 result;
@@ -9232,7 +9232,7 @@ ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_s
 }
 
 
-ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_2_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_2_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   ImVec2 result;
   ImVec2 *_swig_go_result;
@@ -9245,7 +9245,7 @@ ImVec2 *_wrap_CalcItemRectClosestPoint__SWIG_2_imgui_792f906bddfc881e(ImVec2 *_s
 }
 
 
-ImVec2 *_wrap_CalcTextSize__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, float _swig_go_3) {
+ImVec2 *_wrap_CalcTextSize__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, float _swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -9274,7 +9274,7 @@ ImVec2 *_wrap_CalcTextSize__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-ImVec2 *_wrap_CalcTextSize__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
+ImVec2 *_wrap_CalcTextSize__SWIG_1_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -9301,7 +9301,7 @@ ImVec2 *_wrap_CalcTextSize__SWIG_1_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-ImVec2 *_wrap_CalcTextSize__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+ImVec2 *_wrap_CalcTextSize__SWIG_2_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   ImVec2 result;
@@ -9326,7 +9326,7 @@ ImVec2 *_wrap_CalcTextSize__SWIG_2_imgui_792f906bddfc881e(_gostring_ _swig_go_0,
 }
 
 
-ImVec2 *_wrap_CalcTextSize__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+ImVec2 *_wrap_CalcTextSize__SWIG_3_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   ImVec2 result;
   ImVec2 *_swig_go_result;
@@ -9344,7 +9344,7 @@ ImVec2 *_wrap_CalcTextSize__SWIG_3_imgui_792f906bddfc881e(_gostring_ _swig_go_0)
 }
 
 
-void _wrap_CalcListClipping_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_CalcListClipping_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
   int arg1 ;
   float arg2 ;
   int *arg3 = (int *) 0 ;
@@ -9360,7 +9360,7 @@ void _wrap_CalcListClipping_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig
 }
 
 
-bool _wrap_BeginChildFrame__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
+bool _wrap_BeginChildFrame__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2) {
   ImGuiID arg1 ;
   ImVec2 *arg2 = 0 ;
   ImGuiWindowFlags arg3 ;
@@ -9377,7 +9377,7 @@ bool _wrap_BeginChildFrame__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, ImVe
 }
 
 
-bool _wrap_BeginChildFrame__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_BeginChildFrame__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiID arg1 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -9392,13 +9392,13 @@ bool _wrap_BeginChildFrame__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, ImVe
 }
 
 
-void _wrap_EndChildFrame_imgui_792f906bddfc881e() {
+void _wrap_EndChildFrame_imgui_09d88551d48dba44() {
   ImGui::EndChildFrame();
   
 }
 
 
-ImVec4 *_wrap_ColorConvertU32ToFloat4_imgui_792f906bddfc881e(intgo _swig_go_0) {
+ImVec4 *_wrap_ColorConvertU32ToFloat4_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImU32 arg1 ;
   ImVec4 result;
   ImVec4 *_swig_go_result;
@@ -9411,7 +9411,7 @@ ImVec4 *_wrap_ColorConvertU32ToFloat4_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-intgo _wrap_ColorConvertFloat4ToU32_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+intgo _wrap_ColorConvertFloat4ToU32_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = 0 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -9424,7 +9424,7 @@ intgo _wrap_ColorConvertFloat4ToU32_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-void _wrap_ColorConvertRGBtoHSV_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_ColorConvertRGBtoHSV_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -9444,7 +9444,7 @@ void _wrap_ColorConvertRGBtoHSV_imgui_792f906bddfc881e(float _swig_go_0, float _
 }
 
 
-void _wrap_ColorConvertHSVtoRGB_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
+void _wrap_ColorConvertHSVtoRGB_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2, float *_swig_go_3, float *_swig_go_4, float *_swig_go_5) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -9464,7 +9464,7 @@ void _wrap_ColorConvertHSVtoRGB_imgui_792f906bddfc881e(float _swig_go_0, float _
 }
 
 
-intgo _wrap_GetKeyIndex_imgui_792f906bddfc881e(intgo _swig_go_0) {
+intgo _wrap_GetKeyIndex_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiKey arg1 ;
   int result;
   intgo _swig_go_result;
@@ -9477,7 +9477,7 @@ intgo _wrap_GetKeyIndex_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsKeyDown_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsKeyDown_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9490,7 +9490,7 @@ bool _wrap_IsKeyDown_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsKeyPressed__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, bool _swig_go_1) {
+bool _wrap_IsKeyPressed__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, bool _swig_go_1) {
   int arg1 ;
   bool arg2 ;
   bool result;
@@ -9505,7 +9505,7 @@ bool _wrap_IsKeyPressed__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, bool _s
 }
 
 
-bool _wrap_IsKeyPressed__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsKeyPressed__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9518,7 +9518,7 @@ bool _wrap_IsKeyPressed__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsKeyReleased_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsKeyReleased_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9531,7 +9531,7 @@ bool _wrap_IsKeyReleased_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseDown_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsMouseDown_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9544,7 +9544,7 @@ bool _wrap_IsMouseDown_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseClicked__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, bool _swig_go_1) {
+bool _wrap_IsMouseClicked__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, bool _swig_go_1) {
   int arg1 ;
   bool arg2 ;
   bool result;
@@ -9559,7 +9559,7 @@ bool _wrap_IsMouseClicked__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, bool 
 }
 
 
-bool _wrap_IsMouseClicked__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsMouseClicked__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9572,7 +9572,7 @@ bool _wrap_IsMouseClicked__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseDoubleClicked_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsMouseDoubleClicked_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9585,7 +9585,7 @@ bool _wrap_IsMouseDoubleClicked_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseReleased_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsMouseReleased_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9598,7 +9598,7 @@ bool _wrap_IsMouseReleased_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseDragging__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+bool _wrap_IsMouseDragging__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   int arg1 ;
   float arg2 ;
   bool result;
@@ -9613,7 +9613,7 @@ bool _wrap_IsMouseDragging__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, floa
 }
 
 
-bool _wrap_IsMouseDragging__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+bool _wrap_IsMouseDragging__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   bool result;
   bool _swig_go_result;
@@ -9626,7 +9626,7 @@ bool _wrap_IsMouseDragging__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-bool _wrap_IsMouseDragging__SWIG_2_imgui_792f906bddfc881e() {
+bool _wrap_IsMouseDragging__SWIG_2_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9637,7 +9637,7 @@ bool _wrap_IsMouseDragging__SWIG_2_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsMouseHoveringRect__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
+bool _wrap_IsMouseHoveringRect__SWIG_0_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1, bool _swig_go_2) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   bool arg3 ;
@@ -9654,7 +9654,7 @@ bool _wrap_IsMouseHoveringRect__SWIG_0_imgui_792f906bddfc881e(ImVec2 *_swig_go_0
 }
 
 
-bool _wrap_IsMouseHoveringRect__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
+bool _wrap_IsMouseHoveringRect__SWIG_1_imgui_09d88551d48dba44(ImVec2 *_swig_go_0, ImVec2 *_swig_go_1) {
   ImVec2 *arg1 = 0 ;
   ImVec2 *arg2 = 0 ;
   bool result;
@@ -9669,7 +9669,7 @@ bool _wrap_IsMouseHoveringRect__SWIG_1_imgui_792f906bddfc881e(ImVec2 *_swig_go_0
 }
 
 
-ImVec2 *_wrap_GetMousePos_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetMousePos_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9680,7 +9680,7 @@ ImVec2 *_wrap_GetMousePos_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetMousePosOnOpeningCurrentPopup_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetMousePosOnOpeningCurrentPopup_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9691,7 +9691,7 @@ ImVec2 *_wrap_GetMousePosOnOpeningCurrentPopup_imgui_792f906bddfc881e() {
 }
 
 
-ImVec2 *_wrap_GetMouseDragDelta__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+ImVec2 *_wrap_GetMouseDragDelta__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   int arg1 ;
   float arg2 ;
   ImVec2 result;
@@ -9706,7 +9706,7 @@ ImVec2 *_wrap_GetMouseDragDelta__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0,
 }
 
 
-ImVec2 *_wrap_GetMouseDragDelta__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+ImVec2 *_wrap_GetMouseDragDelta__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   ImVec2 result;
   ImVec2 *_swig_go_result;
@@ -9719,7 +9719,7 @@ ImVec2 *_wrap_GetMouseDragDelta__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0)
 }
 
 
-ImVec2 *_wrap_GetMouseDragDelta__SWIG_2_imgui_792f906bddfc881e() {
+ImVec2 *_wrap_GetMouseDragDelta__SWIG_2_imgui_09d88551d48dba44() {
   ImVec2 result;
   ImVec2 *_swig_go_result;
   
@@ -9730,7 +9730,7 @@ ImVec2 *_wrap_GetMouseDragDelta__SWIG_2_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_ResetMouseDragDelta__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_ResetMouseDragDelta__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   
   arg1 = (int)_swig_go_0; 
@@ -9740,13 +9740,13 @@ void _wrap_ResetMouseDragDelta__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0) 
 }
 
 
-void _wrap_ResetMouseDragDelta__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_ResetMouseDragDelta__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::ResetMouseDragDelta();
   
 }
 
 
-intgo _wrap_GetMouseCursor_imgui_792f906bddfc881e() {
+intgo _wrap_GetMouseCursor_imgui_09d88551d48dba44() {
   ImGuiMouseCursor result;
   intgo _swig_go_result;
   
@@ -9757,7 +9757,7 @@ intgo _wrap_GetMouseCursor_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetMouseCursor_imgui_792f906bddfc881e(intgo _swig_go_0) {
+void _wrap_SetMouseCursor_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImGuiMouseCursor arg1 ;
   
   arg1 = (ImGuiMouseCursor)_swig_go_0; 
@@ -9767,7 +9767,7 @@ void _wrap_SetMouseCursor_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-void _wrap_CaptureKeyboardFromApp__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_CaptureKeyboardFromApp__SWIG_0_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -9777,13 +9777,13 @@ void _wrap_CaptureKeyboardFromApp__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0
 }
 
 
-void _wrap_CaptureKeyboardFromApp__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_CaptureKeyboardFromApp__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::CaptureKeyboardFromApp();
   
 }
 
 
-void _wrap_CaptureMouseFromApp__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0) {
+void _wrap_CaptureMouseFromApp__SWIG_0_imgui_09d88551d48dba44(bool _swig_go_0) {
   bool arg1 ;
   
   arg1 = (bool)_swig_go_0; 
@@ -9793,13 +9793,13 @@ void _wrap_CaptureMouseFromApp__SWIG_0_imgui_792f906bddfc881e(bool _swig_go_0) {
 }
 
 
-void _wrap_CaptureMouseFromApp__SWIG_1_imgui_792f906bddfc881e() {
+void _wrap_CaptureMouseFromApp__SWIG_1_imgui_09d88551d48dba44() {
   ImGui::CaptureMouseFromApp();
   
 }
 
 
-void *_wrap_MemAlloc_imgui_792f906bddfc881e(long long _swig_go_0) {
+void *_wrap_MemAlloc_imgui_09d88551d48dba44(long long _swig_go_0) {
   size_t arg1 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -9812,7 +9812,7 @@ void *_wrap_MemAlloc_imgui_792f906bddfc881e(long long _swig_go_0) {
 }
 
 
-void _wrap_MemFree_imgui_792f906bddfc881e(void *_swig_go_0) {
+void _wrap_MemFree_imgui_09d88551d48dba44(void *_swig_go_0) {
   void *arg1 = (void *) 0 ;
   
   arg1 = *(void **)&_swig_go_0; 
@@ -9822,7 +9822,7 @@ void _wrap_MemFree_imgui_792f906bddfc881e(void *_swig_go_0) {
 }
 
 
-_gostring_ _wrap_GetClipboardText_imgui_792f906bddfc881e() {
+_gostring_ _wrap_GetClipboardText_imgui_09d88551d48dba44() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -9833,7 +9833,7 @@ _gostring_ _wrap_GetClipboardText_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetClipboardText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+void _wrap_SetClipboardText_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   
   
@@ -9848,7 +9848,7 @@ void _wrap_SetClipboardText_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
 }
 
 
-_gostring_ _wrap_GetVersion_imgui_792f906bddfc881e() {
+_gostring_ _wrap_GetVersion_imgui_09d88551d48dba44() {
   char *result = 0 ;
   _gostring_ _swig_go_result;
   
@@ -9859,7 +9859,7 @@ _gostring_ _wrap_GetVersion_imgui_792f906bddfc881e() {
 }
 
 
-ImGuiContext *_wrap_CreateContext__SWIG_0_imgui_792f906bddfc881e(void* _swig_go_0, void* _swig_go_1) {
+ImGuiContext *_wrap_CreateContext__SWIG_0_imgui_09d88551d48dba44(void* _swig_go_0, void* _swig_go_1) {
   void *(*arg1)(size_t) = (void *(*)(size_t)) 0 ;
   void (*arg2)(void *) = (void (*)(void *)) 0 ;
   ImGuiContext *result = 0 ;
@@ -9874,7 +9874,7 @@ ImGuiContext *_wrap_CreateContext__SWIG_0_imgui_792f906bddfc881e(void* _swig_go_
 }
 
 
-ImGuiContext *_wrap_CreateContext__SWIG_1_imgui_792f906bddfc881e(void* _swig_go_0) {
+ImGuiContext *_wrap_CreateContext__SWIG_1_imgui_09d88551d48dba44(void* _swig_go_0) {
   void *(*arg1)(size_t) = (void *(*)(size_t)) 0 ;
   ImGuiContext *result = 0 ;
   ImGuiContext *_swig_go_result;
@@ -9887,7 +9887,7 @@ ImGuiContext *_wrap_CreateContext__SWIG_1_imgui_792f906bddfc881e(void* _swig_go_
 }
 
 
-ImGuiContext *_wrap_CreateContext__SWIG_2_imgui_792f906bddfc881e() {
+ImGuiContext *_wrap_CreateContext__SWIG_2_imgui_09d88551d48dba44() {
   ImGuiContext *result = 0 ;
   ImGuiContext *_swig_go_result;
   
@@ -9898,7 +9898,7 @@ ImGuiContext *_wrap_CreateContext__SWIG_2_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_DestroyContext_imgui_792f906bddfc881e(ImGuiContext *_swig_go_0) {
+void _wrap_DestroyContext_imgui_09d88551d48dba44(ImGuiContext *_swig_go_0) {
   ImGuiContext *arg1 = (ImGuiContext *) 0 ;
   
   arg1 = *(ImGuiContext **)&_swig_go_0; 
@@ -9908,7 +9908,7 @@ void _wrap_DestroyContext_imgui_792f906bddfc881e(ImGuiContext *_swig_go_0) {
 }
 
 
-ImGuiContext *_wrap_GetCurrentContext_imgui_792f906bddfc881e() {
+ImGuiContext *_wrap_GetCurrentContext_imgui_09d88551d48dba44() {
   ImGuiContext *result = 0 ;
   ImGuiContext *_swig_go_result;
   
@@ -9919,7 +9919,7 @@ ImGuiContext *_wrap_GetCurrentContext_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetCurrentContext_imgui_792f906bddfc881e(ImGuiContext *_swig_go_0) {
+void _wrap_SetCurrentContext_imgui_09d88551d48dba44(ImGuiContext *_swig_go_0) {
   ImGuiContext *arg1 = (ImGuiContext *) 0 ;
   
   arg1 = *(ImGuiContext **)&_swig_go_0; 
@@ -9929,7 +9929,7 @@ void _wrap_SetCurrentContext_imgui_792f906bddfc881e(ImGuiContext *_swig_go_0) {
 }
 
 
-bool _wrap_IsItemHoveredRect_imgui_792f906bddfc881e() {
+bool _wrap_IsItemHoveredRect_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9940,7 +9940,7 @@ bool _wrap_IsItemHoveredRect_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsPosHoveringAnyWindow_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+bool _wrap_IsPosHoveringAnyWindow_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   bool result;
   bool _swig_go_result;
@@ -9953,7 +9953,7 @@ bool _wrap_IsPosHoveringAnyWindow_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-bool _wrap_IsMouseHoveringAnyWindow_imgui_792f906bddfc881e() {
+bool _wrap_IsMouseHoveringAnyWindow_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9964,7 +9964,7 @@ bool _wrap_IsMouseHoveringAnyWindow_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsMouseHoveringWindow_imgui_792f906bddfc881e() {
+bool _wrap_IsMouseHoveringWindow_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -9975,7 +9975,7 @@ bool _wrap_IsMouseHoveringWindow_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, bool _swig_go_3) {
+bool _wrap_CollapsingHeader__SWIG_4_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2, bool _swig_go_3) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -10004,7 +10004,7 @@ bool _wrap_CollapsingHeader__SWIG_4_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
+bool _wrap_CollapsingHeader__SWIG_5_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1, bool _swig_go_2) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool arg3 ;
@@ -10031,7 +10031,7 @@ bool _wrap_CollapsingHeader__SWIG_5_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-bool _wrap_CollapsingHeader__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_CollapsingHeader__SWIG_6_imgui_09d88551d48dba44(_gostring_ _swig_go_0, _gostring_ _swig_go_1) {
   char *arg1 = (char *) 0 ;
   char *arg2 = (char *) 0 ;
   bool result;
@@ -10056,7 +10056,7 @@ bool _wrap_CollapsingHeader__SWIG_6_imgui_792f906bddfc881e(_gostring_ _swig_go_0
 }
 
 
-ImFont *_wrap_GetWindowFont_imgui_792f906bddfc881e() {
+ImFont *_wrap_GetWindowFont_imgui_09d88551d48dba44() {
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
   
@@ -10067,7 +10067,7 @@ ImFont *_wrap_GetWindowFont_imgui_792f906bddfc881e() {
 }
 
 
-float _wrap_GetWindowFontSize_imgui_792f906bddfc881e() {
+float _wrap_GetWindowFontSize_imgui_09d88551d48dba44() {
   float result;
   float _swig_go_result;
   
@@ -10078,13 +10078,13 @@ float _wrap_GetWindowFontSize_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_SetScrollPosHere_imgui_792f906bddfc881e() {
+void _wrap_SetScrollPosHere_imgui_09d88551d48dba44() {
   ImGui::SetScrollPosHere();
   
 }
 
 
-bool _wrap_GetWindowCollapsed_imgui_792f906bddfc881e() {
+bool _wrap_GetWindowCollapsed_imgui_09d88551d48dba44() {
   bool result;
   bool _swig_go_result;
   
@@ -10095,7 +10095,7 @@ bool _wrap_GetWindowCollapsed_imgui_792f906bddfc881e() {
 }
 
 
-bool _wrap_IsRectClipped_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
+bool _wrap_IsRectClipped_imgui_09d88551d48dba44(ImVec2 *_swig_go_0) {
   ImVec2 *arg1 = 0 ;
   bool result;
   bool _swig_go_result;
@@ -10108,7 +10108,7 @@ bool _wrap_IsRectClipped_imgui_792f906bddfc881e(ImVec2 *_swig_go_0) {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoTitleBar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoTitleBar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10120,7 +10120,7 @@ intgo _wrap_GuiWindowFlags_NoTitleBar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoResize_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoResize_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10132,7 +10132,7 @@ intgo _wrap_GuiWindowFlags_NoResize_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoMove_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoMove_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10144,7 +10144,7 @@ intgo _wrap_GuiWindowFlags_NoMove_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoScrollbar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoScrollbar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10156,7 +10156,7 @@ intgo _wrap_GuiWindowFlags_NoScrollbar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoScrollWithMouse_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoScrollWithMouse_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10168,7 +10168,7 @@ intgo _wrap_GuiWindowFlags_NoScrollWithMouse_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoCollapse_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoCollapse_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10180,7 +10180,7 @@ intgo _wrap_GuiWindowFlags_NoCollapse_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_AlwaysAutoResize_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_AlwaysAutoResize_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10192,7 +10192,7 @@ intgo _wrap_GuiWindowFlags_AlwaysAutoResize_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_ShowBorders_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_ShowBorders_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10204,7 +10204,7 @@ intgo _wrap_GuiWindowFlags_ShowBorders_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoSavedSettings_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoSavedSettings_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10216,7 +10216,7 @@ intgo _wrap_GuiWindowFlags_NoSavedSettings_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoInputs_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoInputs_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10228,7 +10228,7 @@ intgo _wrap_GuiWindowFlags_NoInputs_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_MenuBar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_MenuBar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10240,7 +10240,7 @@ intgo _wrap_GuiWindowFlags_MenuBar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_HorizontalScrollbar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_HorizontalScrollbar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10252,7 +10252,7 @@ intgo _wrap_GuiWindowFlags_HorizontalScrollbar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoFocusOnAppearing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoFocusOnAppearing_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10264,7 +10264,7 @@ intgo _wrap_GuiWindowFlags_NoFocusOnAppearing_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_NoBringToFrontOnFocus_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_NoBringToFrontOnFocus_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10276,7 +10276,7 @@ intgo _wrap_GuiWindowFlags_NoBringToFrontOnFocus_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_AlwaysVerticalScrollbar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_AlwaysVerticalScrollbar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10288,7 +10288,7 @@ intgo _wrap_GuiWindowFlags_AlwaysVerticalScrollbar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_AlwaysHorizontalScrollbar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_AlwaysHorizontalScrollbar_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10300,7 +10300,7 @@ intgo _wrap_GuiWindowFlags_AlwaysHorizontalScrollbar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_AlwaysUseWindowPadding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_AlwaysUseWindowPadding_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10312,7 +10312,7 @@ intgo _wrap_GuiWindowFlags_AlwaysUseWindowPadding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_ChildWindow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_ChildWindow_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10324,7 +10324,7 @@ intgo _wrap_GuiWindowFlags_ChildWindow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_ComboBox_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_ComboBox_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10336,7 +10336,7 @@ intgo _wrap_GuiWindowFlags_ComboBox_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_Tooltip_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_Tooltip_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10348,7 +10348,7 @@ intgo _wrap_GuiWindowFlags_Tooltip_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_Popup_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_Popup_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10360,7 +10360,7 @@ intgo _wrap_GuiWindowFlags_Popup_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_Modal_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_Modal_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10372,7 +10372,7 @@ intgo _wrap_GuiWindowFlags_Modal_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiWindowFlags_ChildMenu_imgui_792f906bddfc881e() {
+intgo _wrap_GuiWindowFlags_ChildMenu_imgui_09d88551d48dba44() {
   ImGuiWindowFlags_ result;
   intgo _swig_go_result;
   
@@ -10384,7 +10384,7 @@ intgo _wrap_GuiWindowFlags_ChildMenu_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CharsDecimal_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CharsDecimal_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10396,7 +10396,7 @@ intgo _wrap_GuiInputTextFlags_CharsDecimal_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CharsHexadecimal_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CharsHexadecimal_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10408,7 +10408,7 @@ intgo _wrap_GuiInputTextFlags_CharsHexadecimal_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CharsUppercase_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CharsUppercase_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10420,7 +10420,7 @@ intgo _wrap_GuiInputTextFlags_CharsUppercase_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CharsNoBlank_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CharsNoBlank_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10432,7 +10432,7 @@ intgo _wrap_GuiInputTextFlags_CharsNoBlank_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_AutoSelectAll_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_AutoSelectAll_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10444,7 +10444,7 @@ intgo _wrap_GuiInputTextFlags_AutoSelectAll_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_EnterReturnsTrue_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_EnterReturnsTrue_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10456,7 +10456,7 @@ intgo _wrap_GuiInputTextFlags_EnterReturnsTrue_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CallbackCompletion_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CallbackCompletion_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10468,7 +10468,7 @@ intgo _wrap_GuiInputTextFlags_CallbackCompletion_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CallbackHistory_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CallbackHistory_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10480,7 +10480,7 @@ intgo _wrap_GuiInputTextFlags_CallbackHistory_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CallbackAlways_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CallbackAlways_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10492,7 +10492,7 @@ intgo _wrap_GuiInputTextFlags_CallbackAlways_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CallbackCharFilter_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CallbackCharFilter_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10504,7 +10504,7 @@ intgo _wrap_GuiInputTextFlags_CallbackCharFilter_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_AllowTabInput_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_AllowTabInput_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10516,7 +10516,7 @@ intgo _wrap_GuiInputTextFlags_AllowTabInput_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_CtrlEnterForNewLine_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_CtrlEnterForNewLine_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10528,7 +10528,7 @@ intgo _wrap_GuiInputTextFlags_CtrlEnterForNewLine_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_NoHorizontalScroll_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_NoHorizontalScroll_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10540,7 +10540,7 @@ intgo _wrap_GuiInputTextFlags_NoHorizontalScroll_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_AlwaysInsertMode_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_AlwaysInsertMode_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10552,7 +10552,7 @@ intgo _wrap_GuiInputTextFlags_AlwaysInsertMode_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_ReadOnly_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_ReadOnly_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10564,7 +10564,7 @@ intgo _wrap_GuiInputTextFlags_ReadOnly_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_Password_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_Password_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10576,7 +10576,7 @@ intgo _wrap_GuiInputTextFlags_Password_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiInputTextFlags_Multiline_imgui_792f906bddfc881e() {
+intgo _wrap_GuiInputTextFlags_Multiline_imgui_09d88551d48dba44() {
   ImGuiInputTextFlags_ result;
   intgo _swig_go_result;
   
@@ -10588,7 +10588,7 @@ intgo _wrap_GuiInputTextFlags_Multiline_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_Selected_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_Selected_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10600,7 +10600,7 @@ intgo _wrap_GuiTreeNodeFlags_Selected_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_Framed_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_Framed_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10612,7 +10612,7 @@ intgo _wrap_GuiTreeNodeFlags_Framed_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_AllowOverlapMode_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_AllowOverlapMode_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10624,7 +10624,7 @@ intgo _wrap_GuiTreeNodeFlags_AllowOverlapMode_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_NoTreePushOnOpen_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_NoTreePushOnOpen_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10636,7 +10636,7 @@ intgo _wrap_GuiTreeNodeFlags_NoTreePushOnOpen_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_NoAutoOpenOnLog_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_NoAutoOpenOnLog_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10648,7 +10648,7 @@ intgo _wrap_GuiTreeNodeFlags_NoAutoOpenOnLog_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_DefaultOpen_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_DefaultOpen_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10660,7 +10660,7 @@ intgo _wrap_GuiTreeNodeFlags_DefaultOpen_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_OpenOnDoubleClick_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_OpenOnDoubleClick_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10672,7 +10672,7 @@ intgo _wrap_GuiTreeNodeFlags_OpenOnDoubleClick_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_OpenOnArrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_OpenOnArrow_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10684,7 +10684,7 @@ intgo _wrap_GuiTreeNodeFlags_OpenOnArrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_Leaf_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_Leaf_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10696,7 +10696,7 @@ intgo _wrap_GuiTreeNodeFlags_Leaf_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_Bullet_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_Bullet_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10708,7 +10708,7 @@ intgo _wrap_GuiTreeNodeFlags_Bullet_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiTreeNodeFlags_CollapsingHeader_imgui_792f906bddfc881e() {
+intgo _wrap_GuiTreeNodeFlags_CollapsingHeader_imgui_09d88551d48dba44() {
   ImGuiTreeNodeFlags_ result;
   intgo _swig_go_result;
   
@@ -10720,7 +10720,7 @@ intgo _wrap_GuiTreeNodeFlags_CollapsingHeader_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSelectableFlags_DontClosePopups_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSelectableFlags_DontClosePopups_imgui_09d88551d48dba44() {
   ImGuiSelectableFlags_ result;
   intgo _swig_go_result;
   
@@ -10732,7 +10732,7 @@ intgo _wrap_GuiSelectableFlags_DontClosePopups_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSelectableFlags_SpanAllColumns_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSelectableFlags_SpanAllColumns_imgui_09d88551d48dba44() {
   ImGuiSelectableFlags_ result;
   intgo _swig_go_result;
   
@@ -10744,7 +10744,7 @@ intgo _wrap_GuiSelectableFlags_SpanAllColumns_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSelectableFlags_AllowDoubleClick_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSelectableFlags_AllowDoubleClick_imgui_09d88551d48dba44() {
   ImGuiSelectableFlags_ result;
   intgo _swig_go_result;
   
@@ -10756,7 +10756,7 @@ intgo _wrap_GuiSelectableFlags_AllowDoubleClick_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Tab_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Tab_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10768,7 +10768,7 @@ intgo _wrap_GuiKey_Tab_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_LeftArrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_LeftArrow_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10780,7 +10780,7 @@ intgo _wrap_GuiKey_LeftArrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_RightArrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_RightArrow_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10792,7 +10792,7 @@ intgo _wrap_GuiKey_RightArrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_UpArrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_UpArrow_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10804,7 +10804,7 @@ intgo _wrap_GuiKey_UpArrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_DownArrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_DownArrow_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10816,7 +10816,7 @@ intgo _wrap_GuiKey_DownArrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_PageUp_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_PageUp_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10828,7 +10828,7 @@ intgo _wrap_GuiKey_PageUp_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_PageDown_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_PageDown_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10840,7 +10840,7 @@ intgo _wrap_GuiKey_PageDown_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Home_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Home_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10852,7 +10852,7 @@ intgo _wrap_GuiKey_Home_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_End_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_End_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10864,7 +10864,7 @@ intgo _wrap_GuiKey_End_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Delete_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Delete_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10876,7 +10876,7 @@ intgo _wrap_GuiKey_Delete_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Backspace_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Backspace_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10888,7 +10888,7 @@ intgo _wrap_GuiKey_Backspace_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Enter_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Enter_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10900,7 +10900,7 @@ intgo _wrap_GuiKey_Enter_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Escape_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Escape_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10912,7 +10912,7 @@ intgo _wrap_GuiKey_Escape_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_A_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_A_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10924,7 +10924,7 @@ intgo _wrap_GuiKey_A_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_C_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_C_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10936,7 +10936,7 @@ intgo _wrap_GuiKey_C_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_V_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_V_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10948,7 +10948,7 @@ intgo _wrap_GuiKey_V_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_X_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_X_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10960,7 +10960,7 @@ intgo _wrap_GuiKey_X_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Y_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Y_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10972,7 +10972,7 @@ intgo _wrap_GuiKey_Y_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_Z_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_Z_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10984,7 +10984,7 @@ intgo _wrap_GuiKey_Z_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiKey_COUNT_imgui_792f906bddfc881e() {
+intgo _wrap_GuiKey_COUNT_imgui_09d88551d48dba44() {
   ImGuiKey_ result;
   intgo _swig_go_result;
   
@@ -10996,7 +10996,7 @@ intgo _wrap_GuiKey_COUNT_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Text_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Text_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11008,7 +11008,7 @@ intgo _wrap_GuiCol_Text_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_TextDisabled_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_TextDisabled_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11020,7 +11020,7 @@ intgo _wrap_GuiCol_TextDisabled_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_WindowBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_WindowBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11032,7 +11032,7 @@ intgo _wrap_GuiCol_WindowBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ChildWindowBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ChildWindowBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11044,7 +11044,7 @@ intgo _wrap_GuiCol_ChildWindowBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_PopupBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_PopupBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11056,7 +11056,7 @@ intgo _wrap_GuiCol_PopupBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Border_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Border_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11068,7 +11068,7 @@ intgo _wrap_GuiCol_Border_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_BorderShadow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_BorderShadow_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11080,7 +11080,7 @@ intgo _wrap_GuiCol_BorderShadow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_FrameBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_FrameBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11092,7 +11092,7 @@ intgo _wrap_GuiCol_FrameBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_FrameBgHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_FrameBgHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11104,7 +11104,7 @@ intgo _wrap_GuiCol_FrameBgHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_FrameBgActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_FrameBgActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11116,7 +11116,7 @@ intgo _wrap_GuiCol_FrameBgActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_TitleBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_TitleBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11128,7 +11128,7 @@ intgo _wrap_GuiCol_TitleBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_TitleBgCollapsed_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_TitleBgCollapsed_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11140,7 +11140,7 @@ intgo _wrap_GuiCol_TitleBgCollapsed_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_TitleBgActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_TitleBgActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11152,7 +11152,7 @@ intgo _wrap_GuiCol_TitleBgActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_MenuBarBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_MenuBarBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11164,7 +11164,7 @@ intgo _wrap_GuiCol_MenuBarBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ScrollbarBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ScrollbarBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11176,7 +11176,7 @@ intgo _wrap_GuiCol_ScrollbarBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ScrollbarGrab_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ScrollbarGrab_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11188,7 +11188,7 @@ intgo _wrap_GuiCol_ScrollbarGrab_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ScrollbarGrabHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ScrollbarGrabHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11200,7 +11200,7 @@ intgo _wrap_GuiCol_ScrollbarGrabHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ScrollbarGrabActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ScrollbarGrabActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11212,7 +11212,7 @@ intgo _wrap_GuiCol_ScrollbarGrabActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ComboBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ComboBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11224,7 +11224,7 @@ intgo _wrap_GuiCol_ComboBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_CheckMark_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_CheckMark_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11236,7 +11236,7 @@ intgo _wrap_GuiCol_CheckMark_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_SliderGrab_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_SliderGrab_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11248,7 +11248,7 @@ intgo _wrap_GuiCol_SliderGrab_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_SliderGrabActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_SliderGrabActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11260,7 +11260,7 @@ intgo _wrap_GuiCol_SliderGrabActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Button_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Button_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11272,7 +11272,7 @@ intgo _wrap_GuiCol_Button_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ButtonHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ButtonHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11284,7 +11284,7 @@ intgo _wrap_GuiCol_ButtonHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ButtonActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ButtonActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11296,7 +11296,7 @@ intgo _wrap_GuiCol_ButtonActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Header_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Header_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11308,7 +11308,7 @@ intgo _wrap_GuiCol_Header_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_HeaderHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_HeaderHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11320,7 +11320,7 @@ intgo _wrap_GuiCol_HeaderHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_HeaderActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_HeaderActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11332,7 +11332,7 @@ intgo _wrap_GuiCol_HeaderActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Separator_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Separator_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11344,7 +11344,7 @@ intgo _wrap_GuiCol_Separator_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_SeparatorHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_SeparatorHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11356,7 +11356,7 @@ intgo _wrap_GuiCol_SeparatorHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_SeparatorActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_SeparatorActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11368,7 +11368,7 @@ intgo _wrap_GuiCol_SeparatorActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ResizeGrip_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ResizeGrip_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11380,7 +11380,7 @@ intgo _wrap_GuiCol_ResizeGrip_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ResizeGripHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ResizeGripHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11392,7 +11392,7 @@ intgo _wrap_GuiCol_ResizeGripHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ResizeGripActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ResizeGripActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11404,7 +11404,7 @@ intgo _wrap_GuiCol_ResizeGripActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_CloseButton_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_CloseButton_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11416,7 +11416,7 @@ intgo _wrap_GuiCol_CloseButton_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_CloseButtonHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_CloseButtonHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11428,7 +11428,7 @@ intgo _wrap_GuiCol_CloseButtonHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_CloseButtonActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_CloseButtonActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11440,7 +11440,7 @@ intgo _wrap_GuiCol_CloseButtonActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_PlotLines_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_PlotLines_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11452,7 +11452,7 @@ intgo _wrap_GuiCol_PlotLines_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_PlotLinesHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_PlotLinesHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11464,7 +11464,7 @@ intgo _wrap_GuiCol_PlotLinesHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_PlotHistogram_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_PlotHistogram_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11476,7 +11476,7 @@ intgo _wrap_GuiCol_PlotHistogram_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_PlotHistogramHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_PlotHistogramHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11488,7 +11488,7 @@ intgo _wrap_GuiCol_PlotHistogramHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_TextSelectedBg_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_TextSelectedBg_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11500,7 +11500,7 @@ intgo _wrap_GuiCol_TextSelectedBg_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ModalWindowDarkening_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ModalWindowDarkening_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11512,7 +11512,7 @@ intgo _wrap_GuiCol_ModalWindowDarkening_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_COUNT_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_COUNT_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11524,7 +11524,7 @@ intgo _wrap_GuiCol_COUNT_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_Column_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_Column_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11536,7 +11536,7 @@ intgo _wrap_GuiCol_Column_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ColumnHovered_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ColumnHovered_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11548,7 +11548,7 @@ intgo _wrap_GuiCol_ColumnHovered_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCol_ColumnActive_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCol_ColumnActive_imgui_09d88551d48dba44() {
   ImGuiCol_ result;
   intgo _swig_go_result;
   
@@ -11560,7 +11560,7 @@ intgo _wrap_GuiCol_ColumnActive_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_Alpha_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_Alpha_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11572,7 +11572,7 @@ intgo _wrap_GuiStyleVar_Alpha_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_WindowPadding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_WindowPadding_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11584,7 +11584,7 @@ intgo _wrap_GuiStyleVar_WindowPadding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_WindowRounding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_WindowRounding_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11596,7 +11596,7 @@ intgo _wrap_GuiStyleVar_WindowRounding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_WindowMinSize_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_WindowMinSize_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11608,7 +11608,7 @@ intgo _wrap_GuiStyleVar_WindowMinSize_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_ChildWindowRounding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_ChildWindowRounding_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11620,7 +11620,7 @@ intgo _wrap_GuiStyleVar_ChildWindowRounding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_FramePadding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_FramePadding_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11632,7 +11632,7 @@ intgo _wrap_GuiStyleVar_FramePadding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_FrameRounding_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_FrameRounding_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11644,7 +11644,7 @@ intgo _wrap_GuiStyleVar_FrameRounding_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_ItemSpacing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_ItemSpacing_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11656,7 +11656,7 @@ intgo _wrap_GuiStyleVar_ItemSpacing_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_ItemInnerSpacing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_ItemInnerSpacing_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11668,7 +11668,7 @@ intgo _wrap_GuiStyleVar_ItemInnerSpacing_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_IndentSpacing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_IndentSpacing_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11680,7 +11680,7 @@ intgo _wrap_GuiStyleVar_IndentSpacing_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_GrabMinSize_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_GrabMinSize_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11692,7 +11692,7 @@ intgo _wrap_GuiStyleVar_GrabMinSize_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_ButtonTextAlign_imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_ButtonTextAlign_imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11704,7 +11704,7 @@ intgo _wrap_GuiStyleVar_ButtonTextAlign_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiStyleVar_Count__imgui_792f906bddfc881e() {
+intgo _wrap_GuiStyleVar_Count__imgui_09d88551d48dba44() {
   ImGuiStyleVar_ result;
   intgo _swig_go_result;
   
@@ -11716,7 +11716,7 @@ intgo _wrap_GuiStyleVar_Count__imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoAlpha_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoAlpha_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11728,7 +11728,7 @@ intgo _wrap_GuiColorEditFlags_NoAlpha_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoPicker_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoPicker_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11740,7 +11740,7 @@ intgo _wrap_GuiColorEditFlags_NoPicker_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoOptions_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoOptions_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11752,7 +11752,7 @@ intgo _wrap_GuiColorEditFlags_NoOptions_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoSmallPreview_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoSmallPreview_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11764,7 +11764,7 @@ intgo _wrap_GuiColorEditFlags_NoSmallPreview_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoInputs_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoInputs_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11776,7 +11776,7 @@ intgo _wrap_GuiColorEditFlags_NoInputs_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoTooltip_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoTooltip_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11788,7 +11788,7 @@ intgo _wrap_GuiColorEditFlags_NoTooltip_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoLabel_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoLabel_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11800,7 +11800,7 @@ intgo _wrap_GuiColorEditFlags_NoLabel_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_NoSidePreview_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_NoSidePreview_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11812,7 +11812,7 @@ intgo _wrap_GuiColorEditFlags_NoSidePreview_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_AlphaBar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_AlphaBar_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11824,7 +11824,7 @@ intgo _wrap_GuiColorEditFlags_AlphaBar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_AlphaPreview_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_AlphaPreview_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11836,7 +11836,7 @@ intgo _wrap_GuiColorEditFlags_AlphaPreview_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_AlphaPreviewHalf_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_AlphaPreviewHalf_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11848,7 +11848,7 @@ intgo _wrap_GuiColorEditFlags_AlphaPreviewHalf_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_HDR_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_HDR_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11860,7 +11860,7 @@ intgo _wrap_GuiColorEditFlags_HDR_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_RGB_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_RGB_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11872,7 +11872,7 @@ intgo _wrap_GuiColorEditFlags_RGB_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_HSV_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_HSV_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11884,7 +11884,7 @@ intgo _wrap_GuiColorEditFlags_HSV_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_HEX_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_HEX_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11896,7 +11896,7 @@ intgo _wrap_GuiColorEditFlags_HEX_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_Uint8_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_Uint8_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11908,7 +11908,7 @@ intgo _wrap_GuiColorEditFlags_Uint8_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_Float_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_Float_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11920,7 +11920,7 @@ intgo _wrap_GuiColorEditFlags_Float_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_PickerHueBar_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_PickerHueBar_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11932,7 +11932,7 @@ intgo _wrap_GuiColorEditFlags_PickerHueBar_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags_PickerHueWheel_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags_PickerHueWheel_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11944,7 +11944,7 @@ intgo _wrap_GuiColorEditFlags_PickerHueWheel_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags__InputsMask_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags__InputsMask_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11956,7 +11956,7 @@ intgo _wrap_GuiColorEditFlags__InputsMask_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags__DataTypeMask_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags__DataTypeMask_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11968,7 +11968,7 @@ intgo _wrap_GuiColorEditFlags__DataTypeMask_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags__PickerMask_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags__PickerMask_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11980,7 +11980,7 @@ intgo _wrap_GuiColorEditFlags__PickerMask_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiColorEditFlags__OptionsDefault_imgui_792f906bddfc881e() {
+intgo _wrap_GuiColorEditFlags__OptionsDefault_imgui_09d88551d48dba44() {
   ImGuiColorEditFlags_ result;
   intgo _swig_go_result;
   
@@ -11992,7 +11992,7 @@ intgo _wrap_GuiColorEditFlags__OptionsDefault_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_None_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_None_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12004,7 +12004,7 @@ intgo _wrap_GuiMouseCursor_None_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_Arrow_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_Arrow_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12016,7 +12016,7 @@ intgo _wrap_GuiMouseCursor_Arrow_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_TextInput_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_TextInput_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12028,7 +12028,7 @@ intgo _wrap_GuiMouseCursor_TextInput_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_Move_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_Move_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12040,7 +12040,7 @@ intgo _wrap_GuiMouseCursor_Move_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_ResizeNS_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_ResizeNS_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12052,7 +12052,7 @@ intgo _wrap_GuiMouseCursor_ResizeNS_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_ResizeEW_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_ResizeEW_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12064,7 +12064,7 @@ intgo _wrap_GuiMouseCursor_ResizeEW_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_ResizeNESW_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_ResizeNESW_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12076,7 +12076,7 @@ intgo _wrap_GuiMouseCursor_ResizeNESW_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_ResizeNWSE_imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_ResizeNWSE_imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12088,7 +12088,7 @@ intgo _wrap_GuiMouseCursor_ResizeNWSE_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiMouseCursor_Count__imgui_792f906bddfc881e() {
+intgo _wrap_GuiMouseCursor_Count__imgui_09d88551d48dba44() {
   ImGuiMouseCursor_ result;
   intgo _swig_go_result;
   
@@ -12100,7 +12100,7 @@ intgo _wrap_GuiMouseCursor_Count__imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCond_Always_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCond_Always_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12112,7 +12112,7 @@ intgo _wrap_GuiCond_Always_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCond_Once_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCond_Once_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12124,7 +12124,7 @@ intgo _wrap_GuiCond_Once_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCond_FirstUseEver_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCond_FirstUseEver_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12136,7 +12136,7 @@ intgo _wrap_GuiCond_FirstUseEver_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiCond_Appearing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiCond_Appearing_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12148,7 +12148,7 @@ intgo _wrap_GuiCond_Appearing_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSetCond_Always_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSetCond_Always_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12160,7 +12160,7 @@ intgo _wrap_GuiSetCond_Always_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSetCond_Once_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSetCond_Once_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12172,7 +12172,7 @@ intgo _wrap_GuiSetCond_Once_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSetCond_FirstUseEver_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSetCond_FirstUseEver_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12184,7 +12184,7 @@ intgo _wrap_GuiSetCond_FirstUseEver_imgui_792f906bddfc881e() {
 }
 
 
-intgo _wrap_GuiSetCond_Appearing_imgui_792f906bddfc881e() {
+intgo _wrap_GuiSetCond_Appearing_imgui_09d88551d48dba44() {
   ImGuiCond_ result;
   intgo _swig_go_result;
   
@@ -12196,7 +12196,7 @@ intgo _wrap_GuiSetCond_Appearing_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_GuiStyle_Alpha_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_Alpha_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12208,7 +12208,7 @@ void _wrap_GuiStyle_Alpha_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, flo
 }
 
 
-float _wrap_GuiStyle_Alpha_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_Alpha_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12221,7 +12221,7 @@ float _wrap_GuiStyle_Alpha_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
 }
 
 
-void _wrap_GuiStyle_WindowPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_WindowPadding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12233,7 +12233,7 @@ void _wrap_GuiStyle_WindowPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-ImVec2 *_wrap_GuiStyle_WindowPadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_WindowPadding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12246,7 +12246,7 @@ ImVec2 *_wrap_GuiStyle_WindowPadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-void _wrap_GuiStyle_WindowMinSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_WindowMinSize_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12258,7 +12258,7 @@ void _wrap_GuiStyle_WindowMinSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-ImVec2 *_wrap_GuiStyle_WindowMinSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_WindowMinSize_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12271,7 +12271,7 @@ ImVec2 *_wrap_GuiStyle_WindowMinSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-void _wrap_GuiStyle_WindowRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_WindowRounding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12283,7 +12283,7 @@ void _wrap_GuiStyle_WindowRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_
 }
 
 
-float _wrap_GuiStyle_WindowRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_WindowRounding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12296,7 +12296,7 @@ float _wrap_GuiStyle_WindowRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig
 }
 
 
-void _wrap_GuiStyle_WindowTitleAlign_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_WindowTitleAlign_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12308,7 +12308,7 @@ void _wrap_GuiStyle_WindowTitleAlign_set_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-ImVec2 *_wrap_GuiStyle_WindowTitleAlign_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_WindowTitleAlign_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12321,7 +12321,7 @@ ImVec2 *_wrap_GuiStyle_WindowTitleAlign_get_imgui_792f906bddfc881e(ImGuiStyle *_
 }
 
 
-void _wrap_GuiStyle_ChildWindowRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_ChildWindowRounding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12333,7 +12333,7 @@ void _wrap_GuiStyle_ChildWindowRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_
 }
 
 
-float _wrap_GuiStyle_ChildWindowRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_ChildWindowRounding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12346,7 +12346,7 @@ float _wrap_GuiStyle_ChildWindowRounding_get_imgui_792f906bddfc881e(ImGuiStyle *
 }
 
 
-void _wrap_GuiStyle_FramePadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_FramePadding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12358,7 +12358,7 @@ void _wrap_GuiStyle_FramePadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go
 }
 
 
-ImVec2 *_wrap_GuiStyle_FramePadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_FramePadding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12371,7 +12371,7 @@ ImVec2 *_wrap_GuiStyle_FramePadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig
 }
 
 
-void _wrap_GuiStyle_FrameRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_FrameRounding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12383,7 +12383,7 @@ void _wrap_GuiStyle_FrameRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-float _wrap_GuiStyle_FrameRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_FrameRounding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12396,7 +12396,7 @@ float _wrap_GuiStyle_FrameRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_
 }
 
 
-void _wrap_GuiStyle_ItemSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_ItemSpacing_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12408,7 +12408,7 @@ void _wrap_GuiStyle_ItemSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_
 }
 
 
-ImVec2 *_wrap_GuiStyle_ItemSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_ItemSpacing_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12421,7 +12421,7 @@ ImVec2 *_wrap_GuiStyle_ItemSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_
 }
 
 
-void _wrap_GuiStyle_ItemInnerSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_ItemInnerSpacing_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12433,7 +12433,7 @@ void _wrap_GuiStyle_ItemInnerSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-ImVec2 *_wrap_GuiStyle_ItemInnerSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_ItemInnerSpacing_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12446,7 +12446,7 @@ ImVec2 *_wrap_GuiStyle_ItemInnerSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_
 }
 
 
-void _wrap_GuiStyle_TouchExtraPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_TouchExtraPadding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12458,7 +12458,7 @@ void _wrap_GuiStyle_TouchExtraPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_sw
 }
 
 
-ImVec2 *_wrap_GuiStyle_TouchExtraPadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_TouchExtraPadding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12471,7 +12471,7 @@ ImVec2 *_wrap_GuiStyle_TouchExtraPadding_get_imgui_792f906bddfc881e(ImGuiStyle *
 }
 
 
-void _wrap_GuiStyle_IndentSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_IndentSpacing_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12483,7 +12483,7 @@ void _wrap_GuiStyle_IndentSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-float _wrap_GuiStyle_IndentSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_IndentSpacing_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12496,7 +12496,7 @@ float _wrap_GuiStyle_IndentSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_
 }
 
 
-void _wrap_GuiStyle_ColumnsMinSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_ColumnsMinSpacing_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12508,7 +12508,7 @@ void _wrap_GuiStyle_ColumnsMinSpacing_set_imgui_792f906bddfc881e(ImGuiStyle *_sw
 }
 
 
-float _wrap_GuiStyle_ColumnsMinSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_ColumnsMinSpacing_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12521,7 +12521,7 @@ float _wrap_GuiStyle_ColumnsMinSpacing_get_imgui_792f906bddfc881e(ImGuiStyle *_s
 }
 
 
-void _wrap_GuiStyle_ScrollbarSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_ScrollbarSize_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12533,7 +12533,7 @@ void _wrap_GuiStyle_ScrollbarSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-float _wrap_GuiStyle_ScrollbarSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_ScrollbarSize_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12546,7 +12546,7 @@ float _wrap_GuiStyle_ScrollbarSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_
 }
 
 
-void _wrap_GuiStyle_ScrollbarRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_ScrollbarRounding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12558,7 +12558,7 @@ void _wrap_GuiStyle_ScrollbarRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_sw
 }
 
 
-float _wrap_GuiStyle_ScrollbarRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_ScrollbarRounding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12571,7 +12571,7 @@ float _wrap_GuiStyle_ScrollbarRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_s
 }
 
 
-void _wrap_GuiStyle_GrabMinSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_GrabMinSize_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12583,7 +12583,7 @@ void _wrap_GuiStyle_GrabMinSize_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_
 }
 
 
-float _wrap_GuiStyle_GrabMinSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_GrabMinSize_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12596,7 +12596,7 @@ float _wrap_GuiStyle_GrabMinSize_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go
 }
 
 
-void _wrap_GuiStyle_GrabRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_GrabRounding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12608,7 +12608,7 @@ void _wrap_GuiStyle_GrabRounding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go
 }
 
 
-float _wrap_GuiStyle_GrabRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_GrabRounding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12621,7 +12621,7 @@ float _wrap_GuiStyle_GrabRounding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_g
 }
 
 
-void _wrap_GuiStyle_ButtonTextAlign_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_ButtonTextAlign_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12633,7 +12633,7 @@ void _wrap_GuiStyle_ButtonTextAlign_set_imgui_792f906bddfc881e(ImGuiStyle *_swig
 }
 
 
-ImVec2 *_wrap_GuiStyle_ButtonTextAlign_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_ButtonTextAlign_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12646,7 +12646,7 @@ ImVec2 *_wrap_GuiStyle_ButtonTextAlign_get_imgui_792f906bddfc881e(ImGuiStyle *_s
 }
 
 
-void _wrap_GuiStyle_DisplayWindowPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_DisplayWindowPadding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12658,7 +12658,7 @@ void _wrap_GuiStyle_DisplayWindowPadding_set_imgui_792f906bddfc881e(ImGuiStyle *
 }
 
 
-ImVec2 *_wrap_GuiStyle_DisplayWindowPadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_DisplayWindowPadding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12671,7 +12671,7 @@ ImVec2 *_wrap_GuiStyle_DisplayWindowPadding_get_imgui_792f906bddfc881e(ImGuiStyl
 }
 
 
-void _wrap_GuiStyle_DisplaySafeAreaPadding_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiStyle_DisplaySafeAreaPadding_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12683,7 +12683,7 @@ void _wrap_GuiStyle_DisplaySafeAreaPadding_set_imgui_792f906bddfc881e(ImGuiStyle
 }
 
 
-ImVec2 *_wrap_GuiStyle_DisplaySafeAreaPadding_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+ImVec2 *_wrap_GuiStyle_DisplaySafeAreaPadding_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12696,7 +12696,7 @@ ImVec2 *_wrap_GuiStyle_DisplaySafeAreaPadding_get_imgui_792f906bddfc881e(ImGuiSt
 }
 
 
-void _wrap_GuiStyle_AntiAliasedLines_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiStyle_AntiAliasedLines_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, bool _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   bool arg2 ;
   
@@ -12708,7 +12708,7 @@ void _wrap_GuiStyle_AntiAliasedLines_set_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-bool _wrap_GuiStyle_AntiAliasedLines_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+bool _wrap_GuiStyle_AntiAliasedLines_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -12721,7 +12721,7 @@ bool _wrap_GuiStyle_AntiAliasedLines_get_imgui_792f906bddfc881e(ImGuiStyle *_swi
 }
 
 
-void _wrap_GuiStyle_AntiAliasedShapes_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiStyle_AntiAliasedShapes_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, bool _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   bool arg2 ;
   
@@ -12733,7 +12733,7 @@ void _wrap_GuiStyle_AntiAliasedShapes_set_imgui_792f906bddfc881e(ImGuiStyle *_sw
 }
 
 
-bool _wrap_GuiStyle_AntiAliasedShapes_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+bool _wrap_GuiStyle_AntiAliasedShapes_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -12746,7 +12746,7 @@ bool _wrap_GuiStyle_AntiAliasedShapes_get_imgui_792f906bddfc881e(ImGuiStyle *_sw
 }
 
 
-void _wrap_GuiStyle_CurveTessellationTol_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiStyle_CurveTessellationTol_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, float _swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float arg2 ;
   
@@ -12758,7 +12758,7 @@ void _wrap_GuiStyle_CurveTessellationTol_set_imgui_792f906bddfc881e(ImGuiStyle *
 }
 
 
-float _wrap_GuiStyle_CurveTessellationTol_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+float _wrap_GuiStyle_CurveTessellationTol_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   float result;
   float _swig_go_result;
@@ -12771,7 +12771,7 @@ float _wrap_GuiStyle_CurveTessellationTol_get_imgui_792f906bddfc881e(ImGuiStyle 
 }
 
 
-void _wrap_GuiStyle_Colors_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, ImVec4 *_swig_go_1) {
+void _wrap_GuiStyle_Colors_set_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0, ImVec4 *_swig_go_1) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec4 *arg2 ;
   
@@ -12787,7 +12787,7 @@ void _wrap_GuiStyle_Colors_set_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0, Im
 }
 
 
-ImVec4 (*_wrap_GuiStyle_Colors_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0))[ImGuiCol_COUNT] {
+ImVec4 (*_wrap_GuiStyle_Colors_get_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0))[ImGuiCol_COUNT] {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   ImVec4 *result = 0 ;
   ImVec4 (*_swig_go_result)[ImGuiCol_COUNT];
@@ -12800,7 +12800,7 @@ ImVec4 (*_wrap_GuiStyle_Colors_get_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0
 }
 
 
-ImGuiStyle *_wrap_new_GuiStyle_imgui_792f906bddfc881e() {
+ImGuiStyle *_wrap_new_GuiStyle_imgui_09d88551d48dba44() {
   ImGuiStyle *result = 0 ;
   ImGuiStyle *_swig_go_result;
   
@@ -12811,7 +12811,7 @@ ImGuiStyle *_wrap_new_GuiStyle_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_GuiStyle_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
+void _wrap_delete_GuiStyle_imgui_09d88551d48dba44(ImGuiStyle *_swig_go_0) {
   ImGuiStyle *arg1 = (ImGuiStyle *) 0 ;
   
   arg1 = *(ImGuiStyle **)&_swig_go_0; 
@@ -12821,7 +12821,7 @@ void _wrap_delete_GuiStyle_imgui_792f906bddfc881e(ImGuiStyle *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_DisplaySize_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_DisplaySize_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -12833,7 +12833,7 @@ void _wrap_GuiIO_DisplaySize_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImV
 }
 
 
-ImVec2 *_wrap_GuiIO_DisplaySize_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_DisplaySize_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -12846,7 +12846,7 @@ ImVec2 *_wrap_GuiIO_DisplaySize_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_DeltaTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_DeltaTime_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -12858,7 +12858,7 @@ void _wrap_GuiIO_DeltaTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float
 }
 
 
-float _wrap_GuiIO_DeltaTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_DeltaTime_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -12871,7 +12871,7 @@ float _wrap_GuiIO_DeltaTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_IniSavingRate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_IniSavingRate_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -12883,7 +12883,7 @@ void _wrap_GuiIO_IniSavingRate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, f
 }
 
 
-float _wrap_GuiIO_IniSavingRate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_IniSavingRate_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -12896,7 +12896,7 @@ float _wrap_GuiIO_IniSavingRate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_IniFilename_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiIO_IniFilename_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -12920,7 +12920,7 @@ void _wrap_GuiIO_IniFilename_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, _go
 }
 
 
-_gostring_ _wrap_GuiIO_IniFilename_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+_gostring_ _wrap_GuiIO_IniFilename_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -12933,7 +12933,7 @@ _gostring_ _wrap_GuiIO_IniFilename_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-void _wrap_GuiIO_LogFilename_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiIO_LogFilename_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -12957,7 +12957,7 @@ void _wrap_GuiIO_LogFilename_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, _go
 }
 
 
-_gostring_ _wrap_GuiIO_LogFilename_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+_gostring_ _wrap_GuiIO_LogFilename_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -12970,7 +12970,7 @@ _gostring_ _wrap_GuiIO_LogFilename_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-void _wrap_GuiIO_MouseDoubleClickTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_MouseDoubleClickTime_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -12982,7 +12982,7 @@ void _wrap_GuiIO_MouseDoubleClickTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-float _wrap_GuiIO_MouseDoubleClickTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_MouseDoubleClickTime_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -12995,7 +12995,7 @@ float _wrap_GuiIO_MouseDoubleClickTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-void _wrap_GuiIO_MouseDoubleClickMaxDist_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_MouseDoubleClickMaxDist_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13007,7 +13007,7 @@ void _wrap_GuiIO_MouseDoubleClickMaxDist_set_imgui_792f906bddfc881e(ImGuiIO *_sw
 }
 
 
-float _wrap_GuiIO_MouseDoubleClickMaxDist_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_MouseDoubleClickMaxDist_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13020,7 +13020,7 @@ float _wrap_GuiIO_MouseDoubleClickMaxDist_get_imgui_792f906bddfc881e(ImGuiIO *_s
 }
 
 
-void _wrap_GuiIO_MouseDragThreshold_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_MouseDragThreshold_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13032,7 +13032,7 @@ void _wrap_GuiIO_MouseDragThreshold_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-float _wrap_GuiIO_MouseDragThreshold_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_MouseDragThreshold_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13045,7 +13045,7 @@ float _wrap_GuiIO_MouseDragThreshold_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_KeyMap_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo *_swig_go_1) {
+void _wrap_GuiIO_KeyMap_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, intgo *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int *arg2 ;
   
@@ -13061,7 +13061,7 @@ void _wrap_GuiIO_KeyMap_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo *_
 }
 
 
-intgo *_wrap_GuiIO_KeyMap_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+intgo *_wrap_GuiIO_KeyMap_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int *result = 0 ;
   intgo *_swig_go_result;
@@ -13074,7 +13074,7 @@ intgo *_wrap_GuiIO_KeyMap_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_KeyRepeatDelay_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_KeyRepeatDelay_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13086,7 +13086,7 @@ void _wrap_GuiIO_KeyRepeatDelay_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, 
 }
 
 
-float _wrap_GuiIO_KeyRepeatDelay_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_KeyRepeatDelay_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13099,7 +13099,7 @@ float _wrap_GuiIO_KeyRepeatDelay_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0)
 }
 
 
-void _wrap_GuiIO_KeyRepeatRate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_KeyRepeatRate_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13111,7 +13111,7 @@ void _wrap_GuiIO_KeyRepeatRate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, f
 }
 
 
-float _wrap_GuiIO_KeyRepeatRate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_KeyRepeatRate_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13124,7 +13124,7 @@ float _wrap_GuiIO_KeyRepeatRate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_UserData_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void *_swig_go_1) {
+void _wrap_GuiIO_UserData_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -13136,7 +13136,7 @@ void _wrap_GuiIO_UserData_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void *
 }
 
 
-void *_wrap_GuiIO_UserData_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void *_wrap_GuiIO_UserData_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -13149,7 +13149,7 @@ void *_wrap_GuiIO_UserData_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_Fonts_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImFontAtlas *_swig_go_1) {
+void _wrap_GuiIO_Fonts_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImFontAtlas *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImFontAtlas *arg2 = (ImFontAtlas *) 0 ;
   
@@ -13161,7 +13161,7 @@ void _wrap_GuiIO_Fonts_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImFontAtl
 }
 
 
-ImFontAtlas *_wrap_GuiIO_Fonts_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImFontAtlas *_wrap_GuiIO_Fonts_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImFontAtlas *result = 0 ;
   ImFontAtlas *_swig_go_result;
@@ -13174,7 +13174,7 @@ ImFontAtlas *_wrap_GuiIO_Fonts_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_FontGlobalScale_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_FontGlobalScale_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13186,7 +13186,7 @@ void _wrap_GuiIO_FontGlobalScale_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0,
 }
 
 
-float _wrap_GuiIO_FontGlobalScale_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_FontGlobalScale_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13199,7 +13199,7 @@ float _wrap_GuiIO_FontGlobalScale_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-void _wrap_GuiIO_FontAllowUserScaling_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_FontAllowUserScaling_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13211,7 +13211,7 @@ void _wrap_GuiIO_FontAllowUserScaling_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-bool _wrap_GuiIO_FontAllowUserScaling_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_FontAllowUserScaling_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13224,7 +13224,7 @@ bool _wrap_GuiIO_FontAllowUserScaling_get_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-void _wrap_GuiIO_FontDefault_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImFont *_swig_go_1) {
+void _wrap_GuiIO_FontDefault_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImFont *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   
@@ -13236,7 +13236,7 @@ void _wrap_GuiIO_FontDefault_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImF
 }
 
 
-ImFont *_wrap_GuiIO_FontDefault_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImFont *_wrap_GuiIO_FontDefault_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
@@ -13249,7 +13249,7 @@ ImFont *_wrap_GuiIO_FontDefault_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_DisplayFramebufferScale_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_DisplayFramebufferScale_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -13261,7 +13261,7 @@ void _wrap_GuiIO_DisplayFramebufferScale_set_imgui_792f906bddfc881e(ImGuiIO *_sw
 }
 
 
-ImVec2 *_wrap_GuiIO_DisplayFramebufferScale_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_DisplayFramebufferScale_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -13274,7 +13274,7 @@ ImVec2 *_wrap_GuiIO_DisplayFramebufferScale_get_imgui_792f906bddfc881e(ImGuiIO *
 }
 
 
-void _wrap_GuiIO_DisplayVisibleMin_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_DisplayVisibleMin_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -13286,7 +13286,7 @@ void _wrap_GuiIO_DisplayVisibleMin_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-ImVec2 *_wrap_GuiIO_DisplayVisibleMin_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_DisplayVisibleMin_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -13299,7 +13299,7 @@ ImVec2 *_wrap_GuiIO_DisplayVisibleMin_get_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-void _wrap_GuiIO_DisplayVisibleMax_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_DisplayVisibleMax_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -13311,7 +13311,7 @@ void _wrap_GuiIO_DisplayVisibleMax_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-ImVec2 *_wrap_GuiIO_DisplayVisibleMax_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_DisplayVisibleMax_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -13324,7 +13324,7 @@ ImVec2 *_wrap_GuiIO_DisplayVisibleMax_get_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-void _wrap_GuiIO_OSXBehaviors_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_OSXBehaviors_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13336,7 +13336,7 @@ void _wrap_GuiIO_OSXBehaviors_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bo
 }
 
 
-bool _wrap_GuiIO_OSXBehaviors_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_OSXBehaviors_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13349,7 +13349,7 @@ bool _wrap_GuiIO_OSXBehaviors_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_RenderDrawListsFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_RenderDrawListsFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*arg2)(ImDrawData *) = (void (*)(ImDrawData *)) 0 ;
   
@@ -13361,7 +13361,7 @@ void _wrap_GuiIO_RenderDrawListsFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-void* _wrap_GuiIO_RenderDrawListsFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_RenderDrawListsFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*result)(ImDrawData *) = 0 ;
   void* _swig_go_result;
@@ -13374,7 +13374,7 @@ void* _wrap_GuiIO_RenderDrawListsFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void _wrap_GuiIO_GetClipboardTextFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_GetClipboardTextFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *(*arg2)(void *) = (char *(*)(void *)) 0 ;
   
@@ -13386,7 +13386,7 @@ void _wrap_GuiIO_GetClipboardTextFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void* _wrap_GuiIO_GetClipboardTextFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_GetClipboardTextFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *(*result)(void *) = 0 ;
   void* _swig_go_result;
@@ -13399,7 +13399,7 @@ void* _wrap_GuiIO_GetClipboardTextFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_SetClipboardTextFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_SetClipboardTextFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*arg2)(void *,char const *) = (void (*)(void *,char const *)) 0 ;
   
@@ -13411,7 +13411,7 @@ void _wrap_GuiIO_SetClipboardTextFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void* _wrap_GuiIO_SetClipboardTextFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_SetClipboardTextFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*result)(void *,char const *) = 0 ;
   void* _swig_go_result;
@@ -13424,7 +13424,7 @@ void* _wrap_GuiIO_SetClipboardTextFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_ClipboardUserData_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void *_swig_go_1) {
+void _wrap_GuiIO_ClipboardUserData_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -13436,7 +13436,7 @@ void _wrap_GuiIO_ClipboardUserData_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-void *_wrap_GuiIO_ClipboardUserData_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void *_wrap_GuiIO_ClipboardUserData_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -13449,7 +13449,7 @@ void *_wrap_GuiIO_ClipboardUserData_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void _wrap_GuiIO_MemAllocFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_MemAllocFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *(*arg2)(size_t) = (void *(*)(size_t)) 0 ;
   
@@ -13461,7 +13461,7 @@ void _wrap_GuiIO_MemAllocFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void
 }
 
 
-void* _wrap_GuiIO_MemAllocFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_MemAllocFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *(*result)(size_t) = 0 ;
   void* _swig_go_result;
@@ -13474,7 +13474,7 @@ void* _wrap_GuiIO_MemAllocFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MemFreeFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_MemFreeFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*arg2)(void *) = (void (*)(void *)) 0 ;
   
@@ -13486,7 +13486,7 @@ void _wrap_GuiIO_MemFreeFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void*
 }
 
 
-void* _wrap_GuiIO_MemFreeFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_MemFreeFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*result)(void *) = 0 ;
   void* _swig_go_result;
@@ -13499,7 +13499,7 @@ void* _wrap_GuiIO_MemFreeFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_eSetInputScreenPosFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void* _swig_go_1) {
+void _wrap_GuiIO_eSetInputScreenPosFn_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void* _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*arg2)(int,int) = (void (*)(int,int)) 0 ;
   
@@ -13511,7 +13511,7 @@ void _wrap_GuiIO_eSetInputScreenPosFn_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-void* _wrap_GuiIO_eSetInputScreenPosFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void* _wrap_GuiIO_eSetInputScreenPosFn_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void (*result)(int,int) = 0 ;
   void* _swig_go_result;
@@ -13524,7 +13524,7 @@ void* _wrap_GuiIO_eSetInputScreenPosFn_get_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-void _wrap_GuiIO_eWindowHandle_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, void *_swig_go_1) {
+void _wrap_GuiIO_eWindowHandle_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, void *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -13536,7 +13536,7 @@ void _wrap_GuiIO_eWindowHandle_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, v
 }
 
 
-void *_wrap_GuiIO_eWindowHandle_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void *_wrap_GuiIO_eWindowHandle_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -13549,7 +13549,7 @@ void *_wrap_GuiIO_eWindowHandle_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_MousePos_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_MousePos_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -13561,7 +13561,7 @@ void _wrap_GuiIO_MousePos_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2
 }
 
 
-ImVec2 *_wrap_GuiIO_MousePos_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_MousePos_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -13574,7 +13574,7 @@ ImVec2 *_wrap_GuiIO_MousePos_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MouseDown_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_MouseDown_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -13590,7 +13590,7 @@ void _wrap_GuiIO_MouseDown_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool 
 }
 
 
-bool *_wrap_GuiIO_MouseDown_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_MouseDown_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -13603,7 +13603,7 @@ bool *_wrap_GuiIO_MouseDown_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MouseWheel_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_MouseWheel_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13615,7 +13615,7 @@ void _wrap_GuiIO_MouseWheel_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, floa
 }
 
 
-float _wrap_GuiIO_MouseWheel_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_MouseWheel_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13628,7 +13628,7 @@ float _wrap_GuiIO_MouseWheel_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MouseDrawCursor_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_MouseDrawCursor_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13640,7 +13640,7 @@ void _wrap_GuiIO_MouseDrawCursor_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0,
 }
 
 
-bool _wrap_GuiIO_MouseDrawCursor_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_MouseDrawCursor_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13653,7 +13653,7 @@ bool _wrap_GuiIO_MouseDrawCursor_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0)
 }
 
 
-void _wrap_GuiIO_KeyCtrl_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_KeyCtrl_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13665,7 +13665,7 @@ void _wrap_GuiIO_KeyCtrl_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _s
 }
 
 
-bool _wrap_GuiIO_KeyCtrl_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_KeyCtrl_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13678,7 +13678,7 @@ bool _wrap_GuiIO_KeyCtrl_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_KeyShift_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_KeyShift_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13690,7 +13690,7 @@ void _wrap_GuiIO_KeyShift_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _
 }
 
 
-bool _wrap_GuiIO_KeyShift_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_KeyShift_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13703,7 +13703,7 @@ bool _wrap_GuiIO_KeyShift_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_KeyAlt_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_KeyAlt_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13715,7 +13715,7 @@ void _wrap_GuiIO_KeyAlt_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _sw
 }
 
 
-bool _wrap_GuiIO_KeyAlt_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_KeyAlt_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13728,7 +13728,7 @@ bool _wrap_GuiIO_KeyAlt_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_KeySuper_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_KeySuper_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13740,7 +13740,7 @@ void _wrap_GuiIO_KeySuper_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _
 }
 
 
-bool _wrap_GuiIO_KeySuper_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_KeySuper_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13753,7 +13753,7 @@ bool _wrap_GuiIO_KeySuper_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_KeysDown_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_KeysDown_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -13769,7 +13769,7 @@ void _wrap_GuiIO_KeysDown_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *
 }
 
 
-bool *_wrap_GuiIO_KeysDown_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_KeysDown_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -13782,7 +13782,7 @@ bool *_wrap_GuiIO_KeysDown_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_InputCharacters_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, short *_swig_go_1) {
+void _wrap_GuiIO_InputCharacters_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, short *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImWchar *arg2 ;
   
@@ -13798,7 +13798,7 @@ void _wrap_GuiIO_InputCharacters_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0,
 }
 
 
-short *_wrap_GuiIO_InputCharacters_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+short *_wrap_GuiIO_InputCharacters_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -13811,7 +13811,7 @@ short *_wrap_GuiIO_InputCharacters_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-void _wrap_GuiIO_AddInputCharacter_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, short _swig_go_1) {
+void _wrap_GuiIO_AddInputCharacter_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, short _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImWchar arg2 ;
   
@@ -13823,7 +13823,7 @@ void _wrap_GuiIO_AddInputCharacter_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, s
 }
 
 
-void _wrap_GuiIO_AddInputCharactersUTF8_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiIO_AddInputCharactersUTF8_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -13840,7 +13840,7 @@ void _wrap_GuiIO_AddInputCharactersUTF8_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void _wrap_GuiIO_ClearInputCharacters_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void _wrap_GuiIO_ClearInputCharacters_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   
   arg1 = *(ImGuiIO **)&_swig_go_0; 
@@ -13850,7 +13850,7 @@ void _wrap_GuiIO_ClearInputCharacters_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-void _wrap_GuiIO_WantCaptureMouse_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_WantCaptureMouse_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13862,7 +13862,7 @@ void _wrap_GuiIO_WantCaptureMouse_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-bool _wrap_GuiIO_WantCaptureMouse_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_WantCaptureMouse_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13875,7 +13875,7 @@ bool _wrap_GuiIO_WantCaptureMouse_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-void _wrap_GuiIO_WantCaptureKeyboard_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_WantCaptureKeyboard_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13887,7 +13887,7 @@ void _wrap_GuiIO_WantCaptureKeyboard_set_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-bool _wrap_GuiIO_WantCaptureKeyboard_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_WantCaptureKeyboard_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13900,7 +13900,7 @@ bool _wrap_GuiIO_WantCaptureKeyboard_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_WantTextInput_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiIO_WantTextInput_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool arg2 ;
   
@@ -13912,7 +13912,7 @@ void _wrap_GuiIO_WantTextInput_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, b
 }
 
 
-bool _wrap_GuiIO_WantTextInput_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool _wrap_GuiIO_WantTextInput_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -13925,7 +13925,7 @@ bool _wrap_GuiIO_WantTextInput_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_Framerate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiIO_Framerate_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float arg2 ;
   
@@ -13937,7 +13937,7 @@ void _wrap_GuiIO_Framerate_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float
 }
 
 
-float _wrap_GuiIO_Framerate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float _wrap_GuiIO_Framerate_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float result;
   float _swig_go_result;
@@ -13950,7 +13950,7 @@ float _wrap_GuiIO_Framerate_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MetricsAllocs_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiIO_MetricsAllocs_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int arg2 ;
   
@@ -13962,7 +13962,7 @@ void _wrap_GuiIO_MetricsAllocs_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, i
 }
 
 
-intgo _wrap_GuiIO_MetricsAllocs_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+intgo _wrap_GuiIO_MetricsAllocs_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -13975,7 +13975,7 @@ intgo _wrap_GuiIO_MetricsAllocs_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_MetricsRenderVertices_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiIO_MetricsRenderVertices_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int arg2 ;
   
@@ -13987,7 +13987,7 @@ void _wrap_GuiIO_MetricsRenderVertices_set_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-intgo _wrap_GuiIO_MetricsRenderVertices_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+intgo _wrap_GuiIO_MetricsRenderVertices_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14000,7 +14000,7 @@ intgo _wrap_GuiIO_MetricsRenderVertices_get_imgui_792f906bddfc881e(ImGuiIO *_swi
 }
 
 
-void _wrap_GuiIO_MetricsRenderIndices_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiIO_MetricsRenderIndices_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int arg2 ;
   
@@ -14012,7 +14012,7 @@ void _wrap_GuiIO_MetricsRenderIndices_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-intgo _wrap_GuiIO_MetricsRenderIndices_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+intgo _wrap_GuiIO_MetricsRenderIndices_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14025,7 +14025,7 @@ intgo _wrap_GuiIO_MetricsRenderIndices_get_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-void _wrap_GuiIO_MetricsActiveWindows_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiIO_MetricsActiveWindows_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, intgo _swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int arg2 ;
   
@@ -14037,7 +14037,7 @@ void _wrap_GuiIO_MetricsActiveWindows_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-intgo _wrap_GuiIO_MetricsActiveWindows_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+intgo _wrap_GuiIO_MetricsActiveWindows_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14050,7 +14050,7 @@ intgo _wrap_GuiIO_MetricsActiveWindows_get_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-void _wrap_GuiIO_MouseDelta_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_MouseDelta_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -14062,7 +14062,7 @@ void _wrap_GuiIO_MouseDelta_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVe
 }
 
 
-ImVec2 *_wrap_GuiIO_MouseDelta_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_MouseDelta_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -14075,7 +14075,7 @@ ImVec2 *_wrap_GuiIO_MouseDelta_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MousePosPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_MousePosPrev_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -14087,7 +14087,7 @@ void _wrap_GuiIO_MousePosPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, Im
 }
 
 
-ImVec2 *_wrap_GuiIO_MousePosPrev_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+ImVec2 *_wrap_GuiIO_MousePosPrev_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -14100,7 +14100,7 @@ ImVec2 *_wrap_GuiIO_MousePosPrev_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0)
 }
 
 
-void _wrap_GuiIO_MouseClicked_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_MouseClicked_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -14116,7 +14116,7 @@ void _wrap_GuiIO_MouseClicked_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bo
 }
 
 
-bool *_wrap_GuiIO_MouseClicked_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_MouseClicked_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -14129,7 +14129,7 @@ bool *_wrap_GuiIO_MouseClicked_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-void _wrap_GuiIO_MouseClickedPos_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiIO_MouseClickedPos_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *arg2 ;
   
@@ -14145,7 +14145,7 @@ void _wrap_GuiIO_MouseClickedPos_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0,
 }
 
 
-ImVec2 (*_wrap_GuiIO_MouseClickedPos_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0))[5] {
+ImVec2 (*_wrap_GuiIO_MouseClickedPos_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0))[5] {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 (*_swig_go_result)[5];
@@ -14158,7 +14158,7 @@ ImVec2 (*_wrap_GuiIO_MouseClickedPos_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_MouseClickedTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_MouseClickedTime_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14174,7 +14174,7 @@ void _wrap_GuiIO_MouseClickedTime_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-float *_wrap_GuiIO_MouseClickedTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_MouseClickedTime_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14187,7 +14187,7 @@ float *_wrap_GuiIO_MouseClickedTime_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void _wrap_GuiIO_MouseDoubleClicked_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_MouseDoubleClicked_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -14203,7 +14203,7 @@ void _wrap_GuiIO_MouseDoubleClicked_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-bool *_wrap_GuiIO_MouseDoubleClicked_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_MouseDoubleClicked_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -14216,7 +14216,7 @@ bool *_wrap_GuiIO_MouseDoubleClicked_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_MouseReleased_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_MouseReleased_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -14232,7 +14232,7 @@ void _wrap_GuiIO_MouseReleased_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, b
 }
 
 
-bool *_wrap_GuiIO_MouseReleased_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_MouseReleased_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -14245,7 +14245,7 @@ bool *_wrap_GuiIO_MouseReleased_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) 
 }
 
 
-void _wrap_GuiIO_MouseDownOwned_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
+void _wrap_GuiIO_MouseDownOwned_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, bool *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *arg2 ;
   
@@ -14261,7 +14261,7 @@ void _wrap_GuiIO_MouseDownOwned_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, 
 }
 
 
-bool *_wrap_GuiIO_MouseDownOwned_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+bool *_wrap_GuiIO_MouseDownOwned_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   bool *result = 0 ;
   bool *_swig_go_result;
@@ -14274,7 +14274,7 @@ bool *_wrap_GuiIO_MouseDownOwned_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0)
 }
 
 
-void _wrap_GuiIO_MouseDownDuration_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_MouseDownDuration_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14290,7 +14290,7 @@ void _wrap_GuiIO_MouseDownDuration_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_
 }
 
 
-float *_wrap_GuiIO_MouseDownDuration_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_MouseDownDuration_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14303,7 +14303,7 @@ float *_wrap_GuiIO_MouseDownDuration_get_imgui_792f906bddfc881e(ImGuiIO *_swig_g
 }
 
 
-void _wrap_GuiIO_MouseDownDurationPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_MouseDownDurationPrev_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14319,7 +14319,7 @@ void _wrap_GuiIO_MouseDownDurationPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig
 }
 
 
-float *_wrap_GuiIO_MouseDownDurationPrev_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_MouseDownDurationPrev_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14332,7 +14332,7 @@ float *_wrap_GuiIO_MouseDownDurationPrev_get_imgui_792f906bddfc881e(ImGuiIO *_sw
 }
 
 
-void _wrap_GuiIO_MouseDragMaxDistanceSqr_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_MouseDragMaxDistanceSqr_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14348,7 +14348,7 @@ void _wrap_GuiIO_MouseDragMaxDistanceSqr_set_imgui_792f906bddfc881e(ImGuiIO *_sw
 }
 
 
-float *_wrap_GuiIO_MouseDragMaxDistanceSqr_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_MouseDragMaxDistanceSqr_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14361,7 +14361,7 @@ float *_wrap_GuiIO_MouseDragMaxDistanceSqr_get_imgui_792f906bddfc881e(ImGuiIO *_
 }
 
 
-void _wrap_GuiIO_KeysDownDuration_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_KeysDownDuration_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14377,7 +14377,7 @@ void _wrap_GuiIO_KeysDownDuration_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0
 }
 
 
-float *_wrap_GuiIO_KeysDownDuration_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_KeysDownDuration_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14390,7 +14390,7 @@ float *_wrap_GuiIO_KeysDownDuration_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go
 }
 
 
-void _wrap_GuiIO_KeysDownDurationPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0, float *_swig_go_1) {
+void _wrap_GuiIO_KeysDownDurationPrev_set_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0, float *_swig_go_1) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *arg2 ;
   
@@ -14406,7 +14406,7 @@ void _wrap_GuiIO_KeysDownDurationPrev_set_imgui_792f906bddfc881e(ImGuiIO *_swig_
 }
 
 
-float *_wrap_GuiIO_KeysDownDurationPrev_get_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+float *_wrap_GuiIO_KeysDownDurationPrev_get_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   float *result = 0 ;
   float *_swig_go_result;
@@ -14419,7 +14419,7 @@ float *_wrap_GuiIO_KeysDownDurationPrev_get_imgui_792f906bddfc881e(ImGuiIO *_swi
 }
 
 
-ImGuiIO *_wrap_new_GuiIO_imgui_792f906bddfc881e() {
+ImGuiIO *_wrap_new_GuiIO_imgui_09d88551d48dba44() {
   ImGuiIO *result = 0 ;
   ImGuiIO *_swig_go_result;
   
@@ -14430,7 +14430,7 @@ ImGuiIO *_wrap_new_GuiIO_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_GuiIO_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
+void _wrap_delete_GuiIO_imgui_09d88551d48dba44(ImGuiIO *_swig_go_0) {
   ImGuiIO *arg1 = (ImGuiIO *) 0 ;
   
   arg1 = *(ImGuiIO **)&_swig_go_0; 
@@ -14440,7 +14440,7 @@ void _wrap_delete_GuiIO_imgui_792f906bddfc881e(ImGuiIO *_swig_go_0) {
 }
 
 
-ImGuiOnceUponAFrame *_wrap_new_GuiOnceUponAFrame_imgui_792f906bddfc881e() {
+ImGuiOnceUponAFrame *_wrap_new_GuiOnceUponAFrame_imgui_09d88551d48dba44() {
   ImGuiOnceUponAFrame *result = 0 ;
   ImGuiOnceUponAFrame *_swig_go_result;
   
@@ -14451,7 +14451,7 @@ ImGuiOnceUponAFrame *_wrap_new_GuiOnceUponAFrame_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_GuiOnceUponAFrame_RefFrame_set_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiOnceUponAFrame_RefFrame_set_imgui_09d88551d48dba44(ImGuiOnceUponAFrame *_swig_go_0, intgo _swig_go_1) {
   ImGuiOnceUponAFrame *arg1 = (ImGuiOnceUponAFrame *) 0 ;
   int arg2 ;
   
@@ -14463,7 +14463,7 @@ void _wrap_GuiOnceUponAFrame_RefFrame_set_imgui_792f906bddfc881e(ImGuiOnceUponAF
 }
 
 
-intgo _wrap_GuiOnceUponAFrame_RefFrame_get_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *_swig_go_0) {
+intgo _wrap_GuiOnceUponAFrame_RefFrame_get_imgui_09d88551d48dba44(ImGuiOnceUponAFrame *_swig_go_0) {
   ImGuiOnceUponAFrame *arg1 = (ImGuiOnceUponAFrame *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14476,7 +14476,7 @@ intgo _wrap_GuiOnceUponAFrame_RefFrame_get_imgui_792f906bddfc881e(ImGuiOnceUponA
 }
 
 
-bool _wrap_GuiOnceUponAFrame_Bool_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *_swig_go_0) {
+bool _wrap_GuiOnceUponAFrame_Bool_imgui_09d88551d48dba44(ImGuiOnceUponAFrame *_swig_go_0) {
   ImGuiOnceUponAFrame *arg1 = (ImGuiOnceUponAFrame *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14489,7 +14489,7 @@ bool _wrap_GuiOnceUponAFrame_Bool_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *_s
 }
 
 
-void _wrap_delete_GuiOnceUponAFrame_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *_swig_go_0) {
+void _wrap_delete_GuiOnceUponAFrame_imgui_09d88551d48dba44(ImGuiOnceUponAFrame *_swig_go_0) {
   ImGuiOnceUponAFrame *arg1 = (ImGuiOnceUponAFrame *) 0 ;
   
   arg1 = *(ImGuiOnceUponAFrame **)&_swig_go_0; 
@@ -14499,7 +14499,7 @@ void _wrap_delete_GuiOnceUponAFrame_imgui_792f906bddfc881e(ImGuiOnceUponAFrame *
 }
 
 
-void _wrap_GuiTextFilter_InputBuf_set_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiTextFilter_InputBuf_set_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *arg2 ;
   
@@ -14523,7 +14523,7 @@ void _wrap_GuiTextFilter_InputBuf_set_imgui_792f906bddfc881e(ImGuiTextFilter *_s
 }
 
 
-_gostring_ _wrap_GuiTextFilter_InputBuf_get_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+_gostring_ _wrap_GuiTextFilter_InputBuf_get_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -14536,7 +14536,7 @@ _gostring_ _wrap_GuiTextFilter_InputBuf_get_imgui_792f906bddfc881e(ImGuiTextFilt
 }
 
 
-void _wrap_GuiTextFilter_Filters_set_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, ImVector< ImGuiTextFilter::TextRange > *_swig_go_1) {
+void _wrap_GuiTextFilter_Filters_set_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, ImVector< ImGuiTextFilter::TextRange > *_swig_go_1) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   ImVector< ImGuiTextFilter::TextRange > *arg2 = (ImVector< ImGuiTextFilter::TextRange > *) 0 ;
   
@@ -14548,7 +14548,7 @@ void _wrap_GuiTextFilter_Filters_set_imgui_792f906bddfc881e(ImGuiTextFilter *_sw
 }
 
 
-ImVector< ImGuiTextFilter::TextRange > *_wrap_GuiTextFilter_Filters_get_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+ImVector< ImGuiTextFilter::TextRange > *_wrap_GuiTextFilter_Filters_get_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   ImVector< ImGuiTextFilter::TextRange > *result = 0 ;
   ImVector< ImGuiTextFilter::TextRange > *_swig_go_result;
@@ -14561,7 +14561,7 @@ ImVector< ImGuiTextFilter::TextRange > *_wrap_GuiTextFilter_Filters_get_imgui_79
 }
 
 
-void _wrap_GuiTextFilter_CountGrep_set_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextFilter_CountGrep_set_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   int arg2 ;
   
@@ -14573,7 +14573,7 @@ void _wrap_GuiTextFilter_CountGrep_set_imgui_792f906bddfc881e(ImGuiTextFilter *_
 }
 
 
-intgo _wrap_GuiTextFilter_CountGrep_get_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+intgo _wrap_GuiTextFilter_CountGrep_get_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14586,7 +14586,7 @@ intgo _wrap_GuiTextFilter_CountGrep_get_imgui_792f906bddfc881e(ImGuiTextFilter *
 }
 
 
-ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_0_imgui_792f906bddfc881e(_gostring_ _swig_go_0) {
+ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_0_imgui_09d88551d48dba44(_gostring_ _swig_go_0) {
   char *arg1 = (char *) 0 ;
   ImGuiTextFilter *result = 0 ;
   ImGuiTextFilter *_swig_go_result;
@@ -14604,7 +14604,7 @@ ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_0_imgui_792f906bddfc881e(_gostrin
 }
 
 
-ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_1_imgui_792f906bddfc881e() {
+ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_1_imgui_09d88551d48dba44() {
   ImGuiTextFilter *result = 0 ;
   ImGuiTextFilter *_swig_go_result;
   
@@ -14615,7 +14615,7 @@ ImGuiTextFilter *_wrap_new_GuiTextFilter__SWIG_1_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_GuiTextFilter_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+void _wrap_delete_GuiTextFilter_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   
   arg1 = *(ImGuiTextFilter **)&_swig_go_0; 
@@ -14625,7 +14625,7 @@ void _wrap_delete_GuiTextFilter_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go
 }
 
 
-void _wrap_GuiTextFilter_Clear_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+void _wrap_GuiTextFilter_Clear_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   
   arg1 = *(ImGuiTextFilter **)&_swig_go_0; 
@@ -14635,7 +14635,7 @@ void _wrap_GuiTextFilter_Clear_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_
 }
 
 
-bool _wrap_GuiTextFilter_Draw__SWIG_0_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
+bool _wrap_GuiTextFilter_Draw__SWIG_0_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -14657,7 +14657,7 @@ bool _wrap_GuiTextFilter_Draw__SWIG_0_imgui_792f906bddfc881e(ImGuiTextFilter *_s
 }
 
 
-bool _wrap_GuiTextFilter_Draw__SWIG_1_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_GuiTextFilter_Draw__SWIG_1_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *arg2 = (char *) 0 ;
   bool result;
@@ -14677,7 +14677,7 @@ bool _wrap_GuiTextFilter_Draw__SWIG_1_imgui_792f906bddfc881e(ImGuiTextFilter *_s
 }
 
 
-bool _wrap_GuiTextFilter_Draw__SWIG_2_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+bool _wrap_GuiTextFilter_Draw__SWIG_2_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14690,7 +14690,7 @@ bool _wrap_GuiTextFilter_Draw__SWIG_2_imgui_792f906bddfc881e(ImGuiTextFilter *_s
 }
 
 
-bool _wrap_GuiTextFilter_PassFilter__SWIG_0_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1, _gostring_ _swig_go_2) {
+bool _wrap_GuiTextFilter_PassFilter__SWIG_0_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1, _gostring_ _swig_go_2) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *arg2 = (char *) 0 ;
   char *arg3 = (char *) 0 ;
@@ -14717,7 +14717,7 @@ bool _wrap_GuiTextFilter_PassFilter__SWIG_0_imgui_792f906bddfc881e(ImGuiTextFilt
 }
 
 
-bool _wrap_GuiTextFilter_PassFilter__SWIG_1_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
+bool _wrap_GuiTextFilter_PassFilter__SWIG_1_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   char *arg2 = (char *) 0 ;
   bool result;
@@ -14737,7 +14737,7 @@ bool _wrap_GuiTextFilter_PassFilter__SWIG_1_imgui_792f906bddfc881e(ImGuiTextFilt
 }
 
 
-bool _wrap_GuiTextFilter_IsActive_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+bool _wrap_GuiTextFilter_IsActive_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14750,7 +14750,7 @@ bool _wrap_GuiTextFilter_IsActive_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_
 }
 
 
-void _wrap_GuiTextFilter_Build_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_0) {
+void _wrap_GuiTextFilter_Build_imgui_09d88551d48dba44(ImGuiTextFilter *_swig_go_0) {
   ImGuiTextFilter *arg1 = (ImGuiTextFilter *) 0 ;
   
   arg1 = *(ImGuiTextFilter **)&_swig_go_0; 
@@ -14760,7 +14760,7 @@ void _wrap_GuiTextFilter_Build_imgui_792f906bddfc881e(ImGuiTextFilter *_swig_go_
 }
 
 
-void _wrap_GuiTextBuffer_Buf_set_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0, ImVector< char > *_swig_go_1) {
+void _wrap_GuiTextBuffer_Buf_set_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0, ImVector< char > *_swig_go_1) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   ImVector< char > *arg2 = (ImVector< char > *) 0 ;
   
@@ -14772,7 +14772,7 @@ void _wrap_GuiTextBuffer_Buf_set_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_g
 }
 
 
-ImVector< char > *_wrap_GuiTextBuffer_Buf_get_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+ImVector< char > *_wrap_GuiTextBuffer_Buf_get_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   ImVector< char > *result = 0 ;
   ImVector< char > *_swig_go_result;
@@ -14785,7 +14785,7 @@ ImVector< char > *_wrap_GuiTextBuffer_Buf_get_imgui_792f906bddfc881e(ImGuiTextBu
 }
 
 
-ImGuiTextBuffer *_wrap_new_GuiTextBuffer_imgui_792f906bddfc881e() {
+ImGuiTextBuffer *_wrap_new_GuiTextBuffer_imgui_09d88551d48dba44() {
   ImGuiTextBuffer *result = 0 ;
   ImGuiTextBuffer *_swig_go_result;
   
@@ -14796,7 +14796,7 @@ ImGuiTextBuffer *_wrap_new_GuiTextBuffer_imgui_792f906bddfc881e() {
 }
 
 
-char _wrap_GuiTextBuffer_Get_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0, intgo _swig_go_1) {
+char _wrap_GuiTextBuffer_Get_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   int arg2 ;
   char result;
@@ -14811,7 +14811,7 @@ char _wrap_GuiTextBuffer_Get_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0,
 }
 
 
-_gostring_ _wrap_GuiTextBuffer_begin_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+_gostring_ _wrap_GuiTextBuffer_begin_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -14824,7 +14824,7 @@ _gostring_ _wrap_GuiTextBuffer_begin_imgui_792f906bddfc881e(ImGuiTextBuffer *_sw
 }
 
 
-_gostring_ _wrap_GuiTextBuffer_end_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+_gostring_ _wrap_GuiTextBuffer_end_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -14837,7 +14837,7 @@ _gostring_ _wrap_GuiTextBuffer_end_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig
 }
 
 
-intgo _wrap_GuiTextBuffer_size_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+intgo _wrap_GuiTextBuffer_size_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -14850,7 +14850,7 @@ intgo _wrap_GuiTextBuffer_size_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_
 }
 
 
-bool _wrap_GuiTextBuffer_empty_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+bool _wrap_GuiTextBuffer_empty_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -14863,7 +14863,7 @@ bool _wrap_GuiTextBuffer_empty_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_
 }
 
 
-void _wrap_GuiTextBuffer_clear_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+void _wrap_GuiTextBuffer_clear_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   
   arg1 = *(ImGuiTextBuffer **)&_swig_go_0; 
@@ -14873,7 +14873,7 @@ void _wrap_GuiTextBuffer_clear_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_
 }
 
 
-_gostring_ _wrap_GuiTextBuffer_c_str_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+_gostring_ _wrap_GuiTextBuffer_c_str_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -14886,7 +14886,7 @@ _gostring_ _wrap_GuiTextBuffer_c_str_imgui_792f906bddfc881e(ImGuiTextBuffer *_sw
 }
 
 
-void _wrap_GuiTextBuffer_append_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiTextBuffer_append_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   char *arg2 = (char *) 0 ;
   void *arg3 = 0 ;
@@ -14904,7 +14904,7 @@ void _wrap_GuiTextBuffer_append_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go
 }
 
 
-void _wrap_GuiTextBuffer_appendv_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
+void _wrap_GuiTextBuffer_appendv_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0, _gostring_ _swig_go_1, va_list *_swig_go_2) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   char *arg2 = (char *) 0 ;
   va_list arg3 ;
@@ -14930,7 +14930,7 @@ void _wrap_GuiTextBuffer_appendv_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_g
 }
 
 
-void _wrap_delete_GuiTextBuffer_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go_0) {
+void _wrap_delete_GuiTextBuffer_imgui_09d88551d48dba44(ImGuiTextBuffer *_swig_go_0) {
   ImGuiTextBuffer *arg1 = (ImGuiTextBuffer *) 0 ;
   
   arg1 = *(ImGuiTextBuffer **)&_swig_go_0; 
@@ -14940,7 +14940,7 @@ void _wrap_delete_GuiTextBuffer_imgui_792f906bddfc881e(ImGuiTextBuffer *_swig_go
 }
 
 
-void _wrap_GuiStorage_Data_set_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, ImVector< ImGuiStorage::Pair > *_swig_go_1) {
+void _wrap_GuiStorage_Data_set_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, ImVector< ImGuiStorage::Pair > *_swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImVector< ImGuiStorage::Pair > *arg2 = (ImVector< ImGuiStorage::Pair > *) 0 ;
   
@@ -14952,7 +14952,7 @@ void _wrap_GuiStorage_Data_set_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, 
 }
 
 
-ImVector< ImGuiStorage::Pair > *_wrap_GuiStorage_Data_get_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
+ImVector< ImGuiStorage::Pair > *_wrap_GuiStorage_Data_get_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImVector< ImGuiStorage::Pair > *result = 0 ;
   ImVector< ImGuiStorage::Pair > *_swig_go_result;
@@ -14965,7 +14965,7 @@ ImVector< ImGuiStorage::Pair > *_wrap_GuiStorage_Data_get_imgui_792f906bddfc881e
 }
 
 
-void _wrap_GuiStorage_Clear_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
+void _wrap_GuiStorage_Clear_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   
   arg1 = *(ImGuiStorage **)&_swig_go_0; 
@@ -14975,7 +14975,7 @@ void _wrap_GuiStorage_Clear_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
 }
 
 
-intgo _wrap_GuiStorage_GetInt__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo _wrap_GuiStorage_GetInt__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   int arg3 ;
@@ -14992,7 +14992,7 @@ intgo _wrap_GuiStorage_GetInt__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig
 }
 
 
-intgo _wrap_GuiStorage_GetInt__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+intgo _wrap_GuiStorage_GetInt__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   int result;
@@ -15007,7 +15007,7 @@ intgo _wrap_GuiStorage_GetInt__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig
 }
 
 
-void _wrap_GuiStorage_SetInt_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_GuiStorage_SetInt_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   int arg3 ;
@@ -15021,7 +15021,7 @@ void _wrap_GuiStorage_SetInt_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, in
 }
 
 
-bool _wrap_GuiStorage_GetBool__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
+bool _wrap_GuiStorage_GetBool__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   bool arg3 ;
@@ -15038,7 +15038,7 @@ bool _wrap_GuiStorage_GetBool__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig
 }
 
 
-bool _wrap_GuiStorage_GetBool__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+bool _wrap_GuiStorage_GetBool__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   bool result;
@@ -15053,7 +15053,7 @@ bool _wrap_GuiStorage_GetBool__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig
 }
 
 
-void _wrap_GuiStorage_SetBool_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
+void _wrap_GuiStorage_SetBool_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   bool arg3 ;
@@ -15067,7 +15067,7 @@ void _wrap_GuiStorage_SetBool_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, i
 }
 
 
-float _wrap_GuiStorage_GetFloat__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float _wrap_GuiStorage_GetFloat__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   float arg3 ;
@@ -15084,7 +15084,7 @@ float _wrap_GuiStorage_GetFloat__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_sw
 }
 
 
-float _wrap_GuiStorage_GetFloat__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+float _wrap_GuiStorage_GetFloat__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   float result;
@@ -15099,7 +15099,7 @@ float _wrap_GuiStorage_GetFloat__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_sw
 }
 
 
-void _wrap_GuiStorage_SetFloat_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+void _wrap_GuiStorage_SetFloat_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   float arg3 ;
@@ -15113,7 +15113,7 @@ void _wrap_GuiStorage_SetFloat_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, 
 }
 
 
-void *_wrap_GuiStorage_GetVoidPtr_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+void *_wrap_GuiStorage_GetVoidPtr_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   void *result = 0 ;
@@ -15128,7 +15128,7 @@ void *_wrap_GuiStorage_GetVoidPtr_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_
 }
 
 
-void _wrap_GuiStorage_SetVoidPtr_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
+void _wrap_GuiStorage_SetVoidPtr_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   void *arg3 = (void *) 0 ;
@@ -15142,7 +15142,7 @@ void _wrap_GuiStorage_SetVoidPtr_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0
 }
 
 
-intgo *_wrap_GuiStorage_GetIntRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+intgo *_wrap_GuiStorage_GetIntRef__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   int arg3 ;
@@ -15159,7 +15159,7 @@ intgo *_wrap_GuiStorage_GetIntRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_
 }
 
 
-intgo *_wrap_GuiStorage_GetIntRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+intgo *_wrap_GuiStorage_GetIntRef__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   int *result = 0 ;
@@ -15174,7 +15174,7 @@ intgo *_wrap_GuiStorage_GetIntRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_
 }
 
 
-bool *_wrap_GuiStorage_GetBoolRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
+bool *_wrap_GuiStorage_GetBoolRef__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   bool arg3 ;
@@ -15191,7 +15191,7 @@ bool *_wrap_GuiStorage_GetBoolRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_
 }
 
 
-bool *_wrap_GuiStorage_GetBoolRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+bool *_wrap_GuiStorage_GetBoolRef__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   bool *result = 0 ;
@@ -15206,7 +15206,7 @@ bool *_wrap_GuiStorage_GetBoolRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_
 }
 
 
-float *_wrap_GuiStorage_GetFloatRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+float *_wrap_GuiStorage_GetFloatRef__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   float arg3 ;
@@ -15223,7 +15223,7 @@ float *_wrap_GuiStorage_GetFloatRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage 
 }
 
 
-float *_wrap_GuiStorage_GetFloatRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+float *_wrap_GuiStorage_GetFloatRef__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   float *result = 0 ;
@@ -15238,7 +15238,7 @@ float *_wrap_GuiStorage_GetFloatRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage 
 }
 
 
-void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
+void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_0_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1, void *_swig_go_2) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   void *arg3 = (void *) 0 ;
@@ -15255,7 +15255,7 @@ void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_0_imgui_792f906bddfc881e(ImGuiStorag
 }
 
 
-void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_1_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   ImGuiID arg2 ;
   void **result = 0 ;
@@ -15270,7 +15270,7 @@ void **_wrap_GuiStorage_GetVoidPtrRef__SWIG_1_imgui_792f906bddfc881e(ImGuiStorag
 }
 
 
-void _wrap_GuiStorage_SetAllInt_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiStorage_SetAllInt_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0, intgo _swig_go_1) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   int arg2 ;
   
@@ -15282,7 +15282,7 @@ void _wrap_GuiStorage_SetAllInt_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0,
 }
 
 
-ImGuiStorage *_wrap_new_GuiStorage_imgui_792f906bddfc881e() {
+ImGuiStorage *_wrap_new_GuiStorage_imgui_09d88551d48dba44() {
   ImGuiStorage *result = 0 ;
   ImGuiStorage *_swig_go_result;
   
@@ -15293,7 +15293,7 @@ ImGuiStorage *_wrap_new_GuiStorage_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_GuiStorage_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
+void _wrap_delete_GuiStorage_imgui_09d88551d48dba44(ImGuiStorage *_swig_go_0) {
   ImGuiStorage *arg1 = (ImGuiStorage *) 0 ;
   
   arg1 = *(ImGuiStorage **)&_swig_go_0; 
@@ -15303,7 +15303,7 @@ void _wrap_delete_GuiStorage_imgui_792f906bddfc881e(ImGuiStorage *_swig_go_0) {
 }
 
 
-void _wrap_GuiTextEditCallbackData_EventFlag_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_EventFlag_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiInputTextFlags arg2 ;
   
@@ -15315,7 +15315,7 @@ void _wrap_GuiTextEditCallbackData_EventFlag_set_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_EventFlag_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_EventFlag_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiInputTextFlags result;
   intgo _swig_go_result;
@@ -15328,7 +15328,7 @@ intgo _wrap_GuiTextEditCallbackData_EventFlag_get_imgui_792f906bddfc881e(ImGuiTe
 }
 
 
-void _wrap_GuiTextEditCallbackData_Flags_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_Flags_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiInputTextFlags arg2 ;
   
@@ -15340,7 +15340,7 @@ void _wrap_GuiTextEditCallbackData_Flags_set_imgui_792f906bddfc881e(ImGuiTextEdi
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_Flags_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_Flags_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiInputTextFlags result;
   intgo _swig_go_result;
@@ -15353,7 +15353,7 @@ intgo _wrap_GuiTextEditCallbackData_Flags_get_imgui_792f906bddfc881e(ImGuiTextEd
 }
 
 
-void _wrap_GuiTextEditCallbackData_UserData_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, void *_swig_go_1) {
+void _wrap_GuiTextEditCallbackData_UserData_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, void *_swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -15365,7 +15365,7 @@ void _wrap_GuiTextEditCallbackData_UserData_set_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-void *_wrap_GuiTextEditCallbackData_UserData_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+void *_wrap_GuiTextEditCallbackData_UserData_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -15378,7 +15378,7 @@ void *_wrap_GuiTextEditCallbackData_UserData_get_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-void _wrap_GuiTextEditCallbackData_ReadOnly_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_ReadOnly_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, bool _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   bool arg2 ;
   
@@ -15390,7 +15390,7 @@ void _wrap_GuiTextEditCallbackData_ReadOnly_set_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-bool _wrap_GuiTextEditCallbackData_ReadOnly_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+bool _wrap_GuiTextEditCallbackData_ReadOnly_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15403,7 +15403,7 @@ bool _wrap_GuiTextEditCallbackData_ReadOnly_get_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-void _wrap_GuiTextEditCallbackData_EventChar_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, short _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_EventChar_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, short _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImWchar arg2 ;
   
@@ -15415,7 +15415,7 @@ void _wrap_GuiTextEditCallbackData_EventChar_set_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-short _wrap_GuiTextEditCallbackData_EventChar_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+short _wrap_GuiTextEditCallbackData_EventChar_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImWchar result;
   short _swig_go_result;
@@ -15428,7 +15428,7 @@ short _wrap_GuiTextEditCallbackData_EventChar_get_imgui_792f906bddfc881e(ImGuiTe
 }
 
 
-void _wrap_GuiTextEditCallbackData_EventKey_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_EventKey_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiKey arg2 ;
   
@@ -15440,7 +15440,7 @@ void _wrap_GuiTextEditCallbackData_EventKey_set_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_EventKey_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_EventKey_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   ImGuiKey result;
   intgo _swig_go_result;
@@ -15453,7 +15453,7 @@ intgo _wrap_GuiTextEditCallbackData_EventKey_get_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-void _wrap_GuiTextEditCallbackData_Buf_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_Buf_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, _gostring_ _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -15478,7 +15478,7 @@ void _wrap_GuiTextEditCallbackData_Buf_set_imgui_792f906bddfc881e(ImGuiTextEditC
 }
 
 
-_gostring_ _wrap_GuiTextEditCallbackData_Buf_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+_gostring_ _wrap_GuiTextEditCallbackData_Buf_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -15491,7 +15491,7 @@ _gostring_ _wrap_GuiTextEditCallbackData_Buf_get_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-void _wrap_GuiTextEditCallbackData_BufTextLen_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_BufTextLen_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   
@@ -15503,7 +15503,7 @@ void _wrap_GuiTextEditCallbackData_BufTextLen_set_imgui_792f906bddfc881e(ImGuiTe
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_BufTextLen_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_BufTextLen_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -15516,7 +15516,7 @@ intgo _wrap_GuiTextEditCallbackData_BufTextLen_get_imgui_792f906bddfc881e(ImGuiT
 }
 
 
-void _wrap_GuiTextEditCallbackData_BufSize_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_BufSize_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   
@@ -15528,7 +15528,7 @@ void _wrap_GuiTextEditCallbackData_BufSize_set_imgui_792f906bddfc881e(ImGuiTextE
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_BufSize_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_BufSize_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -15541,7 +15541,7 @@ intgo _wrap_GuiTextEditCallbackData_BufSize_get_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-void _wrap_GuiTextEditCallbackData_BufDirty_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, bool _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_BufDirty_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, bool _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   bool arg2 ;
   
@@ -15553,7 +15553,7 @@ void _wrap_GuiTextEditCallbackData_BufDirty_set_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-bool _wrap_GuiTextEditCallbackData_BufDirty_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+bool _wrap_GuiTextEditCallbackData_BufDirty_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15566,7 +15566,7 @@ bool _wrap_GuiTextEditCallbackData_BufDirty_get_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-void _wrap_GuiTextEditCallbackData_CursorPos_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_CursorPos_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   
@@ -15578,7 +15578,7 @@ void _wrap_GuiTextEditCallbackData_CursorPos_set_imgui_792f906bddfc881e(ImGuiTex
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_CursorPos_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_CursorPos_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -15591,7 +15591,7 @@ intgo _wrap_GuiTextEditCallbackData_CursorPos_get_imgui_792f906bddfc881e(ImGuiTe
 }
 
 
-void _wrap_GuiTextEditCallbackData_SelectionStart_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_SelectionStart_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   
@@ -15603,7 +15603,7 @@ void _wrap_GuiTextEditCallbackData_SelectionStart_set_imgui_792f906bddfc881e(ImG
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_SelectionStart_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_SelectionStart_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -15616,7 +15616,7 @@ intgo _wrap_GuiTextEditCallbackData_SelectionStart_get_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_GuiTextEditCallbackData_SelectionEnd_set_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiTextEditCallbackData_SelectionEnd_set_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   
@@ -15628,7 +15628,7 @@ void _wrap_GuiTextEditCallbackData_SelectionEnd_set_imgui_792f906bddfc881e(ImGui
 }
 
 
-intgo _wrap_GuiTextEditCallbackData_SelectionEnd_get_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+intgo _wrap_GuiTextEditCallbackData_SelectionEnd_get_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -15641,7 +15641,7 @@ intgo _wrap_GuiTextEditCallbackData_SelectionEnd_get_imgui_792f906bddfc881e(ImGu
 }
 
 
-void _wrap_GuiTextEditCallbackData_DeleteChars_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_GuiTextEditCallbackData_DeleteChars_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   int arg3 ;
@@ -15655,7 +15655,7 @@ void _wrap_GuiTextEditCallbackData_DeleteChars_imgui_792f906bddfc881e(ImGuiTextE
 }
 
 
-void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_0_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, _gostring_ _swig_go_3) {
+void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_0_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2, _gostring_ _swig_go_3) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   char *arg3 = (char *) 0 ;
@@ -15681,7 +15681,7 @@ void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_0_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_1_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
+void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_1_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0, intgo _swig_go_1, _gostring_ _swig_go_2) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   int arg2 ;
   char *arg3 = (char *) 0 ;
@@ -15700,7 +15700,7 @@ void _wrap_GuiTextEditCallbackData_InsertChars__SWIG_1_imgui_792f906bddfc881e(Im
 }
 
 
-bool _wrap_GuiTextEditCallbackData_HasSelection_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+bool _wrap_GuiTextEditCallbackData_HasSelection_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -15713,7 +15713,7 @@ bool _wrap_GuiTextEditCallbackData_HasSelection_imgui_792f906bddfc881e(ImGuiText
 }
 
 
-ImGuiTextEditCallbackData *_wrap_new_GuiTextEditCallbackData_imgui_792f906bddfc881e() {
+ImGuiTextEditCallbackData *_wrap_new_GuiTextEditCallbackData_imgui_09d88551d48dba44() {
   ImGuiTextEditCallbackData *result = 0 ;
   ImGuiTextEditCallbackData *_swig_go_result;
   
@@ -15724,7 +15724,7 @@ ImGuiTextEditCallbackData *_wrap_new_GuiTextEditCallbackData_imgui_792f906bddfc8
 }
 
 
-void _wrap_delete_GuiTextEditCallbackData_imgui_792f906bddfc881e(ImGuiTextEditCallbackData *_swig_go_0) {
+void _wrap_delete_GuiTextEditCallbackData_imgui_09d88551d48dba44(ImGuiTextEditCallbackData *_swig_go_0) {
   ImGuiTextEditCallbackData *arg1 = (ImGuiTextEditCallbackData *) 0 ;
   
   arg1 = *(ImGuiTextEditCallbackData **)&_swig_go_0; 
@@ -15734,7 +15734,7 @@ void _wrap_delete_GuiTextEditCallbackData_imgui_792f906bddfc881e(ImGuiTextEditCa
 }
 
 
-void _wrap_GuiSizeConstraintCallbackData_UserData_set_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0, void *_swig_go_1) {
+void _wrap_GuiSizeConstraintCallbackData_UserData_set_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0, void *_swig_go_1) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -15746,7 +15746,7 @@ void _wrap_GuiSizeConstraintCallbackData_UserData_set_imgui_792f906bddfc881e(ImG
 }
 
 
-void *_wrap_GuiSizeConstraintCallbackData_UserData_get_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0) {
+void *_wrap_GuiSizeConstraintCallbackData_UserData_get_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -15759,7 +15759,7 @@ void *_wrap_GuiSizeConstraintCallbackData_UserData_get_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_GuiSizeConstraintCallbackData_Pos_set_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiSizeConstraintCallbackData_Pos_set_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -15771,7 +15771,7 @@ void _wrap_GuiSizeConstraintCallbackData_Pos_set_imgui_792f906bddfc881e(ImGuiSiz
 }
 
 
-ImVec2 *_wrap_GuiSizeConstraintCallbackData_Pos_get_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0) {
+ImVec2 *_wrap_GuiSizeConstraintCallbackData_Pos_get_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -15784,7 +15784,7 @@ ImVec2 *_wrap_GuiSizeConstraintCallbackData_Pos_get_imgui_792f906bddfc881e(ImGui
 }
 
 
-void _wrap_GuiSizeConstraintCallbackData_CurrentSize_set_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiSizeConstraintCallbackData_CurrentSize_set_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -15796,7 +15796,7 @@ void _wrap_GuiSizeConstraintCallbackData_CurrentSize_set_imgui_792f906bddfc881e(
 }
 
 
-ImVec2 *_wrap_GuiSizeConstraintCallbackData_CurrentSize_get_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0) {
+ImVec2 *_wrap_GuiSizeConstraintCallbackData_CurrentSize_get_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -15809,7 +15809,7 @@ ImVec2 *_wrap_GuiSizeConstraintCallbackData_CurrentSize_get_imgui_792f906bddfc88
 }
 
 
-void _wrap_GuiSizeConstraintCallbackData_DesiredSize_set_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_GuiSizeConstraintCallbackData_DesiredSize_set_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0, ImVec2 *_swig_go_1) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -15821,7 +15821,7 @@ void _wrap_GuiSizeConstraintCallbackData_DesiredSize_set_imgui_792f906bddfc881e(
 }
 
 
-ImVec2 *_wrap_GuiSizeConstraintCallbackData_DesiredSize_get_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0) {
+ImVec2 *_wrap_GuiSizeConstraintCallbackData_DesiredSize_get_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -15834,7 +15834,7 @@ ImVec2 *_wrap_GuiSizeConstraintCallbackData_DesiredSize_get_imgui_792f906bddfc88
 }
 
 
-ImGuiSizeConstraintCallbackData *_wrap_new_GuiSizeConstraintCallbackData_imgui_792f906bddfc881e() {
+ImGuiSizeConstraintCallbackData *_wrap_new_GuiSizeConstraintCallbackData_imgui_09d88551d48dba44() {
   ImGuiSizeConstraintCallbackData *result = 0 ;
   ImGuiSizeConstraintCallbackData *_swig_go_result;
   
@@ -15845,7 +15845,7 @@ ImGuiSizeConstraintCallbackData *_wrap_new_GuiSizeConstraintCallbackData_imgui_7
 }
 
 
-void _wrap_delete_GuiSizeConstraintCallbackData_imgui_792f906bddfc881e(ImGuiSizeConstraintCallbackData *_swig_go_0) {
+void _wrap_delete_GuiSizeConstraintCallbackData_imgui_09d88551d48dba44(ImGuiSizeConstraintCallbackData *_swig_go_0) {
   ImGuiSizeConstraintCallbackData *arg1 = (ImGuiSizeConstraintCallbackData *) 0 ;
   
   arg1 = *(ImGuiSizeConstraintCallbackData **)&_swig_go_0; 
@@ -15855,7 +15855,7 @@ void _wrap_delete_GuiSizeConstraintCallbackData_imgui_792f906bddfc881e(ImGuiSize
 }
 
 
-void _wrap_Color_Value_set_imgui_792f906bddfc881e(ImColor *_swig_go_0, ImVec4 *_swig_go_1) {
+void _wrap_Color_Value_set_imgui_09d88551d48dba44(ImColor *_swig_go_0, ImVec4 *_swig_go_1) {
   ImColor *arg1 = (ImColor *) 0 ;
   ImVec4 *arg2 = (ImVec4 *) 0 ;
   
@@ -15867,7 +15867,7 @@ void _wrap_Color_Value_set_imgui_792f906bddfc881e(ImColor *_swig_go_0, ImVec4 *_
 }
 
 
-ImVec4 *_wrap_Color_Value_get_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
+ImVec4 *_wrap_Color_Value_get_imgui_09d88551d48dba44(ImColor *_swig_go_0) {
   ImColor *arg1 = (ImColor *) 0 ;
   ImVec4 *result = 0 ;
   ImVec4 *_swig_go_result;
@@ -15880,7 +15880,7 @@ ImVec4 *_wrap_Color_Value_get_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
 }
 
 
-ImColor *_wrap_new_Color__SWIG_0_imgui_792f906bddfc881e() {
+ImColor *_wrap_new_Color__SWIG_0_imgui_09d88551d48dba44() {
   ImColor *result = 0 ;
   ImColor *_swig_go_result;
   
@@ -15891,7 +15891,7 @@ ImColor *_wrap_new_Color__SWIG_0_imgui_792f906bddfc881e() {
 }
 
 
-ImColor *_wrap_new_Color__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+ImColor *_wrap_new_Color__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   int arg1 ;
   int arg2 ;
   int arg3 ;
@@ -15910,7 +15910,7 @@ ImColor *_wrap_new_Color__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0, intgo 
 }
 
 
-ImColor *_wrap_new_Color__SWIG_2_imgui_792f906bddfc881e(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+ImColor *_wrap_new_Color__SWIG_2_imgui_09d88551d48dba44(intgo _swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   int arg1 ;
   int arg2 ;
   int arg3 ;
@@ -15927,7 +15927,7 @@ ImColor *_wrap_new_Color__SWIG_2_imgui_792f906bddfc881e(intgo _swig_go_0, intgo 
 }
 
 
-ImColor *_wrap_new_Color__SWIG_3_imgui_792f906bddfc881e(intgo _swig_go_0) {
+ImColor *_wrap_new_Color__SWIG_3_imgui_09d88551d48dba44(intgo _swig_go_0) {
   ImU32 arg1 ;
   ImColor *result = 0 ;
   ImColor *_swig_go_result;
@@ -15940,7 +15940,7 @@ ImColor *_wrap_new_Color__SWIG_3_imgui_792f906bddfc881e(intgo _swig_go_0) {
 }
 
 
-ImColor *_wrap_new_Color__SWIG_4_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+ImColor *_wrap_new_Color__SWIG_4_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -15959,7 +15959,7 @@ ImColor *_wrap_new_Color__SWIG_4_imgui_792f906bddfc881e(float _swig_go_0, float 
 }
 
 
-ImColor *_wrap_new_Color__SWIG_5_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+ImColor *_wrap_new_Color__SWIG_5_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -15976,7 +15976,7 @@ ImColor *_wrap_new_Color__SWIG_5_imgui_792f906bddfc881e(float _swig_go_0, float 
 }
 
 
-ImColor *_wrap_new_Color__SWIG_6_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
+ImColor *_wrap_new_Color__SWIG_6_imgui_09d88551d48dba44(ImVec4 *_swig_go_0) {
   ImVec4 *arg1 = 0 ;
   ImColor *result = 0 ;
   ImColor *_swig_go_result;
@@ -15989,7 +15989,7 @@ ImColor *_wrap_new_Color__SWIG_6_imgui_792f906bddfc881e(ImVec4 *_swig_go_0) {
 }
 
 
-intgo _wrap_Color_U32_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
+intgo _wrap_Color_U32_imgui_09d88551d48dba44(ImColor *_swig_go_0) {
   ImColor *arg1 = (ImColor *) 0 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -16002,7 +16002,7 @@ intgo _wrap_Color_U32_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
 }
 
 
-ImVec4 *_wrap_Color_Vec4_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
+ImVec4 *_wrap_Color_Vec4_imgui_09d88551d48dba44(ImColor *_swig_go_0) {
   ImColor *arg1 = (ImColor *) 0 ;
   ImVec4 result;
   ImVec4 *_swig_go_result;
@@ -16015,7 +16015,7 @@ ImVec4 *_wrap_Color_Vec4_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
 }
 
 
-void _wrap_Color_SetHSV__SWIG_0_imgui_792f906bddfc881e(ImColor *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+void _wrap_Color_SetHSV__SWIG_0_imgui_09d88551d48dba44(ImColor *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   ImColor *arg1 = (ImColor *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -16033,7 +16033,7 @@ void _wrap_Color_SetHSV__SWIG_0_imgui_792f906bddfc881e(ImColor *_swig_go_0, floa
 }
 
 
-void _wrap_Color_SetHSV__SWIG_1_imgui_792f906bddfc881e(ImColor *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+void _wrap_Color_SetHSV__SWIG_1_imgui_09d88551d48dba44(ImColor *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   ImColor *arg1 = (ImColor *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -16049,7 +16049,7 @@ void _wrap_Color_SetHSV__SWIG_1_imgui_792f906bddfc881e(ImColor *_swig_go_0, floa
 }
 
 
-ImColor *_wrap_Color_HSV__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
+ImColor *_wrap_Color_HSV__SWIG_0_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -16068,7 +16068,7 @@ ImColor *_wrap_Color_HSV__SWIG_0_imgui_792f906bddfc881e(float _swig_go_0, float 
 }
 
 
-ImColor *_wrap_Color_HSV__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
+ImColor *_wrap_Color_HSV__SWIG_1_imgui_09d88551d48dba44(float _swig_go_0, float _swig_go_1, float _swig_go_2) {
   float arg1 ;
   float arg2 ;
   float arg3 ;
@@ -16085,7 +16085,7 @@ ImColor *_wrap_Color_HSV__SWIG_1_imgui_792f906bddfc881e(float _swig_go_0, float 
 }
 
 
-void _wrap_delete_Color_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
+void _wrap_delete_Color_imgui_09d88551d48dba44(ImColor *_swig_go_0) {
   ImColor *arg1 = (ImColor *) 0 ;
   
   arg1 = *(ImColor **)&_swig_go_0; 
@@ -16095,7 +16095,7 @@ void _wrap_delete_Color_imgui_792f906bddfc881e(ImColor *_swig_go_0) {
 }
 
 
-void _wrap_GuiListClipper_StartPosY_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiListClipper_StartPosY_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, float _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   float arg2 ;
   
@@ -16107,7 +16107,7 @@ void _wrap_GuiListClipper_StartPosY_set_imgui_792f906bddfc881e(ImGuiListClipper 
 }
 
 
-float _wrap_GuiListClipper_StartPosY_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+float _wrap_GuiListClipper_StartPosY_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   float result;
   float _swig_go_result;
@@ -16120,7 +16120,7 @@ float _wrap_GuiListClipper_StartPosY_get_imgui_792f906bddfc881e(ImGuiListClipper
 }
 
 
-void _wrap_GuiListClipper_ItemsHeight_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, float _swig_go_1) {
+void _wrap_GuiListClipper_ItemsHeight_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, float _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   float arg2 ;
   
@@ -16132,7 +16132,7 @@ void _wrap_GuiListClipper_ItemsHeight_set_imgui_792f906bddfc881e(ImGuiListClippe
 }
 
 
-float _wrap_GuiListClipper_ItemsHeight_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+float _wrap_GuiListClipper_ItemsHeight_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   float result;
   float _swig_go_result;
@@ -16145,7 +16145,7 @@ float _wrap_GuiListClipper_ItemsHeight_get_imgui_792f906bddfc881e(ImGuiListClipp
 }
 
 
-void _wrap_GuiListClipper_ItemsCount_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiListClipper_ItemsCount_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   
@@ -16157,7 +16157,7 @@ void _wrap_GuiListClipper_ItemsCount_set_imgui_792f906bddfc881e(ImGuiListClipper
 }
 
 
-intgo _wrap_GuiListClipper_ItemsCount_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+intgo _wrap_GuiListClipper_ItemsCount_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16170,7 +16170,7 @@ intgo _wrap_GuiListClipper_ItemsCount_get_imgui_792f906bddfc881e(ImGuiListClippe
 }
 
 
-void _wrap_GuiListClipper_StepNo_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiListClipper_StepNo_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   
@@ -16182,7 +16182,7 @@ void _wrap_GuiListClipper_StepNo_set_imgui_792f906bddfc881e(ImGuiListClipper *_s
 }
 
 
-intgo _wrap_GuiListClipper_StepNo_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+intgo _wrap_GuiListClipper_StepNo_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16195,7 +16195,7 @@ intgo _wrap_GuiListClipper_StepNo_get_imgui_792f906bddfc881e(ImGuiListClipper *_
 }
 
 
-void _wrap_GuiListClipper_DisplayStart_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiListClipper_DisplayStart_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   
@@ -16207,7 +16207,7 @@ void _wrap_GuiListClipper_DisplayStart_set_imgui_792f906bddfc881e(ImGuiListClipp
 }
 
 
-intgo _wrap_GuiListClipper_DisplayStart_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+intgo _wrap_GuiListClipper_DisplayStart_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16220,7 +16220,7 @@ intgo _wrap_GuiListClipper_DisplayStart_get_imgui_792f906bddfc881e(ImGuiListClip
 }
 
 
-void _wrap_GuiListClipper_DisplayEnd_set_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiListClipper_DisplayEnd_set_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   
@@ -16232,7 +16232,7 @@ void _wrap_GuiListClipper_DisplayEnd_set_imgui_792f906bddfc881e(ImGuiListClipper
 }
 
 
-intgo _wrap_GuiListClipper_DisplayEnd_get_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+intgo _wrap_GuiListClipper_DisplayEnd_get_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16245,7 +16245,7 @@ intgo _wrap_GuiListClipper_DisplayEnd_get_imgui_792f906bddfc881e(ImGuiListClippe
 }
 
 
-ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_0_imgui_792f906bddfc881e(intgo _swig_go_0, float _swig_go_1) {
+ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_0_imgui_09d88551d48dba44(intgo _swig_go_0, float _swig_go_1) {
   int arg1 ;
   float arg2 ;
   ImGuiListClipper *result = 0 ;
@@ -16260,7 +16260,7 @@ ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_0_imgui_792f906bddfc881e(intgo 
 }
 
 
-ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_1_imgui_792f906bddfc881e(intgo _swig_go_0) {
+ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_1_imgui_09d88551d48dba44(intgo _swig_go_0) {
   int arg1 ;
   ImGuiListClipper *result = 0 ;
   ImGuiListClipper *_swig_go_result;
@@ -16273,7 +16273,7 @@ ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_1_imgui_792f906bddfc881e(intgo 
 }
 
 
-ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_2_imgui_792f906bddfc881e() {
+ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_2_imgui_09d88551d48dba44() {
   ImGuiListClipper *result = 0 ;
   ImGuiListClipper *_swig_go_result;
   
@@ -16284,7 +16284,7 @@ ImGuiListClipper *_wrap_new_GuiListClipper__SWIG_2_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_GuiListClipper_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+void _wrap_delete_GuiListClipper_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   
   arg1 = *(ImGuiListClipper **)&_swig_go_0; 
@@ -16294,7 +16294,7 @@ void _wrap_delete_GuiListClipper_imgui_792f906bddfc881e(ImGuiListClipper *_swig_
 }
 
 
-bool _wrap_GuiListClipper_Step_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+bool _wrap_GuiListClipper_Step_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -16307,7 +16307,7 @@ bool _wrap_GuiListClipper_Step_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go
 }
 
 
-void _wrap_GuiListClipper_Begin__SWIG_0_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
+void _wrap_GuiListClipper_Begin__SWIG_0_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1, float _swig_go_2) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   float arg3 ;
@@ -16321,7 +16321,7 @@ void _wrap_GuiListClipper_Begin__SWIG_0_imgui_792f906bddfc881e(ImGuiListClipper 
 }
 
 
-void _wrap_GuiListClipper_Begin__SWIG_1_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
+void _wrap_GuiListClipper_Begin__SWIG_1_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0, intgo _swig_go_1) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   int arg2 ;
   
@@ -16333,7 +16333,7 @@ void _wrap_GuiListClipper_Begin__SWIG_1_imgui_792f906bddfc881e(ImGuiListClipper 
 }
 
 
-void _wrap_GuiListClipper_End_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_0) {
+void _wrap_GuiListClipper_End_imgui_09d88551d48dba44(ImGuiListClipper *_swig_go_0) {
   ImGuiListClipper *arg1 = (ImGuiListClipper *) 0 ;
   
   arg1 = *(ImGuiListClipper **)&_swig_go_0; 
@@ -16343,7 +16343,7 @@ void _wrap_GuiListClipper_End_imgui_792f906bddfc881e(ImGuiListClipper *_swig_go_
 }
 
 
-void _wrap_DrawCmd_ElemCount_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawCmd_ElemCount_set_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0, intgo _swig_go_1) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   unsigned int arg2 ;
   
@@ -16355,7 +16355,7 @@ void _wrap_DrawCmd_ElemCount_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, i
 }
 
 
-intgo _wrap_DrawCmd_ElemCount_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+intgo _wrap_DrawCmd_ElemCount_get_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16368,7 +16368,7 @@ intgo _wrap_DrawCmd_ElemCount_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) 
 }
 
 
-void _wrap_DrawCmd_ClipRect_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, ImVec4 *_swig_go_1) {
+void _wrap_DrawCmd_ClipRect_set_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0, ImVec4 *_swig_go_1) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImVec4 *arg2 = (ImVec4 *) 0 ;
   
@@ -16380,7 +16380,7 @@ void _wrap_DrawCmd_ClipRect_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, Im
 }
 
 
-ImVec4 *_wrap_DrawCmd_ClipRect_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+ImVec4 *_wrap_DrawCmd_ClipRect_get_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImVec4 *result = 0 ;
   ImVec4 *_swig_go_result;
@@ -16393,7 +16393,7 @@ ImVec4 *_wrap_DrawCmd_ClipRect_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0)
 }
 
 
-void _wrap_DrawCmd_TextureId_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, ImTextureID _swig_go_1) {
+void _wrap_DrawCmd_TextureId_set_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0, ImTextureID _swig_go_1) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   
@@ -16405,7 +16405,7 @@ void _wrap_DrawCmd_TextureId_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, I
 }
 
 
-ImTextureID _wrap_DrawCmd_TextureId_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+ImTextureID _wrap_DrawCmd_TextureId_get_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImTextureID result;
   ImTextureID _swig_go_result;
@@ -16418,7 +16418,7 @@ ImTextureID _wrap_DrawCmd_TextureId_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_
 }
 
 
-void _wrap_DrawCmd_UserCallback_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, void** _swig_go_1) {
+void _wrap_DrawCmd_UserCallback_set_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0, void** _swig_go_1) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImDrawCallback arg2 = (ImDrawCallback) 0 ;
   
@@ -16430,7 +16430,7 @@ void _wrap_DrawCmd_UserCallback_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0
 }
 
 
-void** _wrap_DrawCmd_UserCallback_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+void** _wrap_DrawCmd_UserCallback_get_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   ImDrawCallback result;
   void** _swig_go_result;
@@ -16443,7 +16443,7 @@ void** _wrap_DrawCmd_UserCallback_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go
 }
 
 
-void _wrap_DrawCmd_UserCallbackData_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0, void *_swig_go_1) {
+void _wrap_DrawCmd_UserCallbackData_set_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0, void *_swig_go_1) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -16455,7 +16455,7 @@ void _wrap_DrawCmd_UserCallbackData_set_imgui_792f906bddfc881e(ImDrawCmd *_swig_
 }
 
 
-void *_wrap_DrawCmd_UserCallbackData_get_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+void *_wrap_DrawCmd_UserCallbackData_get_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -16468,7 +16468,7 @@ void *_wrap_DrawCmd_UserCallbackData_get_imgui_792f906bddfc881e(ImDrawCmd *_swig
 }
 
 
-ImDrawCmd *_wrap_new_DrawCmd_imgui_792f906bddfc881e() {
+ImDrawCmd *_wrap_new_DrawCmd_imgui_09d88551d48dba44() {
   ImDrawCmd *result = 0 ;
   ImDrawCmd *_swig_go_result;
   
@@ -16479,7 +16479,7 @@ ImDrawCmd *_wrap_new_DrawCmd_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_DrawCmd_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
+void _wrap_delete_DrawCmd_imgui_09d88551d48dba44(ImDrawCmd *_swig_go_0) {
   ImDrawCmd *arg1 = (ImDrawCmd *) 0 ;
   
   arg1 = *(ImDrawCmd **)&_swig_go_0; 
@@ -16489,7 +16489,7 @@ void _wrap_delete_DrawCmd_imgui_792f906bddfc881e(ImDrawCmd *_swig_go_0) {
 }
 
 
-void _wrap_DrawVert_pos_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_DrawVert_pos_set_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0, ImVec2 *_swig_go_1) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -16501,7 +16501,7 @@ void _wrap_DrawVert_pos_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, ImVec
 }
 
 
-ImVec2 *_wrap_DrawVert_pos_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
+ImVec2 *_wrap_DrawVert_pos_get_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -16514,7 +16514,7 @@ ImVec2 *_wrap_DrawVert_pos_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
 }
 
 
-void _wrap_DrawVert_uv_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_DrawVert_uv_set_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0, ImVec2 *_swig_go_1) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -16526,7 +16526,7 @@ void _wrap_DrawVert_uv_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, ImVec2
 }
 
 
-ImVec2 *_wrap_DrawVert_uv_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
+ImVec2 *_wrap_DrawVert_uv_get_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -16539,7 +16539,7 @@ ImVec2 *_wrap_DrawVert_uv_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
 }
 
 
-void _wrap_DrawVert_col_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawVert_col_set_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0, intgo _swig_go_1) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImU32 arg2 ;
   
@@ -16551,7 +16551,7 @@ void _wrap_DrawVert_col_set_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0, intgo
 }
 
 
-intgo _wrap_DrawVert_col_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
+intgo _wrap_DrawVert_col_get_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   ImU32 result;
   intgo _swig_go_result;
@@ -16564,7 +16564,7 @@ intgo _wrap_DrawVert_col_get_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
 }
 
 
-ImDrawVert *_wrap_new_DrawVert_imgui_792f906bddfc881e() {
+ImDrawVert *_wrap_new_DrawVert_imgui_09d88551d48dba44() {
   ImDrawVert *result = 0 ;
   ImDrawVert *_swig_go_result;
   
@@ -16575,7 +16575,7 @@ ImDrawVert *_wrap_new_DrawVert_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_DrawVert_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
+void _wrap_delete_DrawVert_imgui_09d88551d48dba44(ImDrawVert *_swig_go_0) {
   ImDrawVert *arg1 = (ImDrawVert *) 0 ;
   
   arg1 = *(ImDrawVert **)&_swig_go_0; 
@@ -16585,7 +16585,7 @@ void _wrap_delete_DrawVert_imgui_792f906bddfc881e(ImDrawVert *_swig_go_0) {
 }
 
 
-void _wrap_DrawChannel_CmdBuffer_set_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0, ImVector< ImDrawCmd > *_swig_go_1) {
+void _wrap_DrawChannel_CmdBuffer_set_imgui_09d88551d48dba44(ImDrawChannel *_swig_go_0, ImVector< ImDrawCmd > *_swig_go_1) {
   ImDrawChannel *arg1 = (ImDrawChannel *) 0 ;
   ImVector< ImDrawCmd > *arg2 = (ImVector< ImDrawCmd > *) 0 ;
   
@@ -16597,7 +16597,7 @@ void _wrap_DrawChannel_CmdBuffer_set_imgui_792f906bddfc881e(ImDrawChannel *_swig
 }
 
 
-ImVector< ImDrawCmd > *_wrap_DrawChannel_CmdBuffer_get_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0) {
+ImVector< ImDrawCmd > *_wrap_DrawChannel_CmdBuffer_get_imgui_09d88551d48dba44(ImDrawChannel *_swig_go_0) {
   ImDrawChannel *arg1 = (ImDrawChannel *) 0 ;
   ImVector< ImDrawCmd > *result = 0 ;
   ImVector< ImDrawCmd > *_swig_go_result;
@@ -16610,7 +16610,7 @@ ImVector< ImDrawCmd > *_wrap_DrawChannel_CmdBuffer_get_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_DrawChannel_IdxBuffer_set_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
+void _wrap_DrawChannel_IdxBuffer_set_imgui_09d88551d48dba44(ImDrawChannel *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
   ImDrawChannel *arg1 = (ImDrawChannel *) 0 ;
   ImVector< ImDrawIdx > *arg2 = (ImVector< ImDrawIdx > *) 0 ;
   
@@ -16622,7 +16622,7 @@ void _wrap_DrawChannel_IdxBuffer_set_imgui_792f906bddfc881e(ImDrawChannel *_swig
 }
 
 
-ImVector< unsigned short > *_wrap_DrawChannel_IdxBuffer_get_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0) {
+ImVector< unsigned short > *_wrap_DrawChannel_IdxBuffer_get_imgui_09d88551d48dba44(ImDrawChannel *_swig_go_0) {
   ImDrawChannel *arg1 = (ImDrawChannel *) 0 ;
   ImVector< ImDrawIdx > *result = 0 ;
   ImVector< unsigned short > *_swig_go_result;
@@ -16635,7 +16635,7 @@ ImVector< unsigned short > *_wrap_DrawChannel_IdxBuffer_get_imgui_792f906bddfc88
 }
 
 
-ImDrawChannel *_wrap_new_DrawChannel_imgui_792f906bddfc881e() {
+ImDrawChannel *_wrap_new_DrawChannel_imgui_09d88551d48dba44() {
   ImDrawChannel *result = 0 ;
   ImDrawChannel *_swig_go_result;
   
@@ -16646,7 +16646,7 @@ ImDrawChannel *_wrap_new_DrawChannel_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_DrawChannel_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0) {
+void _wrap_delete_DrawChannel_imgui_09d88551d48dba44(ImDrawChannel *_swig_go_0) {
   ImDrawChannel *arg1 = (ImDrawChannel *) 0 ;
   
   arg1 = *(ImDrawChannel **)&_swig_go_0; 
@@ -16656,7 +16656,7 @@ void _wrap_delete_DrawChannel_imgui_792f906bddfc881e(ImDrawChannel *_swig_go_0) 
 }
 
 
-void _wrap_DrawList_CmdBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< ImDrawCmd > *_swig_go_1) {
+void _wrap_DrawList_CmdBuffer_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< ImDrawCmd > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawCmd > *arg2 = (ImVector< ImDrawCmd > *) 0 ;
   
@@ -16668,7 +16668,7 @@ void _wrap_DrawList_CmdBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-ImVector< ImDrawCmd > *_wrap_DrawList_CmdBuffer_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< ImDrawCmd > *_wrap_DrawList_CmdBuffer_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawCmd > *result = 0 ;
   ImVector< ImDrawCmd > *_swig_go_result;
@@ -16681,7 +16681,7 @@ ImVector< ImDrawCmd > *_wrap_DrawList_CmdBuffer_get_imgui_792f906bddfc881e(ImDra
 }
 
 
-void _wrap_DrawList_IdxBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
+void _wrap_DrawList_IdxBuffer_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawIdx > *arg2 = (ImVector< ImDrawIdx > *) 0 ;
   
@@ -16693,7 +16693,7 @@ void _wrap_DrawList_IdxBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-ImVector< unsigned short > *_wrap_DrawList_IdxBuffer_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< unsigned short > *_wrap_DrawList_IdxBuffer_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawIdx > *result = 0 ;
   ImVector< unsigned short > *_swig_go_result;
@@ -16706,7 +16706,7 @@ ImVector< unsigned short > *_wrap_DrawList_IdxBuffer_get_imgui_792f906bddfc881e(
 }
 
 
-void _wrap_DrawList_VtxBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< ImDrawVert > *_swig_go_1) {
+void _wrap_DrawList_VtxBuffer_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< ImDrawVert > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawVert > *arg2 = (ImVector< ImDrawVert > *) 0 ;
   
@@ -16718,7 +16718,7 @@ void _wrap_DrawList_VtxBuffer_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-ImVector< ImDrawVert > *_wrap_DrawList_VtxBuffer_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< ImDrawVert > *_wrap_DrawList_VtxBuffer_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawVert > *result = 0 ;
   ImVector< ImDrawVert > *_swig_go_result;
@@ -16731,7 +16731,7 @@ ImVector< ImDrawVert > *_wrap_DrawList_VtxBuffer_get_imgui_792f906bddfc881e(ImDr
 }
 
 
-void _wrap_DrawList__OwnerName_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_DrawList__OwnerName_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, _gostring_ _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   char *arg2 = (char *) 0 ;
   
@@ -16755,7 +16755,7 @@ void _wrap_DrawList__OwnerName_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0
 }
 
 
-_gostring_ _wrap_DrawList__OwnerName_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+_gostring_ _wrap_DrawList__OwnerName_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -16768,7 +16768,7 @@ _gostring_ _wrap_DrawList__OwnerName_get_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList__VtxCurrentIdx_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList__VtxCurrentIdx_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   unsigned int arg2 ;
   
@@ -16780,7 +16780,7 @@ void _wrap_DrawList__VtxCurrentIdx_set_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-intgo _wrap_DrawList__VtxCurrentIdx_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+intgo _wrap_DrawList__VtxCurrentIdx_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   unsigned int result;
   intgo _swig_go_result;
@@ -16793,7 +16793,7 @@ intgo _wrap_DrawList__VtxCurrentIdx_get_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-void _wrap_DrawList__VtxWritePtr_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImDrawVert *_swig_go_1) {
+void _wrap_DrawList__VtxWritePtr_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImDrawVert *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawVert *arg2 = (ImDrawVert *) 0 ;
   
@@ -16805,7 +16805,7 @@ void _wrap_DrawList__VtxWritePtr_set_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-ImDrawVert *_wrap_DrawList__VtxWritePtr_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImDrawVert *_wrap_DrawList__VtxWritePtr_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawVert *result = 0 ;
   ImDrawVert *_swig_go_result;
@@ -16818,7 +16818,7 @@ ImDrawVert *_wrap_DrawList__VtxWritePtr_get_imgui_792f906bddfc881e(ImDrawList *_
 }
 
 
-void _wrap_DrawList__IdxWritePtr_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, short *_swig_go_1) {
+void _wrap_DrawList__IdxWritePtr_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, short *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawIdx *arg2 = (ImDrawIdx *) 0 ;
   
@@ -16830,7 +16830,7 @@ void _wrap_DrawList__IdxWritePtr_set_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-short *_wrap_DrawList__IdxWritePtr_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+short *_wrap_DrawList__IdxWritePtr_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawIdx *result = 0 ;
   short *_swig_go_result;
@@ -16843,7 +16843,7 @@ short *_wrap_DrawList__IdxWritePtr_get_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-void _wrap_DrawList__ClipRectStack_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< ImVec4 > *_swig_go_1) {
+void _wrap_DrawList__ClipRectStack_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< ImVec4 > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImVec4 > *arg2 = (ImVector< ImVec4 > *) 0 ;
   
@@ -16855,7 +16855,7 @@ void _wrap_DrawList__ClipRectStack_set_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-ImVector< ImVec4 > *_wrap_DrawList__ClipRectStack_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< ImVec4 > *_wrap_DrawList__ClipRectStack_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImVec4 > *result = 0 ;
   ImVector< ImVec4 > *_swig_go_result;
@@ -16868,7 +16868,7 @@ ImVector< ImVec4 > *_wrap_DrawList__ClipRectStack_get_imgui_792f906bddfc881e(ImD
 }
 
 
-void _wrap_DrawList__TextureIdStack_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< void * > *_swig_go_1) {
+void _wrap_DrawList__TextureIdStack_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< void * > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImTextureID > *arg2 = (ImVector< ImTextureID > *) 0 ;
   
@@ -16880,7 +16880,7 @@ void _wrap_DrawList__TextureIdStack_set_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-ImVector< void * > *_wrap_DrawList__TextureIdStack_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< void * > *_wrap_DrawList__TextureIdStack_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImTextureID > *result = 0 ;
   ImVector< void * > *_swig_go_result;
@@ -16893,7 +16893,7 @@ ImVector< void * > *_wrap_DrawList__TextureIdStack_get_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_DrawList__Path_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< ImVec2 > *_swig_go_1) {
+void _wrap_DrawList__Path_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< ImVec2 > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImVec2 > *arg2 = (ImVector< ImVec2 > *) 0 ;
   
@@ -16905,7 +16905,7 @@ void _wrap_DrawList__Path_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImV
 }
 
 
-ImVector< ImVec2 > *_wrap_DrawList__Path_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< ImVec2 > *_wrap_DrawList__Path_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImVec2 > *result = 0 ;
   ImVector< ImVec2 > *_swig_go_result;
@@ -16918,7 +16918,7 @@ ImVector< ImVec2 > *_wrap_DrawList__Path_get_imgui_792f906bddfc881e(ImDrawList *
 }
 
 
-void _wrap_DrawList__ChannelsCurrent_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList__ChannelsCurrent_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int arg2 ;
   
@@ -16930,7 +16930,7 @@ void _wrap_DrawList__ChannelsCurrent_set_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-intgo _wrap_DrawList__ChannelsCurrent_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+intgo _wrap_DrawList__ChannelsCurrent_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16943,7 +16943,7 @@ intgo _wrap_DrawList__ChannelsCurrent_get_imgui_792f906bddfc881e(ImDrawList *_sw
 }
 
 
-void _wrap_DrawList__ChannelsCount_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList__ChannelsCount_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int arg2 ;
   
@@ -16955,7 +16955,7 @@ void _wrap_DrawList__ChannelsCount_set_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-intgo _wrap_DrawList__ChannelsCount_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+intgo _wrap_DrawList__ChannelsCount_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -16968,7 +16968,7 @@ intgo _wrap_DrawList__ChannelsCount_get_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-void _wrap_DrawList__Channels_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVector< ImDrawChannel > *_swig_go_1) {
+void _wrap_DrawList__Channels_set_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVector< ImDrawChannel > *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawChannel > *arg2 = (ImVector< ImDrawChannel > *) 0 ;
   
@@ -16980,7 +16980,7 @@ void _wrap_DrawList__Channels_set_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-ImVector< ImDrawChannel > *_wrap_DrawList__Channels_get_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVector< ImDrawChannel > *_wrap_DrawList__Channels_get_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVector< ImDrawChannel > *result = 0 ;
   ImVector< ImDrawChannel > *_swig_go_result;
@@ -16993,7 +16993,7 @@ ImVector< ImDrawChannel > *_wrap_DrawList__Channels_get_imgui_792f906bddfc881e(I
 }
 
 
-ImDrawList *_wrap_new_DrawList_imgui_792f906bddfc881e() {
+ImDrawList *_wrap_new_DrawList_imgui_09d88551d48dba44() {
   ImDrawList *result = 0 ;
   ImDrawList *_swig_go_result;
   
@@ -17004,7 +17004,7 @@ ImDrawList *_wrap_new_DrawList_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_DrawList_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_delete_DrawList_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -17014,7 +17014,7 @@ void _wrap_delete_DrawList_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
 }
 
 
-void _wrap_DrawList_PushClipRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, bool _swig_go_3) {
+void _wrap_DrawList_PushClipRect__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, bool _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 arg2 ;
   ImVec2 arg3 ;
@@ -17044,7 +17044,7 @@ void _wrap_DrawList_PushClipRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_PushClipRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
+void _wrap_DrawList_PushClipRect__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 arg2 ;
   ImVec2 arg3 ;
@@ -17072,7 +17072,7 @@ void _wrap_DrawList_PushClipRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_PushClipRectFullScreen_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_PushClipRectFullScreen_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -17082,7 +17082,7 @@ void _wrap_DrawList_PushClipRectFullScreen_imgui_792f906bddfc881e(ImDrawList *_s
 }
 
 
-void _wrap_DrawList_PopClipRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_PopClipRect_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -17092,7 +17092,7 @@ void _wrap_DrawList_PopClipRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
 }
 
 
-void _wrap_DrawList_PushTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID *_swig_go_1) {
+void _wrap_DrawList_PushTextureID_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID *arg2 = 0 ;
   ImTextureID temp2 = 0 ;
@@ -17108,7 +17108,7 @@ void _wrap_DrawList_PushTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-void _wrap_DrawList_PopTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_PopTextureID_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -17118,7 +17118,7 @@ void _wrap_DrawList_PopTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) 
 }
 
 
-ImVec2 *_wrap_DrawList_GetClipRectMin_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVec2 *_wrap_DrawList_GetClipRectMin_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 result;
   ImVec2 *_swig_go_result;
@@ -17131,7 +17131,7 @@ ImVec2 *_wrap_DrawList_GetClipRectMin_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-ImVec2 *_wrap_DrawList_GetClipRectMax_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+ImVec2 *_wrap_DrawList_GetClipRectMax_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 result;
   ImVec2 *_swig_go_result;
@@ -17144,7 +17144,7 @@ ImVec2 *_wrap_DrawList_GetClipRectMax_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_AddLine__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+void _wrap_DrawList_AddLine__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17162,7 +17162,7 @@ void _wrap_DrawList_AddLine__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddLine__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_AddLine__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17178,7 +17178,7 @@ void _wrap_DrawList_AddLine__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5, float _swig_go_6) {
+void _wrap_DrawList_AddRect__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5, float _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17200,7 +17200,7 @@ void _wrap_DrawList_AddRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_AddRect__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17220,7 +17220,7 @@ void _wrap_DrawList_AddRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddRect__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+void _wrap_DrawList_AddRect__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17238,7 +17238,7 @@ void _wrap_DrawList_AddRect__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddRect__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_AddRect__SWIG_3_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17254,7 +17254,7 @@ void _wrap_DrawList_AddRect__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddRectFilled__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_AddRectFilled__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17274,7 +17274,7 @@ void _wrap_DrawList_AddRectFilled__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_sw
 }
 
 
-void _wrap_DrawList_AddRectFilled__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
+void _wrap_DrawList_AddRectFilled__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, float _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17292,7 +17292,7 @@ void _wrap_DrawList_AddRectFilled__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_sw
 }
 
 
-void _wrap_DrawList_AddRectFilled__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_AddRectFilled__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17308,7 +17308,7 @@ void _wrap_DrawList_AddRectFilled__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_sw
 }
 
 
-void _wrap_DrawList_AddRectFilledMultiColor_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
+void _wrap_DrawList_AddRectFilledMultiColor_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3, intgo _swig_go_4, intgo _swig_go_5, intgo _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17330,7 +17330,7 @@ void _wrap_DrawList_AddRectFilledMultiColor_imgui_792f906bddfc881e(ImDrawList *_
 }
 
 
-void _wrap_DrawList_AddQuad__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6) {
+void _wrap_DrawList_AddQuad__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17352,7 +17352,7 @@ void _wrap_DrawList_AddQuad__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddQuad__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_AddQuad__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17372,7 +17372,7 @@ void _wrap_DrawList_AddQuad__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddQuadFilled_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_AddQuadFilled_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17392,7 +17392,7 @@ void _wrap_DrawList_AddQuadFilled_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-void _wrap_DrawList_AddTriangle__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, float _swig_go_5) {
+void _wrap_DrawList_AddTriangle__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, float _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17412,7 +17412,7 @@ void _wrap_DrawList_AddTriangle__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-void _wrap_DrawList_AddTriangle__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_AddTriangle__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17430,7 +17430,7 @@ void _wrap_DrawList_AddTriangle__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-void _wrap_DrawList_AddTriangleFilled_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_AddTriangleFilled_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17448,7 +17448,7 @@ void _wrap_DrawList_AddTriangleFilled_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_AddCircle__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
+void _wrap_DrawList_AddCircle__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4, float _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -17468,7 +17468,7 @@ void _wrap_DrawList_AddCircle__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_AddCircle__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_AddCircle__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -17486,7 +17486,7 @@ void _wrap_DrawList_AddCircle__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_AddCircle__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_AddCircle__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -17502,7 +17502,7 @@ void _wrap_DrawList_AddCircle__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_AddCircleFilled__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_AddCircleFilled__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -17520,7 +17520,7 @@ void _wrap_DrawList_AddCircleFilled__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_
 }
 
 
-void _wrap_DrawList_AddCircleFilled__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_AddCircleFilled__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -17536,7 +17536,7 @@ void _wrap_DrawList_AddCircleFilled__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, _gostring_ _swig_go_4) {
+void _wrap_DrawList_AddText__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3, _gostring_ _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImU32 arg3 ;
@@ -17564,7 +17564,7 @@ void _wrap_DrawList_AddText__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
+void _wrap_DrawList_AddText__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, _gostring_ _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImU32 arg3 ;
@@ -17585,7 +17585,7 @@ void _wrap_DrawList_AddText__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6, float _swig_go_7, ImVec4 *_swig_go_8) {
+void _wrap_DrawList_AddText__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6, float _swig_go_7, ImVec4 *_swig_go_8) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   float arg3 ;
@@ -17621,7 +17621,7 @@ void _wrap_DrawList_AddText__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6, float _swig_go_7) {
+void _wrap_DrawList_AddText__SWIG_3_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6, float _swig_go_7) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   float arg3 ;
@@ -17655,7 +17655,7 @@ void _wrap_DrawList_AddText__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_4_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6) {
+void _wrap_DrawList_AddText__SWIG_4_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5, _gostring_ _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   float arg3 ;
@@ -17687,7 +17687,7 @@ void _wrap_DrawList_AddText__SWIG_4_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddText__SWIG_5_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
+void _wrap_DrawList_AddText__SWIG_5_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImFont *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, _gostring_ _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   float arg3 ;
@@ -17712,7 +17712,7 @@ void _wrap_DrawList_AddText__SWIG_5_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_AddImage__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, intgo _swig_go_6) {
+void _wrap_DrawList_AddImage__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, intgo _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17734,7 +17734,7 @@ void _wrap_DrawList_AddImage__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_AddImage__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5) {
+void _wrap_DrawList_AddImage__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17754,7 +17754,7 @@ void _wrap_DrawList_AddImage__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_AddImage__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4) {
+void _wrap_DrawList_AddImage__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17772,7 +17772,7 @@ void _wrap_DrawList_AddImage__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_AddImage__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
+void _wrap_DrawList_AddImage__SWIG_3_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17788,7 +17788,7 @@ void _wrap_DrawList_AddImage__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, ImVec2 *_swig_go_9, intgo _swig_go_10) {
+void _wrap_DrawList_AddImageQuad__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, ImVec2 *_swig_go_9, intgo _swig_go_10) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17818,7 +17818,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, ImVec2 *_swig_go_9) {
+void _wrap_DrawList_AddImageQuad__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, ImVec2 *_swig_go_9) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17846,7 +17846,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8) {
+void _wrap_DrawList_AddImageQuad__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17872,7 +17872,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7) {
+void _wrap_DrawList_AddImageQuad__SWIG_3_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17896,7 +17896,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_3_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_4_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6) {
+void _wrap_DrawList_AddImageQuad__SWIG_4_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17918,7 +17918,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_4_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddImageQuad__SWIG_5_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5) {
+void _wrap_DrawList_AddImageQuad__SWIG_5_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImTextureID _swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   ImVec2 *arg3 = 0 ;
@@ -17938,7 +17938,7 @@ void _wrap_DrawList_AddImageQuad__SWIG_5_imgui_792f906bddfc881e(ImDrawList *_swi
 }
 
 
-void _wrap_DrawList_AddPolyline_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, bool _swig_go_4, float _swig_go_5, bool _swig_go_6) {
+void _wrap_DrawList_AddPolyline_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, bool _swig_go_4, float _swig_go_5, bool _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   int arg3 ;
@@ -17960,7 +17960,7 @@ void _wrap_DrawList_AddPolyline_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, I
 }
 
 
-void _wrap_DrawList_AddConvexPolyFilled_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, bool _swig_go_4) {
+void _wrap_DrawList_AddConvexPolyFilled_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, intgo _swig_go_2, intgo _swig_go_3, bool _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   int arg3 ;
@@ -17978,7 +17978,7 @@ void _wrap_DrawList_AddConvexPolyFilled_imgui_792f906bddfc881e(ImDrawList *_swig
 }
 
 
-void _wrap_DrawList_AddBezierCurve__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6, intgo _swig_go_7) {
+void _wrap_DrawList_AddBezierCurve__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6, intgo _swig_go_7) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18002,7 +18002,7 @@ void _wrap_DrawList_AddBezierCurve__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_s
 }
 
 
-void _wrap_DrawList_AddBezierCurve__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6) {
+void _wrap_DrawList_AddBezierCurve__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5, float _swig_go_6) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18024,7 +18024,7 @@ void _wrap_DrawList_AddBezierCurve__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_s
 }
 
 
-void _wrap_DrawList_PathClear_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_PathClear_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18034,7 +18034,7 @@ void _wrap_DrawList_PathClear_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
 }
 
 
-void _wrap_DrawList_PathLineTo_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_DrawList_PathLineTo_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -18046,7 +18046,7 @@ void _wrap_DrawList_PathLineTo_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, Im
 }
 
 
-void _wrap_DrawList_PathLineToMergeDuplicate_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_DrawList_PathLineToMergeDuplicate_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -18058,7 +18058,7 @@ void _wrap_DrawList_PathLineToMergeDuplicate_imgui_792f906bddfc881e(ImDrawList *
 }
 
 
-void _wrap_DrawList_PathFillConvex_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList_PathFillConvex_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImU32 arg2 ;
   
@@ -18070,7 +18070,7 @@ void _wrap_DrawList_PathFillConvex_imgui_792f906bddfc881e(ImDrawList *_swig_go_0
 }
 
 
-void _wrap_DrawList_PathStroke__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1, bool _swig_go_2, float _swig_go_3) {
+void _wrap_DrawList_PathStroke__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1, bool _swig_go_2, float _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImU32 arg2 ;
   bool arg3 ;
@@ -18086,7 +18086,7 @@ void _wrap_DrawList_PathStroke__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-void _wrap_DrawList_PathStroke__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
+void _wrap_DrawList_PathStroke__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1, bool _swig_go_2) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImU32 arg2 ;
   bool arg3 ;
@@ -18100,7 +18100,7 @@ void _wrap_DrawList_PathStroke__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-void _wrap_DrawList_PathArcTo__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_PathArcTo__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -18120,7 +18120,7 @@ void _wrap_DrawList_PathArcTo__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_PathArcTo__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
+void _wrap_DrawList_PathArcTo__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, float _swig_go_3, float _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -18138,7 +18138,7 @@ void _wrap_DrawList_PathArcTo__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_g
 }
 
 
-void _wrap_DrawList_PathArcToFast_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_PathArcToFast_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, float _swig_go_2, intgo _swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   float arg3 ;
@@ -18156,7 +18156,7 @@ void _wrap_DrawList_PathArcToFast_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-void _wrap_DrawList_PathBezierCurveTo__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_PathBezierCurveTo__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18174,7 +18174,7 @@ void _wrap_DrawList_PathBezierCurveTo__SWIG_0_imgui_792f906bddfc881e(ImDrawList 
 }
 
 
-void _wrap_DrawList_PathBezierCurveTo__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
+void _wrap_DrawList_PathBezierCurveTo__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18190,7 +18190,7 @@ void _wrap_DrawList_PathBezierCurveTo__SWIG_1_imgui_792f906bddfc881e(ImDrawList 
 }
 
 
-void _wrap_DrawList_PathRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
+void _wrap_DrawList_PathRect__SWIG_0_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3, intgo _swig_go_4) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18208,7 +18208,7 @@ void _wrap_DrawList_PathRect__SWIG_0_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_PathRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3) {
+void _wrap_DrawList_PathRect__SWIG_1_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, float _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18224,7 +18224,7 @@ void _wrap_DrawList_PathRect__SWIG_1_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_PathRect__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
+void _wrap_DrawList_PathRect__SWIG_2_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18238,7 +18238,7 @@ void _wrap_DrawList_PathRect__SWIG_2_imgui_792f906bddfc881e(ImDrawList *_swig_go
 }
 
 
-void _wrap_DrawList_ChannelsSplit_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList_ChannelsSplit_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int arg2 ;
   
@@ -18250,7 +18250,7 @@ void _wrap_DrawList_ChannelsSplit_imgui_792f906bddfc881e(ImDrawList *_swig_go_0,
 }
 
 
-void _wrap_DrawList_ChannelsMerge_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_ChannelsMerge_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18260,7 +18260,7 @@ void _wrap_DrawList_ChannelsMerge_imgui_792f906bddfc881e(ImDrawList *_swig_go_0)
 }
 
 
-void _wrap_DrawList_ChannelsSetCurrent_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawList_ChannelsSetCurrent_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int arg2 ;
   
@@ -18272,7 +18272,7 @@ void _wrap_DrawList_ChannelsSetCurrent_imgui_792f906bddfc881e(ImDrawList *_swig_
 }
 
 
-void _wrap_DrawList_AddCallback_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, void** _swig_go_1, void *_swig_go_2) {
+void _wrap_DrawList_AddCallback_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, void** _swig_go_1, void *_swig_go_2) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawCallback arg2 = (ImDrawCallback) 0 ;
   void *arg3 = (void *) 0 ;
@@ -18286,7 +18286,7 @@ void _wrap_DrawList_AddCallback_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, v
 }
 
 
-void _wrap_DrawList_AddDrawCmd_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_AddDrawCmd_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18296,7 +18296,7 @@ void _wrap_DrawList_AddDrawCmd_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
 }
 
 
-void _wrap_DrawList_Clear_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_Clear_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18306,7 +18306,7 @@ void _wrap_DrawList_Clear_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
 }
 
 
-void _wrap_DrawList_ClearFreeMemory_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_ClearFreeMemory_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18316,7 +18316,7 @@ void _wrap_DrawList_ClearFreeMemory_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawList_PrimReserve_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
+void _wrap_DrawList_PrimReserve_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   int arg2 ;
   int arg3 ;
@@ -18330,7 +18330,7 @@ void _wrap_DrawList_PrimReserve_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, i
 }
 
 
-void _wrap_DrawList_PrimRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_PrimRect_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18346,7 +18346,7 @@ void _wrap_DrawList_PrimRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVe
 }
 
 
-void _wrap_DrawList_PrimRectUV_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
+void _wrap_DrawList_PrimRectUV_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, intgo _swig_go_5) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18366,7 +18366,7 @@ void _wrap_DrawList_PrimRectUV_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, Im
 }
 
 
-void _wrap_DrawList_PrimQuadUV_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, intgo _swig_go_9) {
+void _wrap_DrawList_PrimQuadUV_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3, ImVec2 *_swig_go_4, ImVec2 *_swig_go_5, ImVec2 *_swig_go_6, ImVec2 *_swig_go_7, ImVec2 *_swig_go_8, intgo _swig_go_9) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18394,7 +18394,7 @@ void _wrap_DrawList_PrimQuadUV_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, Im
 }
 
 
-void _wrap_DrawList_PrimWriteVtx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_PrimWriteVtx_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18410,7 +18410,7 @@ void _wrap_DrawList_PrimWriteVtx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, 
 }
 
 
-void _wrap_DrawList_PrimWriteIdx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, short _swig_go_1) {
+void _wrap_DrawList_PrimWriteIdx_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, short _swig_go_1) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImDrawIdx arg2 ;
   
@@ -18422,7 +18422,7 @@ void _wrap_DrawList_PrimWriteIdx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, 
 }
 
 
-void _wrap_DrawList_PrimVtx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
+void _wrap_DrawList_PrimVtx_imgui_09d88551d48dba44(ImDrawList *_swig_go_0, ImVec2 *_swig_go_1, ImVec2 *_swig_go_2, intgo _swig_go_3) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   ImVec2 *arg2 = 0 ;
   ImVec2 *arg3 = 0 ;
@@ -18438,7 +18438,7 @@ void _wrap_DrawList_PrimVtx_imgui_792f906bddfc881e(ImDrawList *_swig_go_0, ImVec
 }
 
 
-void _wrap_DrawList_UpdateClipRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_UpdateClipRect_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18448,7 +18448,7 @@ void _wrap_DrawList_UpdateClipRect_imgui_792f906bddfc881e(ImDrawList *_swig_go_0
 }
 
 
-void _wrap_DrawList_UpdateTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_0) {
+void _wrap_DrawList_UpdateTextureID_imgui_09d88551d48dba44(ImDrawList *_swig_go_0) {
   ImDrawList *arg1 = (ImDrawList *) 0 ;
   
   arg1 = *(ImDrawList **)&_swig_go_0; 
@@ -18458,7 +18458,7 @@ void _wrap_DrawList_UpdateTextureID_imgui_792f906bddfc881e(ImDrawList *_swig_go_
 }
 
 
-void _wrap_DrawData_Valid_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, bool _swig_go_1) {
+void _wrap_DrawData_Valid_set_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, bool _swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   bool arg2 ;
   
@@ -18470,7 +18470,7 @@ void _wrap_DrawData_Valid_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, boo
 }
 
 
-bool _wrap_DrawData_Valid_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+bool _wrap_DrawData_Valid_get_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -18483,7 +18483,7 @@ bool _wrap_DrawData_Valid_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
 }
 
 
-void _wrap_DrawData_CmdLists_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, ImDrawList **_swig_go_1) {
+void _wrap_DrawData_CmdLists_set_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, _goslice_ _swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   ImDrawList **arg2 = (ImDrawList **) 0 ;
   
@@ -18495,10 +18495,10 @@ void _wrap_DrawData_CmdLists_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, 
 }
 
 
-ImDrawList **_wrap_DrawData_CmdLists_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+_goslice_ _wrap_DrawData_CmdLists_get_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   ImDrawList **result = 0 ;
-  ImDrawList **_swig_go_result;
+  _goslice_ _swig_go_result;
   
   arg1 = *(ImDrawData **)&_swig_go_0; 
   
@@ -18508,7 +18508,7 @@ ImDrawList **_wrap_DrawData_CmdLists_get_imgui_792f906bddfc881e(ImDrawData *_swi
 }
 
 
-void _wrap_DrawData_CmdListsCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawData_CmdListsCount_set_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, intgo _swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int arg2 ;
   
@@ -18520,7 +18520,7 @@ void _wrap_DrawData_CmdListsCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_g
 }
 
 
-intgo _wrap_DrawData_CmdListsCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+intgo _wrap_DrawData_CmdListsCount_get_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18533,7 +18533,7 @@ intgo _wrap_DrawData_CmdListsCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_
 }
 
 
-void _wrap_DrawData_TotalVtxCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawData_TotalVtxCount_set_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, intgo _swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int arg2 ;
   
@@ -18545,7 +18545,7 @@ void _wrap_DrawData_TotalVtxCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_g
 }
 
 
-intgo _wrap_DrawData_TotalVtxCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+intgo _wrap_DrawData_TotalVtxCount_get_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18558,7 +18558,7 @@ intgo _wrap_DrawData_TotalVtxCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_
 }
 
 
-void _wrap_DrawData_TotalIdxCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, intgo _swig_go_1) {
+void _wrap_DrawData_TotalIdxCount_set_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, intgo _swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int arg2 ;
   
@@ -18570,7 +18570,7 @@ void _wrap_DrawData_TotalIdxCount_set_imgui_792f906bddfc881e(ImDrawData *_swig_g
 }
 
 
-intgo _wrap_DrawData_TotalIdxCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+intgo _wrap_DrawData_TotalIdxCount_get_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18583,7 +18583,7 @@ intgo _wrap_DrawData_TotalIdxCount_get_imgui_792f906bddfc881e(ImDrawData *_swig_
 }
 
 
-ImDrawData *_wrap_new_DrawData_imgui_792f906bddfc881e() {
+ImDrawData *_wrap_new_DrawData_imgui_09d88551d48dba44() {
   ImDrawData *result = 0 ;
   ImDrawData *_swig_go_result;
   
@@ -18594,7 +18594,7 @@ ImDrawData *_wrap_new_DrawData_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_DrawData_DeIndexAllBuffers_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+void _wrap_DrawData_DeIndexAllBuffers_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   
   arg1 = *(ImDrawData **)&_swig_go_0; 
@@ -18604,7 +18604,7 @@ void _wrap_DrawData_DeIndexAllBuffers_imgui_792f906bddfc881e(ImDrawData *_swig_g
 }
 
 
-void _wrap_DrawData_ScaleClipRects_imgui_792f906bddfc881e(ImDrawData *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_DrawData_ScaleClipRects_imgui_09d88551d48dba44(ImDrawData *_swig_go_0, ImVec2 *_swig_go_1) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   ImVec2 *arg2 = 0 ;
   
@@ -18616,7 +18616,7 @@ void _wrap_DrawData_ScaleClipRects_imgui_792f906bddfc881e(ImDrawData *_swig_go_0
 }
 
 
-void _wrap_delete_DrawData_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
+void _wrap_delete_DrawData_imgui_09d88551d48dba44(ImDrawData *_swig_go_0) {
   ImDrawData *arg1 = (ImDrawData *) 0 ;
   
   arg1 = *(ImDrawData **)&_swig_go_0; 
@@ -18626,7 +18626,7 @@ void _wrap_delete_DrawData_imgui_792f906bddfc881e(ImDrawData *_swig_go_0) {
 }
 
 
-void _wrap_FontConfig_FontData_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, void *_swig_go_1) {
+void _wrap_FontConfig_FontData_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, void *_swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   void *arg2 = (void *) 0 ;
   
@@ -18638,7 +18638,7 @@ void _wrap_FontConfig_FontData_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go
 }
 
 
-void *_wrap_FontConfig_FontData_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+void *_wrap_FontConfig_FontData_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   void *result = 0 ;
   void *_swig_go_result;
@@ -18651,7 +18651,7 @@ void *_wrap_FontConfig_FontData_get_imgui_792f906bddfc881e(ImFontConfig *_swig_g
 }
 
 
-void _wrap_FontConfig_FontDataSize_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontConfig_FontDataSize_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int arg2 ;
   
@@ -18663,7 +18663,7 @@ void _wrap_FontConfig_FontDataSize_set_imgui_792f906bddfc881e(ImFontConfig *_swi
 }
 
 
-intgo _wrap_FontConfig_FontDataSize_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+intgo _wrap_FontConfig_FontDataSize_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18676,7 +18676,7 @@ intgo _wrap_FontConfig_FontDataSize_get_imgui_792f906bddfc881e(ImFontConfig *_sw
 }
 
 
-void _wrap_FontConfig_FontDataOwnedByAtlas_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, bool _swig_go_1) {
+void _wrap_FontConfig_FontDataOwnedByAtlas_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, bool _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool arg2 ;
   
@@ -18688,7 +18688,7 @@ void _wrap_FontConfig_FontDataOwnedByAtlas_set_imgui_792f906bddfc881e(ImFontConf
 }
 
 
-bool _wrap_FontConfig_FontDataOwnedByAtlas_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+bool _wrap_FontConfig_FontDataOwnedByAtlas_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -18701,7 +18701,7 @@ bool _wrap_FontConfig_FontDataOwnedByAtlas_get_imgui_792f906bddfc881e(ImFontConf
 }
 
 
-void _wrap_FontConfig_FontNo_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontConfig_FontNo_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int arg2 ;
   
@@ -18713,7 +18713,7 @@ void _wrap_FontConfig_FontNo_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0
 }
 
 
-intgo _wrap_FontConfig_FontNo_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+intgo _wrap_FontConfig_FontNo_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18726,7 +18726,7 @@ intgo _wrap_FontConfig_FontNo_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_
 }
 
 
-void _wrap_FontConfig_SizePixels_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, float _swig_go_1) {
+void _wrap_FontConfig_SizePixels_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, float _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   float arg2 ;
   
@@ -18738,7 +18738,7 @@ void _wrap_FontConfig_SizePixels_set_imgui_792f906bddfc881e(ImFontConfig *_swig_
 }
 
 
-float _wrap_FontConfig_SizePixels_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+float _wrap_FontConfig_SizePixels_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   float result;
   float _swig_go_result;
@@ -18751,7 +18751,7 @@ float _wrap_FontConfig_SizePixels_get_imgui_792f906bddfc881e(ImFontConfig *_swig
 }
 
 
-void _wrap_FontConfig_OversampleH_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontConfig_OversampleH_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int arg2 ;
   
@@ -18763,7 +18763,7 @@ void _wrap_FontConfig_OversampleH_set_imgui_792f906bddfc881e(ImFontConfig *_swig
 }
 
 
-intgo _wrap_FontConfig_OversampleH_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+intgo _wrap_FontConfig_OversampleH_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18776,7 +18776,7 @@ intgo _wrap_FontConfig_OversampleH_get_imgui_792f906bddfc881e(ImFontConfig *_swi
 }
 
 
-void _wrap_FontConfig_OversampleV_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontConfig_OversampleV_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, intgo _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int arg2 ;
   
@@ -18788,7 +18788,7 @@ void _wrap_FontConfig_OversampleV_set_imgui_792f906bddfc881e(ImFontConfig *_swig
 }
 
 
-intgo _wrap_FontConfig_OversampleV_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+intgo _wrap_FontConfig_OversampleV_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -18801,7 +18801,7 @@ intgo _wrap_FontConfig_OversampleV_get_imgui_792f906bddfc881e(ImFontConfig *_swi
 }
 
 
-void _wrap_FontConfig_PixelSnapH_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, bool _swig_go_1) {
+void _wrap_FontConfig_PixelSnapH_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, bool _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool arg2 ;
   
@@ -18813,7 +18813,7 @@ void _wrap_FontConfig_PixelSnapH_set_imgui_792f906bddfc881e(ImFontConfig *_swig_
 }
 
 
-bool _wrap_FontConfig_PixelSnapH_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+bool _wrap_FontConfig_PixelSnapH_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -18826,7 +18826,7 @@ bool _wrap_FontConfig_PixelSnapH_get_imgui_792f906bddfc881e(ImFontConfig *_swig_
 }
 
 
-void _wrap_FontConfig_GlyphExtraSpacing_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_FontConfig_GlyphExtraSpacing_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, ImVec2 *_swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -18838,7 +18838,7 @@ void _wrap_FontConfig_GlyphExtraSpacing_set_imgui_792f906bddfc881e(ImFontConfig 
 }
 
 
-ImVec2 *_wrap_FontConfig_GlyphExtraSpacing_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+ImVec2 *_wrap_FontConfig_GlyphExtraSpacing_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -18851,7 +18851,7 @@ ImVec2 *_wrap_FontConfig_GlyphExtraSpacing_get_imgui_792f906bddfc881e(ImFontConf
 }
 
 
-void _wrap_FontConfig_GlyphOffset_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_FontConfig_GlyphOffset_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, ImVec2 *_swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -18863,7 +18863,7 @@ void _wrap_FontConfig_GlyphOffset_set_imgui_792f906bddfc881e(ImFontConfig *_swig
 }
 
 
-ImVec2 *_wrap_FontConfig_GlyphOffset_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+ImVec2 *_wrap_FontConfig_GlyphOffset_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -18876,7 +18876,7 @@ ImVec2 *_wrap_FontConfig_GlyphOffset_get_imgui_792f906bddfc881e(ImFontConfig *_s
 }
 
 
-void _wrap_FontConfig_GlyphRanges_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, short *_swig_go_1) {
+void _wrap_FontConfig_GlyphRanges_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, short *_swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImWchar *arg2 = (ImWchar *) 0 ;
   
@@ -18888,7 +18888,7 @@ void _wrap_FontConfig_GlyphRanges_set_imgui_792f906bddfc881e(ImFontConfig *_swig
 }
 
 
-short *_wrap_FontConfig_GlyphRanges_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+short *_wrap_FontConfig_GlyphRanges_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -18901,7 +18901,7 @@ short *_wrap_FontConfig_GlyphRanges_get_imgui_792f906bddfc881e(ImFontConfig *_sw
 }
 
 
-void _wrap_FontConfig_MergeMode_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, bool _swig_go_1) {
+void _wrap_FontConfig_MergeMode_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, bool _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool arg2 ;
   
@@ -18913,7 +18913,7 @@ void _wrap_FontConfig_MergeMode_set_imgui_792f906bddfc881e(ImFontConfig *_swig_g
 }
 
 
-bool _wrap_FontConfig_MergeMode_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+bool _wrap_FontConfig_MergeMode_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -18926,7 +18926,7 @@ bool _wrap_FontConfig_MergeMode_get_imgui_792f906bddfc881e(ImFontConfig *_swig_g
 }
 
 
-void _wrap_FontConfig_Name_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, _gostring_ _swig_go_1) {
+void _wrap_FontConfig_Name_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, _gostring_ _swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   char *arg2 ;
   
@@ -18950,7 +18950,7 @@ void _wrap_FontConfig_Name_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, 
 }
 
 
-_gostring_ _wrap_FontConfig_Name_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+_gostring_ _wrap_FontConfig_Name_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   char *result = 0 ;
   _gostring_ _swig_go_result;
@@ -18963,7 +18963,7 @@ _gostring_ _wrap_FontConfig_Name_get_imgui_792f906bddfc881e(ImFontConfig *_swig_
 }
 
 
-void _wrap_FontConfig_DstFont_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0, ImFont *_swig_go_1) {
+void _wrap_FontConfig_DstFont_set_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0, ImFont *_swig_go_1) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImFont *arg2 = (ImFont *) 0 ;
   
@@ -18975,7 +18975,7 @@ void _wrap_FontConfig_DstFont_set_imgui_792f906bddfc881e(ImFontConfig *_swig_go_
 }
 
 
-ImFont *_wrap_FontConfig_DstFont_get_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+ImFont *_wrap_FontConfig_DstFont_get_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
@@ -18988,7 +18988,7 @@ ImFont *_wrap_FontConfig_DstFont_get_imgui_792f906bddfc881e(ImFontConfig *_swig_
 }
 
 
-ImFontConfig *_wrap_new_FontConfig_imgui_792f906bddfc881e() {
+ImFontConfig *_wrap_new_FontConfig_imgui_09d88551d48dba44() {
   ImFontConfig *result = 0 ;
   ImFontConfig *_swig_go_result;
   
@@ -18999,7 +18999,7 @@ ImFontConfig *_wrap_new_FontConfig_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_FontConfig_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
+void _wrap_delete_FontConfig_imgui_09d88551d48dba44(ImFontConfig *_swig_go_0) {
   ImFontConfig *arg1 = (ImFontConfig *) 0 ;
   
   arg1 = *(ImFontConfig **)&_swig_go_0; 
@@ -19009,7 +19009,7 @@ void _wrap_delete_FontConfig_imgui_792f906bddfc881e(ImFontConfig *_swig_go_0) {
 }
 
 
-ImFontAtlas *_wrap_new_FontAtlas_imgui_792f906bddfc881e() {
+ImFontAtlas *_wrap_new_FontAtlas_imgui_09d88551d48dba44() {
   ImFontAtlas *result = 0 ;
   ImFontAtlas *_swig_go_result;
   
@@ -19020,7 +19020,7 @@ ImFontAtlas *_wrap_new_FontAtlas_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_FontAtlas_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+void _wrap_delete_FontAtlas_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   
   arg1 = *(ImFontAtlas **)&_swig_go_0; 
@@ -19030,7 +19030,7 @@ void _wrap_delete_FontAtlas_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
 }
 
 
-ImFont *_wrap_FontAtlas_AddFont_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImFontConfig *_swig_go_1) {
+ImFont *_wrap_FontAtlas_AddFont_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImFontConfig *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImFontConfig *arg2 = (ImFontConfig *) 0 ;
   ImFont *result = 0 ;
@@ -19045,7 +19045,7 @@ ImFont *_wrap_FontAtlas_AddFont_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, 
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImFontConfig *_swig_go_1) {
+ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImFontConfig *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImFontConfig *arg2 = (ImFontConfig *) 0 ;
   ImFont *result = 0 ;
@@ -19060,7 +19060,7 @@ ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_0_imgui_792f906bddfc881e(ImFontAtla
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
@@ -19073,7 +19073,7 @@ ImFont *_wrap_FontAtlas_AddFontDefault__SWIG_1_imgui_792f906bddfc881e(ImFontAtla
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3, short *_swig_go_4) {
+ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3, short *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19099,7 +19099,7 @@ ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_0_imgui_792f906bddfc881e(ImFont
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3) {
+ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19123,7 +19123,7 @@ ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_1_imgui_792f906bddfc881e(ImFont
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_2_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
+ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_2_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19145,7 +19145,7 @@ ImFont *_wrap_FontAtlas_AddFontFromFileTTF__SWIG_2_imgui_792f906bddfc881e(ImFont
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4, short *_swig_go_5) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4, short *_swig_go_5) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19168,7 +19168,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_0_imgui_792f906bddfc881e(ImFo
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19189,7 +19189,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_1_imgui_792f906bddfc881e(ImFo
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_2_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_2_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19208,7 +19208,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryTTF__SWIG_2_imgui_792f906bddfc881e(ImFo
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4, short *_swig_go_5) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4, short *_swig_go_5) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19231,7 +19231,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_0_imgui_792f906bddf
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3, ImFontConfig *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19252,7 +19252,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_1_imgui_792f906bddf
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_2_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_2_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, void *_swig_go_1, intgo _swig_go_2, float _swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   void *arg2 = (void *) 0 ;
   int arg3 ;
@@ -19271,7 +19271,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedTTF__SWIG_2_imgui_792f906bddf
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3, short *_swig_go_4) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3, short *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19297,7 +19297,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_0_imgui_792f9
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2, ImFontConfig *_swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19321,7 +19321,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_1_imgui_792f9
 }
 
 
-ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_2_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
+ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_2_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, _gostring_ _swig_go_1, float _swig_go_2) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   char *arg2 = (char *) 0 ;
   float arg3 ;
@@ -19343,7 +19343,7 @@ ImFont *_wrap_FontAtlas_AddFontFromMemoryCompressedBase85TTF__SWIG_2_imgui_792f9
 }
 
 
-void _wrap_FontAtlas_ClearTexData_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+void _wrap_FontAtlas_ClearTexData_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   
   arg1 = *(ImFontAtlas **)&_swig_go_0; 
@@ -19353,7 +19353,7 @@ void _wrap_FontAtlas_ClearTexData_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0
 }
 
 
-void _wrap_FontAtlas_ClearInputData_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+void _wrap_FontAtlas_ClearInputData_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   
   arg1 = *(ImFontAtlas **)&_swig_go_0; 
@@ -19363,7 +19363,7 @@ void _wrap_FontAtlas_ClearInputData_imgui_792f906bddfc881e(ImFontAtlas *_swig_go
 }
 
 
-void _wrap_FontAtlas_ClearFonts_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+void _wrap_FontAtlas_ClearFonts_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   
   arg1 = *(ImFontAtlas **)&_swig_go_0; 
@@ -19373,7 +19373,7 @@ void _wrap_FontAtlas_ClearFonts_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) 
 }
 
 
-void _wrap_FontAtlas_Clear_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+void _wrap_FontAtlas_Clear_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   
   arg1 = *(ImFontAtlas **)&_swig_go_0; 
@@ -19383,7 +19383,7 @@ void _wrap_FontAtlas_Clear_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
 }
 
 
-void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char **arg2 = (unsigned char **) 0 ;
   int *arg3 = (int *) 0 ;
@@ -19401,7 +19401,7 @@ void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_0_imgui_792f906bddfc881e(ImFontAtl
 }
 
 
-void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char **arg2 = (unsigned char **) 0 ;
   int *arg3 = (int *) 0 ;
@@ -19417,7 +19417,7 @@ void _wrap_FontAtlas_GetTexDataAsAlpha8__SWIG_1_imgui_792f906bddfc881e(ImFontAtl
 }
 
 
-void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_0_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
+void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_0_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3, intgo *_swig_go_4) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char **arg2 = (unsigned char **) 0 ;
   int *arg3 = (int *) 0 ;
@@ -19435,7 +19435,7 @@ void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_0_imgui_792f906bddfc881e(ImFontAtl
 }
 
 
-void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_1_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
+void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_1_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, char **_swig_go_1, intgo *_swig_go_2, intgo *_swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char **arg2 = (unsigned char **) 0 ;
   int *arg3 = (int *) 0 ;
@@ -19451,7 +19451,7 @@ void _wrap_FontAtlas_GetTexDataAsRGBA32__SWIG_1_imgui_792f906bddfc881e(ImFontAtl
 }
 
 
-void _wrap_FontAtlas_SetTexID__imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImTextureID _swig_go_1) {
+void _wrap_FontAtlas_SetTexID__imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImTextureID _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   
@@ -19463,7 +19463,7 @@ void _wrap_FontAtlas_SetTexID__imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, I
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesDefault_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesDefault_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19476,7 +19476,7 @@ short *_wrap_FontAtlas_GetGlyphRangesDefault_imgui_792f906bddfc881e(ImFontAtlas 
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesKorean_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesKorean_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19489,7 +19489,7 @@ short *_wrap_FontAtlas_GetGlyphRangesKorean_imgui_792f906bddfc881e(ImFontAtlas *
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesJapanese_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesJapanese_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19502,7 +19502,7 @@ short *_wrap_FontAtlas_GetGlyphRangesJapanese_imgui_792f906bddfc881e(ImFontAtlas
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesChinese_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesChinese_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19515,7 +19515,7 @@ short *_wrap_FontAtlas_GetGlyphRangesChinese_imgui_792f906bddfc881e(ImFontAtlas 
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesCyrillic_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesCyrillic_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19528,7 +19528,7 @@ short *_wrap_FontAtlas_GetGlyphRangesCyrillic_imgui_792f906bddfc881e(ImFontAtlas
 }
 
 
-short *_wrap_FontAtlas_GetGlyphRangesThai_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+short *_wrap_FontAtlas_GetGlyphRangesThai_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImWchar *result = 0 ;
   short *_swig_go_result;
@@ -19541,7 +19541,7 @@ short *_wrap_FontAtlas_GetGlyphRangesThai_imgui_792f906bddfc881e(ImFontAtlas *_s
 }
 
 
-void _wrap_FontAtlas_TexID_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImTextureID _swig_go_1) {
+void _wrap_FontAtlas_TexID_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImTextureID _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImTextureID arg2 = (ImTextureID) 0 ;
   
@@ -19553,7 +19553,7 @@ void _wrap_FontAtlas_TexID_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, I
 }
 
 
-ImTextureID _wrap_FontAtlas_TexID_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImTextureID _wrap_FontAtlas_TexID_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImTextureID result;
   ImTextureID _swig_go_result;
@@ -19566,7 +19566,7 @@ ImTextureID _wrap_FontAtlas_TexID_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_
 }
 
 
-void _wrap_FontAtlas_TexPixelsAlpha8_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, char *_swig_go_1) {
+void _wrap_FontAtlas_TexPixelsAlpha8_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, char *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char *arg2 = (unsigned char *) 0 ;
   
@@ -19578,7 +19578,7 @@ void _wrap_FontAtlas_TexPixelsAlpha8_set_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-char *_wrap_FontAtlas_TexPixelsAlpha8_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+char *_wrap_FontAtlas_TexPixelsAlpha8_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned char *result = 0 ;
   char *_swig_go_result;
@@ -19591,7 +19591,7 @@ char *_wrap_FontAtlas_TexPixelsAlpha8_get_imgui_792f906bddfc881e(ImFontAtlas *_s
 }
 
 
-void _wrap_FontAtlas_TexPixelsRGBA32_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo *_swig_go_1) {
+void _wrap_FontAtlas_TexPixelsRGBA32_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned int *arg2 = (unsigned int *) 0 ;
   
@@ -19603,7 +19603,7 @@ void _wrap_FontAtlas_TexPixelsRGBA32_set_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-intgo *_wrap_FontAtlas_TexPixelsRGBA32_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+intgo *_wrap_FontAtlas_TexPixelsRGBA32_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned int *result = 0 ;
   intgo *_swig_go_result;
@@ -19616,7 +19616,7 @@ intgo *_wrap_FontAtlas_TexPixelsRGBA32_get_imgui_792f906bddfc881e(ImFontAtlas *_
 }
 
 
-void _wrap_FontAtlas_TexWidth_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontAtlas_TexWidth_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int arg2 ;
   
@@ -19628,7 +19628,7 @@ void _wrap_FontAtlas_TexWidth_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0
 }
 
 
-intgo _wrap_FontAtlas_TexWidth_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+intgo _wrap_FontAtlas_TexWidth_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -19641,7 +19641,7 @@ intgo _wrap_FontAtlas_TexWidth_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_
 }
 
 
-void _wrap_FontAtlas_TexHeight_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontAtlas_TexHeight_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int arg2 ;
   
@@ -19653,7 +19653,7 @@ void _wrap_FontAtlas_TexHeight_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_
 }
 
 
-intgo _wrap_FontAtlas_TexHeight_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+intgo _wrap_FontAtlas_TexHeight_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -19666,7 +19666,7 @@ intgo _wrap_FontAtlas_TexHeight_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go
 }
 
 
-void _wrap_FontAtlas_TexDesiredWidth_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontAtlas_TexDesiredWidth_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int arg2 ;
   
@@ -19678,7 +19678,7 @@ void _wrap_FontAtlas_TexDesiredWidth_set_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-intgo _wrap_FontAtlas_TexDesiredWidth_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+intgo _wrap_FontAtlas_TexDesiredWidth_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -19691,7 +19691,7 @@ intgo _wrap_FontAtlas_TexDesiredWidth_get_imgui_792f906bddfc881e(ImFontAtlas *_s
 }
 
 
-void _wrap_FontAtlas_TexGlyphPadding_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
+void _wrap_FontAtlas_TexGlyphPadding_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo _swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int arg2 ;
   
@@ -19703,7 +19703,7 @@ void _wrap_FontAtlas_TexGlyphPadding_set_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-intgo _wrap_FontAtlas_TexGlyphPadding_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+intgo _wrap_FontAtlas_TexGlyphPadding_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -19716,7 +19716,7 @@ intgo _wrap_FontAtlas_TexGlyphPadding_get_imgui_792f906bddfc881e(ImFontAtlas *_s
 }
 
 
-void _wrap_FontAtlas_TexUvWhitePixel_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_FontAtlas_TexUvWhitePixel_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImVec2 *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -19728,7 +19728,7 @@ void _wrap_FontAtlas_TexUvWhitePixel_set_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-ImVec2 *_wrap_FontAtlas_TexUvWhitePixel_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImVec2 *_wrap_FontAtlas_TexUvWhitePixel_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -19741,7 +19741,7 @@ ImVec2 *_wrap_FontAtlas_TexUvWhitePixel_get_imgui_792f906bddfc881e(ImFontAtlas *
 }
 
 
-void _wrap_FontAtlas_Fonts_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImVector< ImFont * > *_swig_go_1) {
+void _wrap_FontAtlas_Fonts_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImVector< ImFont * > *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFont * > *arg2 = (ImVector< ImFont * > *) 0 ;
   
@@ -19753,7 +19753,7 @@ void _wrap_FontAtlas_Fonts_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, I
 }
 
 
-ImVector< ImFont * > *_wrap_FontAtlas_Fonts_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImVector< ImFont * > *_wrap_FontAtlas_Fonts_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFont * > *result = 0 ;
   ImVector< ImFont * > *_swig_go_result;
@@ -19766,7 +19766,7 @@ ImVector< ImFont * > *_wrap_FontAtlas_Fonts_get_imgui_792f906bddfc881e(ImFontAtl
 }
 
 
-void _wrap_FontAtlas_CustomRects_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImVector< ImFontAtlas::CustomRect > *_swig_go_1) {
+void _wrap_FontAtlas_CustomRects_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImVector< ImFontAtlas::CustomRect > *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFontAtlas::CustomRect > *arg2 = (ImVector< ImFontAtlas::CustomRect > *) 0 ;
   
@@ -19778,7 +19778,7 @@ void _wrap_FontAtlas_CustomRects_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_g
 }
 
 
-ImVector< ImFontAtlas::CustomRect > *_wrap_FontAtlas_CustomRects_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImVector< ImFontAtlas::CustomRect > *_wrap_FontAtlas_CustomRects_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFontAtlas::CustomRect > *result = 0 ;
   ImVector< ImFontAtlas::CustomRect > *_swig_go_result;
@@ -19791,7 +19791,7 @@ ImVector< ImFontAtlas::CustomRect > *_wrap_FontAtlas_CustomRects_get_imgui_792f9
 }
 
 
-void _wrap_FontAtlas_ConfigData_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImVector< ImFontConfig > *_swig_go_1) {
+void _wrap_FontAtlas_ConfigData_set_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImVector< ImFontConfig > *_swig_go_1) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFontConfig > *arg2 = (ImVector< ImFontConfig > *) 0 ;
   
@@ -19803,7 +19803,7 @@ void _wrap_FontAtlas_ConfigData_set_imgui_792f906bddfc881e(ImFontAtlas *_swig_go
 }
 
 
-ImVector< ImFontConfig > *_wrap_FontAtlas_ConfigData_get_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+ImVector< ImFontConfig > *_wrap_FontAtlas_ConfigData_get_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImVector< ImFontConfig > *result = 0 ;
   ImVector< ImFontConfig > *_swig_go_result;
@@ -19816,7 +19816,7 @@ ImVector< ImFontConfig > *_wrap_FontAtlas_ConfigData_get_imgui_792f906bddfc881e(
 }
 
 
-bool _wrap_FontAtlas_Build_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
+bool _wrap_FontAtlas_Build_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -19829,7 +19829,7 @@ bool _wrap_FontAtlas_Build_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0) {
 }
 
 
-intgo _wrap_FontAtlas_CustomRectRegister_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
+intgo _wrap_FontAtlas_CustomRectRegister_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, intgo _swig_go_1, intgo _swig_go_2, intgo _swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   unsigned int arg2 ;
   int arg3 ;
@@ -19848,7 +19848,7 @@ intgo _wrap_FontAtlas_CustomRectRegister_imgui_792f906bddfc881e(ImFontAtlas *_sw
 }
 
 
-void _wrap_FontAtlas_CustomRectCalcUV_imgui_792f906bddfc881e(ImFontAtlas *_swig_go_0, ImFontAtlas::CustomRect *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
+void _wrap_FontAtlas_CustomRectCalcUV_imgui_09d88551d48dba44(ImFontAtlas *_swig_go_0, ImFontAtlas::CustomRect *_swig_go_1, ImVec2 *_swig_go_2, ImVec2 *_swig_go_3) {
   ImFontAtlas *arg1 = (ImFontAtlas *) 0 ;
   ImFontAtlas::CustomRect *arg2 = (ImFontAtlas::CustomRect *) 0 ;
   ImVec2 *arg3 = (ImVec2 *) 0 ;
@@ -19864,7 +19864,7 @@ void _wrap_FontAtlas_CustomRectCalcUV_imgui_792f906bddfc881e(ImFontAtlas *_swig_
 }
 
 
-void _wrap_Font_FontSize_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1) {
+void _wrap_Font_FontSize_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   
@@ -19876,7 +19876,7 @@ void _wrap_Font_FontSize_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _s
 }
 
 
-float _wrap_Font_FontSize_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+float _wrap_Font_FontSize_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   float result;
   float _swig_go_result;
@@ -19889,7 +19889,7 @@ float _wrap_Font_FontSize_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_Scale_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1) {
+void _wrap_Font_Scale_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   
@@ -19901,7 +19901,7 @@ void _wrap_Font_Scale_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig
 }
 
 
-float _wrap_Font_Scale_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+float _wrap_Font_Scale_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   float result;
   float _swig_go_result;
@@ -19914,7 +19914,7 @@ float _wrap_Font_Scale_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_DisplayOffset_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVec2 *_swig_go_1) {
+void _wrap_Font_DisplayOffset_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImVec2 *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVec2 *arg2 = (ImVec2 *) 0 ;
   
@@ -19926,7 +19926,7 @@ void _wrap_Font_DisplayOffset_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImV
 }
 
 
-ImVec2 *_wrap_Font_DisplayOffset_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImVec2 *_wrap_Font_DisplayOffset_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVec2 *result = 0 ;
   ImVec2 *_swig_go_result;
@@ -19939,7 +19939,7 @@ ImVec2 *_wrap_Font_DisplayOffset_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) 
 }
 
 
-void _wrap_Font_Glyphs_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVector< ImFont::Glyph > *_swig_go_1) {
+void _wrap_Font_Glyphs_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImVector< ImFont::Glyph > *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< ImFont::Glyph > *arg2 = (ImVector< ImFont::Glyph > *) 0 ;
   
@@ -19951,7 +19951,7 @@ void _wrap_Font_Glyphs_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVector< 
 }
 
 
-ImVector< ImFont::Glyph > *_wrap_Font_Glyphs_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImVector< ImFont::Glyph > *_wrap_Font_Glyphs_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< ImFont::Glyph > *result = 0 ;
   ImVector< ImFont::Glyph > *_swig_go_result;
@@ -19964,7 +19964,7 @@ ImVector< ImFont::Glyph > *_wrap_Font_Glyphs_get_imgui_792f906bddfc881e(ImFont *
 }
 
 
-void _wrap_Font_IndexXAdvance_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVector< float > *_swig_go_1) {
+void _wrap_Font_IndexXAdvance_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImVector< float > *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< float > *arg2 = (ImVector< float > *) 0 ;
   
@@ -19976,7 +19976,7 @@ void _wrap_Font_IndexXAdvance_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImV
 }
 
 
-ImVector< float > *_wrap_Font_IndexXAdvance_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImVector< float > *_wrap_Font_IndexXAdvance_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< float > *result = 0 ;
   ImVector< float > *_swig_go_result;
@@ -19989,7 +19989,7 @@ ImVector< float > *_wrap_Font_IndexXAdvance_get_imgui_792f906bddfc881e(ImFont *_
 }
 
 
-void _wrap_Font_IndexLookup_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
+void _wrap_Font_IndexLookup_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImVector< unsigned short > *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< unsigned short > *arg2 = (ImVector< unsigned short > *) 0 ;
   
@@ -20001,7 +20001,7 @@ void _wrap_Font_IndexLookup_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImVec
 }
 
 
-ImVector< unsigned short > *_wrap_Font_IndexLookup_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImVector< unsigned short > *_wrap_Font_IndexLookup_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImVector< unsigned short > *result = 0 ;
   ImVector< unsigned short > *_swig_go_result;
@@ -20014,7 +20014,7 @@ ImVector< unsigned short > *_wrap_Font_IndexLookup_get_imgui_792f906bddfc881e(Im
 }
 
 
-void _wrap_Font_FallbackGlyph_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImFont::Glyph *_swig_go_1) {
+void _wrap_Font_FallbackGlyph_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImFont::Glyph *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFont::Glyph *arg2 = (ImFont::Glyph *) 0 ;
   
@@ -20026,7 +20026,7 @@ void _wrap_Font_FallbackGlyph_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImF
 }
 
 
-ImFont::Glyph *_wrap_Font_FallbackGlyph_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImFont::Glyph *_wrap_Font_FallbackGlyph_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFont::Glyph *result = 0 ;
   ImFont::Glyph *_swig_go_result;
@@ -20039,7 +20039,7 @@ ImFont::Glyph *_wrap_Font_FallbackGlyph_get_imgui_792f906bddfc881e(ImFont *_swig
 }
 
 
-void _wrap_Font_FallbackXAdvance_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1) {
+void _wrap_Font_FallbackXAdvance_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   
@@ -20051,7 +20051,7 @@ void _wrap_Font_FallbackXAdvance_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, 
 }
 
 
-float _wrap_Font_FallbackXAdvance_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+float _wrap_Font_FallbackXAdvance_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   float result;
   float _swig_go_result;
@@ -20064,7 +20064,7 @@ float _wrap_Font_FallbackXAdvance_get_imgui_792f906bddfc881e(ImFont *_swig_go_0)
 }
 
 
-void _wrap_Font_FallbackChar_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1) {
+void _wrap_Font_FallbackChar_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   
@@ -20076,7 +20076,7 @@ void _wrap_Font_FallbackChar_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, shor
 }
 
 
-short _wrap_Font_FallbackChar_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+short _wrap_Font_FallbackChar_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar result;
   short _swig_go_result;
@@ -20089,7 +20089,7 @@ short _wrap_Font_FallbackChar_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_ConfigDataCount_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1) {
+void _wrap_Font_ConfigDataCount_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   short arg2 ;
   
@@ -20101,7 +20101,7 @@ void _wrap_Font_ConfigDataCount_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, s
 }
 
 
-short _wrap_Font_ConfigDataCount_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+short _wrap_Font_ConfigDataCount_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   short result;
   short _swig_go_result;
@@ -20114,7 +20114,7 @@ short _wrap_Font_ConfigDataCount_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) 
 }
 
 
-void _wrap_Font_ConfigData_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImFontConfig *_swig_go_1) {
+void _wrap_Font_ConfigData_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImFontConfig *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFontConfig *arg2 = (ImFontConfig *) 0 ;
   
@@ -20126,7 +20126,7 @@ void _wrap_Font_ConfigData_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImFont
 }
 
 
-ImFontConfig *_wrap_Font_ConfigData_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImFontConfig *_wrap_Font_ConfigData_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFontConfig *result = 0 ;
   ImFontConfig *_swig_go_result;
@@ -20139,7 +20139,7 @@ ImFontConfig *_wrap_Font_ConfigData_get_imgui_792f906bddfc881e(ImFont *_swig_go_
 }
 
 
-void _wrap_Font_ContainerAtlas_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImFontAtlas *_swig_go_1) {
+void _wrap_Font_ContainerAtlas_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImFontAtlas *_swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFontAtlas *arg2 = (ImFontAtlas *) 0 ;
   
@@ -20151,7 +20151,7 @@ void _wrap_Font_ContainerAtlas_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, Im
 }
 
 
-ImFontAtlas *_wrap_Font_ContainerAtlas_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+ImFontAtlas *_wrap_Font_ContainerAtlas_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImFontAtlas *result = 0 ;
   ImFontAtlas *_swig_go_result;
@@ -20164,7 +20164,7 @@ ImFontAtlas *_wrap_Font_ContainerAtlas_get_imgui_792f906bddfc881e(ImFont *_swig_
 }
 
 
-void _wrap_Font_Ascent_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1) {
+void _wrap_Font_Ascent_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   
@@ -20176,7 +20176,7 @@ void _wrap_Font_Ascent_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swi
 }
 
 
-float _wrap_Font_Ascent_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+float _wrap_Font_Ascent_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   float result;
   float _swig_go_result;
@@ -20189,7 +20189,7 @@ float _wrap_Font_Ascent_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_Descent_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1) {
+void _wrap_Font_Descent_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   
@@ -20201,7 +20201,7 @@ void _wrap_Font_Descent_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _sw
 }
 
 
-float _wrap_Font_Descent_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+float _wrap_Font_Descent_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   float result;
   float _swig_go_result;
@@ -20214,7 +20214,7 @@ float _wrap_Font_Descent_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_MetricsTotalSurface_set_imgui_792f906bddfc881e(ImFont *_swig_go_0, intgo _swig_go_1) {
+void _wrap_Font_MetricsTotalSurface_set_imgui_09d88551d48dba44(ImFont *_swig_go_0, intgo _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   int arg2 ;
   
@@ -20226,7 +20226,7 @@ void _wrap_Font_MetricsTotalSurface_set_imgui_792f906bddfc881e(ImFont *_swig_go_
 }
 
 
-intgo _wrap_Font_MetricsTotalSurface_get_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+intgo _wrap_Font_MetricsTotalSurface_get_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   int result;
   intgo _swig_go_result;
@@ -20239,7 +20239,7 @@ intgo _wrap_Font_MetricsTotalSurface_get_imgui_792f906bddfc881e(ImFont *_swig_go
 }
 
 
-ImFont *_wrap_new_Font_imgui_792f906bddfc881e() {
+ImFont *_wrap_new_Font_imgui_09d88551d48dba44() {
   ImFont *result = 0 ;
   ImFont *_swig_go_result;
   
@@ -20250,7 +20250,7 @@ ImFont *_wrap_new_Font_imgui_792f906bddfc881e() {
 }
 
 
-void _wrap_delete_Font_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+void _wrap_delete_Font_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   
   arg1 = *(ImFont **)&_swig_go_0; 
@@ -20260,7 +20260,7 @@ void _wrap_delete_Font_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_Clear_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+void _wrap_Font_Clear_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   
   arg1 = *(ImFont **)&_swig_go_0; 
@@ -20270,7 +20270,7 @@ void _wrap_Font_Clear_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-void _wrap_Font_BuildLookupTable_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+void _wrap_Font_BuildLookupTable_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   
   arg1 = *(ImFont **)&_swig_go_0; 
@@ -20280,7 +20280,7 @@ void _wrap_Font_BuildLookupTable_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-ImFont::Glyph *_wrap_Font_FindGlyph_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1) {
+ImFont::Glyph *_wrap_Font_FindGlyph_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   ImFont::Glyph *result = 0 ;
@@ -20295,7 +20295,7 @@ ImFont::Glyph *_wrap_Font_FindGlyph_imgui_792f906bddfc881e(ImFont *_swig_go_0, s
 }
 
 
-void _wrap_Font_SetFallbackChar__imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1) {
+void _wrap_Font_SetFallbackChar__imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   
@@ -20307,7 +20307,7 @@ void _wrap_Font_SetFallbackChar__imgui_792f906bddfc881e(ImFont *_swig_go_0, shor
 }
 
 
-float _wrap_Font_GetCharAdvance_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1) {
+float _wrap_Font_GetCharAdvance_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   float result;
@@ -20322,7 +20322,7 @@ float _wrap_Font_GetCharAdvance_imgui_792f906bddfc881e(ImFont *_swig_go_0, short
 }
 
 
-bool _wrap_Font_IsLoaded_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
+bool _wrap_Font_IsLoaded_imgui_09d88551d48dba44(ImFont *_swig_go_0) {
   ImFont *arg1 = (ImFont *) 0 ;
   bool result;
   bool _swig_go_result;
@@ -20335,7 +20335,7 @@ bool _wrap_Font_IsLoaded_imgui_792f906bddfc881e(ImFont *_swig_go_0) {
 }
 
 
-ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, _gostring_ _swig_go_5, _gostring_* _swig_go_6) {
+ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_0_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, _gostring_ _swig_go_5, _gostring_* _swig_go_6) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -20370,7 +20370,7 @@ ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go
 }
 
 
-ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_1_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, _gostring_ _swig_go_5) {
+ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_1_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4, _gostring_ _swig_go_5) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -20403,7 +20403,7 @@ ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_1_imgui_792f906bddfc881e(ImFont *_swig_go
 }
 
 
-ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_2_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
+ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_2_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1, float _swig_go_2, float _swig_go_3, _gostring_ _swig_go_4) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   float arg3 ;
@@ -20429,7 +20429,7 @@ ImVec2 *_wrap_Font_CalcTextSizeA__SWIG_2_imgui_792f906bddfc881e(ImFont *_swig_go
 }
 
 
-_gostring_ _wrap_Font_CalcWordWrapPositionA_imgui_792f906bddfc881e(ImFont *_swig_go_0, float _swig_go_1, _gostring_ _swig_go_2, _gostring_ _swig_go_3, float _swig_go_4) {
+_gostring_ _wrap_Font_CalcWordWrapPositionA_imgui_09d88551d48dba44(ImFont *_swig_go_0, float _swig_go_1, _gostring_ _swig_go_2, _gostring_ _swig_go_3, float _swig_go_4) {
   ImFont *arg1 = (ImFont *) 0 ;
   float arg2 ;
   char *arg3 = (char *) 0 ;
@@ -20460,7 +20460,7 @@ _gostring_ _wrap_Font_CalcWordWrapPositionA_imgui_792f906bddfc881e(ImFont *_swig
 }
 
 
-void _wrap_Font_RenderChar_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, short _swig_go_5) {
+void _wrap_Font_RenderChar_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, short _swig_go_5) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImDrawList *arg2 = (ImDrawList *) 0 ;
   float arg3 ;
@@ -20487,7 +20487,7 @@ void _wrap_Font_RenderChar_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImDrawList
 }
 
 
-void _wrap_Font_RenderText__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8, bool _swig_go_9) {
+void _wrap_Font_RenderText__SWIG_0_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8, bool _swig_go_9) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImDrawList *arg2 = (ImDrawList *) 0 ;
   float arg3 ;
@@ -20532,7 +20532,7 @@ void _wrap_Font_RenderText__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go_0, Im
 }
 
 
-void _wrap_Font_RenderText__SWIG_1_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8) {
+void _wrap_Font_RenderText__SWIG_1_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7, float _swig_go_8) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImDrawList *arg2 = (ImDrawList *) 0 ;
   float arg3 ;
@@ -20575,7 +20575,7 @@ void _wrap_Font_RenderText__SWIG_1_imgui_792f906bddfc881e(ImFont *_swig_go_0, Im
 }
 
 
-void _wrap_Font_RenderText__SWIG_2_imgui_792f906bddfc881e(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
+void _wrap_Font_RenderText__SWIG_2_imgui_09d88551d48dba44(ImFont *_swig_go_0, ImDrawList *_swig_go_1, float _swig_go_2, ImVec2 *_swig_go_3, intgo _swig_go_4, ImVec4 *_swig_go_5, _gostring_ _swig_go_6, _gostring_ _swig_go_7) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImDrawList *arg2 = (ImDrawList *) 0 ;
   float arg3 ;
@@ -20616,7 +20616,7 @@ void _wrap_Font_RenderText__SWIG_2_imgui_792f906bddfc881e(ImFont *_swig_go_0, Im
 }
 
 
-void _wrap_Font_GrowIndex_imgui_792f906bddfc881e(ImFont *_swig_go_0, intgo _swig_go_1) {
+void _wrap_Font_GrowIndex_imgui_09d88551d48dba44(ImFont *_swig_go_0, intgo _swig_go_1) {
   ImFont *arg1 = (ImFont *) 0 ;
   int arg2 ;
   
@@ -20628,7 +20628,7 @@ void _wrap_Font_GrowIndex_imgui_792f906bddfc881e(ImFont *_swig_go_0, intgo _swig
 }
 
 
-void _wrap_Font_AddRemapChar__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1, short _swig_go_2, bool _swig_go_3) {
+void _wrap_Font_AddRemapChar__SWIG_0_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1, short _swig_go_2, bool _swig_go_3) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   ImWchar arg3 ;
@@ -20644,7 +20644,7 @@ void _wrap_Font_AddRemapChar__SWIG_0_imgui_792f906bddfc881e(ImFont *_swig_go_0, 
 }
 
 
-void _wrap_Font_AddRemapChar__SWIG_1_imgui_792f906bddfc881e(ImFont *_swig_go_0, short _swig_go_1, short _swig_go_2) {
+void _wrap_Font_AddRemapChar__SWIG_1_imgui_09d88551d48dba44(ImFont *_swig_go_0, short _swig_go_1, short _swig_go_2) {
   ImFont *arg1 = (ImFont *) 0 ;
   ImWchar arg2 ;
   ImWchar arg3 ;
