@@ -7,7 +7,7 @@ These bindings are generated with SWIG.
 # Installation
 Run this command to update or install the library:
 ```
-go get -u https://github.com/armored-dragon/go-imgui
+go get -u github.com/armored-dragon/go-imgui
 ```
 
 # Usage
