@@ -69,7 +69,7 @@ func RenderDrawLists(drawData *imgui.DrawData) {
 	if fbWidth == 0 || fbHeight == 0 {
 		return
 	}
-	drawData.ScaleClipRects(io.GetDisplayFramebufferScale())
+	(*drawData).ScaleClipRects(io.GetDisplayFramebufferScale())
 
 	oldActiveTexture := getIntegerv(gl.ACTIVE_TEXTURE)
 	gl.ActiveTexture(gl.TEXTURE0)
@@ -110,7 +110,11 @@ func RenderDrawLists(drawData *imgui.DrawData) {
 	gl.UniformMatrix4fv(attribLocationProjMtx, 1, false, &orthoProjection[0][0])
 	gl.BindVertexArray(vaoHandle)
 
-	for _, cmdList := range drawData.GetCmdLists() {
-		// TODO: implement the rest
+	for _, cmdList := range (*drawData).GetCmdLists() {
+		idxBufferOffset := 0
+
+		gl.BindBuffer(gl.ARRAY_BUFFER, vboHandle)
+		gl.BufferData(gl.ARRAY_BUFFER, cmdList.GetVtxBuffer().GetSize() /* * sizeof(??)*/)
+		// TODO: finish this...?
 	}
 }
