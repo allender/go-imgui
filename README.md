@@ -35,4 +35,9 @@ To generate the bindings with SWIG, this command is used:
 swig -go -cgo -c++ -intgosize 32 imgui.i
 ```
 
+Full generate-and-build command (for convenience):
+```
+swig -go -cgo -c++ -intgosize 32 imgui.i && bash patch.sh && go install -x
+```
+
 **Note**: The result will not compile unless `patch.sh` is run. This is because SWIG fails to recognize a case of function overload ambiguity and the resulting call fails to compile.
