@@ -1,7 +1,7 @@
-package imgui_sdl
+package imgui_sdl_gl3
 
 import (
-	"github.com/armored-dragon/go-imgui"
+	"github.com/allender/go-imgui"
 	"github.com/go-gl/gl/v3.2-core/gl"
 	"github.com/veandco/go-sdl2/sdl"
 )
